@@ -1,0 +1,5 @@
+# postBuild
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
+jupyter serverextension enable --py jupyterlab_widgets
+chmod +x postBuild
