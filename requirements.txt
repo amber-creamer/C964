@@ -1,7 +1,7 @@
 pandas
 numpy
-ipywidgets==7.6.5
-widgetsnbextension==3.5.2
-jupyterlab_widgets==1.0.2
+ipywidgets
+widgetsnbextension
+jupyterlab_widgets
 seaborn
 scikit-learn
