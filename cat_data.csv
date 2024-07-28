@@ -1,0 +1,2803 @@
+Name,Age Group,Coat Color,Gender,Extraversion,Dominance,Impulsiveness,Agreeableness,Neuroticism,Adopted,Weighted Score,Adoption Probability
+Austin,Senior,Gray,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Minerva,Senior,Fawn,Female,3,4,4,4,4,No,0.8000000000000002,33.33
+Latte,Kitten,Red,Male,5,5,4,4,4,Yes,1.4,50.0
+Smudge,Senior,Red Tabby,Male,4,5,3,3,4,No,0.7999999999999999,33.33
+Neil,Senior,Chocolate,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Natasha,Young Adult,Chocolate and White,Female,4,4,4,4,3,No,1.3,47.22
+Romeo,Senior,Cream,Male,4,6,4,4,4,No,0.7999999999999997,33.33
+Oliver,Senior,Cream Tabby,Male,5,4,4,4,6,Yes,1.4,50.0
+Sushi,Mature Adult,Chocolate,Male,3,4,3,3,3,No,0.7,30.56
+Buttercup,Young Adult,Chocolate Tabby,Female,4,3,3,4,5,Yes,1.4,50.0
+Charlie,Young Adult,Chocolate and White,Male,4,3,5,5,3,Yes,1.7,58.33
+Cash,Kitten,Red Tabby,Male,3,5,3,4,3,No,0.8,33.33
+Nibbler,Mature Adult,Gray Tabby,Male,5,4,5,5,2,Yes,2.0,66.67
+Furman,Kitten,Black and White,Male,4,3,4,4,4,Yes,1.4,50.0
+Libby,Young Adult,Orange and White,Female,5,3,5,5,2,Yes,2.1999999999999997,72.22
+Norbert,Mature Adult,Chocolate,Male,5,4,4,6,2,Yes,2.3999999999999995,77.78
+Avery,Young Adult,Gray and White Tabby,Female,4,5,3,3,5,No,0.7,30.56
+Gilly,Young Adult,Calico,Female,4,5,5,5,4,No,1.2000000000000002,44.44
+Dora,Mature Adult,Orange and White,Female,4,4,4,4,3,No,1.3,47.22
+Binx,Young Adult,Red Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+Blossom,Senior,Tortoiseshell,Female,4,4,4,4,3,No,1.3,47.22
+Anders,Kitten,White,Male,5,4,4,5,5,Yes,1.7999999999999998,61.11
+Marshmallow,Senior,Gray and White,Female,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Agatha,Kitten,Orange,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Gypsy,Senior,Lilac,Female,5,3,4,5,3,Yes,2.2,72.22
+Snickers,Young Adult,Dilute Calico,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Anna,Young Adult,Chocolate,Female,5,3,4,4,3,Yes,1.8999999999999997,63.89
+Cleo,Senior,Black,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Lilo,Senior,Chocolate,Female,4,3,3,4,5,Yes,1.4,50.0
+Jinxy,Senior,Dilute Calico,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+George,Young Adult,Gray Tabby,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Latte,Kitten,Black and White,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Felicity,Young Adult,Gray Tabby,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Luna,Mature Adult,Dilute Calico,Female,5,4,6,5,4,Yes,1.6999999999999997,58.33
+Snickers,Kitten,Lilac Tortoiseshell,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Adolin,Mature Adult,Cream,Male,4,4,4,4,5,No,1.1,41.67
+Penny,Kitten,Black,Female,5,3,4,5,3,Yes,2.2,72.22
+Bilbo,Kitten,Gray and White Tabby,Male,5,6,4,5,4,Yes,1.5,52.78
+Bilbo,Mature Adult,Gray,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Austin,Mature Adult,Gray Tabby,Male,5,3,6,5,3,Yes,1.9999999999999998,66.67
+Anders,Mature Adult,Gray Tabby,Male,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Garrus,Kitten,White,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Liara,Kitten,Dilute Calico,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Rogue,Senior,Chocolate,Female,4,3,3,5,2,Yes,2.0,66.67
+Olive,Mature Adult,Orange and White,Female,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Kiwi,Senior,Dilute Torbie,Female,5,4,3,5,4,Yes,2.0,66.67
+Luna,Young Adult,Orange and White,Female,4,3,3,5,2,Yes,2.0,66.67
+Anders,Young Adult,Chocolate Tabby,Male,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Ivy,Mature Adult,Silver Tabby,Female,4,4,3,4,5,No,1.2,44.44
+Portia,Young Adult,Dilute Tortoiseshell,Female,4,5,2,5,3,Yes,1.6,55.56
+Tiger,Senior,Orange,Male,4,4,4,3,4,No,0.8999999999999998,36.11
+Evie,Young Adult,Chocolate Tabby,Female,5,3,3,5,2,Yes,2.3999999999999995,77.78
+August,Kitten,Gray,Male,4,3,4,5,3,Yes,1.8,61.11
+Cordelia,Young Adult,Silver Tabby,Female,4,2,5,5,3,Yes,1.9000000000000001,63.89
+Wrex,Mature Adult,Gray and White,Male,5,4,4,5,5,Yes,1.7999999999999998,61.11
+Tilly,Senior,Dilute Torbie,Female,5,5,6,5,3,Yes,1.5999999999999999,55.56
+Parsnip,Mature Adult,Lilac Tortoiseshell,Female,5,5,5,4,5,No,1.2,44.44
+Noodle,Mature Adult,Cinnamon,Male,5,4,2,5,4,Yes,2.1,69.44
+Maximus,Young Adult,Gray Tabby,Male,4,5,3,5,4,Yes,1.4,50.0
+Clawde,Senior,Chocolate and White,Male,5,3,3,5,4,Yes,2.1999999999999997,72.22
+Clyde,Kitten,White,Male,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Tater,Mature Adult,Orange,Male,4,3,5,3,4,No,0.9999999999999999,38.89
+Morty,Young Adult,Brown and White Tabby,Male,3,3,2,4,1,Yes,1.5,52.78
+Adolin,Senior,Cream Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Jinx,Mature Adult,Cream Tabby,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Zelda,Senior,Gray and White,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Hattie,Kitten,Orange,Female,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Jerry,Kitten,Cream Tabby,Male,4,3,3,4,2,Yes,1.7,58.33
+Clawdia,Kitten,Dilute Torbie,Female,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Delphi,Senior,Gray and White Tabby,Female,5,5,4,4,4,Yes,1.4,50.0
+Stella,Senior,Lilac,Female,5,5,3,5,2,Yes,2.0,66.67
+Gypsy,Kitten,Dilute Calico,Female,4,4,2,3,5,No,1.0,38.89
+Sushi,Kitten,White,Male,4,5,3,5,3,Yes,1.5,52.78
+Missy,Senior,Chocolate Tabby,Female,4,4,2,4,4,Yes,1.4,50.0
+Cash,Kitten,Gray Tabby,Male,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Vikki,Kitten,Dilute Calico,Female,5,4,4,5,4,Yes,1.9,63.89
+Xena,Senior,Fawn,Female,4,4,4,4,5,No,1.1,41.67
+Zelda,Kitten,Brown and White Tabby,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Sammy,Senior,Red,Male,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Celeste,Kitten,Gray and White,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Graham,Mature Adult,Gray and White Tabby,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Avery,Young Adult,Gray and White,Female,5,4,4,4,4,Yes,1.6,55.56
+Bilbo,Kitten,Fawn,Male,5,5,5,5,3,Yes,1.7,58.33
+Betsy,Mature Adult,Brown and White Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Wrex,Young Adult,Silver Tabby,Male,5,5,4,4,3,Yes,1.4999999999999998,52.78
+Copurrnicus,Mature Adult,Orange and White,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Sasha,Young Adult,Gray and White,Female,5,5,4,4,4,Yes,1.4,50.0
+Clawde,Young Adult,Chocolate,Male,5,4,4,4,3,Yes,1.7,58.33
+Meg,Young Adult,Gray and White,Female,4,2,3,3,4,Yes,1.4,50.0
+Dolly,Mature Adult,Orange and White,Female,4,5,4,4,2,No,1.2,44.44
+Calypso,Young Adult,Cream,Female,5,5,4,5,3,Yes,1.8,61.11
+Navani,Young Adult,Tortoiseshell,Female,4,3,4,5,2,Yes,1.9000000000000001,63.89
+Lucy,Senior,White,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Muffin,Senior,Gray Tabby,Female,5,3,4,5,3,Yes,2.2,72.22
+Misty,Senior,Orange,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Izzy,Senior,Orange,Female,4,4,3,5,3,Yes,1.7,58.33
+Morrigan,Senior,Torbie,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Jasmine,Kitten,Gray,Female,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Sassy,Young Adult,Chocolate Tabby,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Norbert,Mature Adult,Gray,Male,4,3,2,3,4,No,1.2999999999999998,47.22
+Cricket,Senior,Red Tabby,Male,5,6,5,5,4,Yes,1.4,50.0
+Vesper,Kitten,Cream,Female,4,4,4,4,6,No,1.0,38.89
+Tasha,Kitten,Tortoiseshell,Female,4,5,4,5,5,No,1.2000000000000002,44.44
+Suki,Young Adult,Gray and White,Female,4,5,4,4,2,No,1.2,44.44
+Katrina,Kitten,Orange,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Tilly,Mature Adult,Black,Female,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Bianca,Young Adult,Lilac,Female,4,3,3,6,2,Yes,2.3,75.0
+Peanut,Mature Adult,Fawn,Female,5,5,3,4,3,Yes,1.5999999999999999,55.56
+Aurora,Young Adult,Dilute Torbie,Female,4,3,3,4,5,Yes,1.4,50.0
+Fergus,Young Adult,Chocolate and White,Male,3,2,2,5,3,Yes,1.8,61.11
+Pumpkin,Young Adult,Black and White,Female,4,5,3,4,4,No,1.1,41.67
+Clyde,Young Adult,Orange,Male,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Calypso,Young Adult,Gray,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Gilly,Mature Adult,Chocolate Tabby,Female,4,6,3,4,3,No,0.9999999999999998,38.89
+Dante,Senior,Black,Male,5,3,4,5,4,Yes,2.1,69.44
+Evie,Young Adult,Chocolate,Female,4,3,3,4,4,Yes,1.5,52.78
+Bilbo,Kitten,Brown and White Tabby,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Duchess,Kitten,Black and White,Female,5,5,5,5,5,Yes,1.5,52.78
+Sophie,Mature Adult,Red Tabby,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Atticus,Kitten,Chocolate Tabby,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Aloy,Senior,Lilac,Female,3,2,4,4,5,No,1.1,41.67
+Fiddler,Kitten,Cinnamon,Male,5,4,4,5,4,Yes,1.9,63.89
+Wanda,Mature Adult,Red Tabby,Female,5,3,4,6,2,Yes,2.5999999999999996,83.33
+Sam,Mature Adult,Chocolate Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Adolin,Mature Adult,Gray,Male,4,4,3,5,4,Yes,1.6,55.56
+Princess,Young Adult,Black,Female,6,5,5,5,5,Yes,1.9000000000000004,63.89
+Nora,Mature Adult,Calico,Female,5,3,6,6,3,Yes,2.3,75.0
+Nero,Mature Adult,White,Male,4,4,4,3,5,No,0.7999999999999998,33.33
+Starlight,Young Adult,Gray Tabby,Female,5,3,4,6,3,Yes,2.5,80.56
+Cordelia,Young Adult,Gray,Female,4,4,3,4,3,Yes,1.4,50.0
+Pistachio,Mature Adult,Chocolate Tabby,Female,4,2,3,4,3,Yes,1.8,61.11
+Nugget,Kitten,Orange and White,Male,3,4,2,5,3,Yes,1.4000000000000001,50.0
+Cricket,Young Adult,Cream Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Apollo,Senior,Gray and White Tabby,Male,4,3,2,4,3,Yes,1.7,58.33
+Winter,Young Adult,White,Male,4,6,4,6,3,Yes,1.4999999999999998,52.78
+Merlin,Mature Adult,Chocolate and White,Male,4,5,5,2,5,No,0.20000000000000007,16.67
+Atlas,Kitten,Gray,Male,4,4,5,4,4,No,1.1,41.67
+Tater,Kitten,Cream,Male,4,5,3,5,3,Yes,1.5,52.78
+Scout,Senior,Red,Male,5,4,4,5,4,Yes,1.9,63.89
+Enzo,Senior,Cinnamon,Male,5,3,4,5,4,Yes,2.1,69.44
+Anna,Mature Adult,Brown and White Tabby,Female,4,3,3,4,4,Yes,1.5,52.78
+Gatsby,Kitten,Cinnamon,Male,4,3,4,5,3,Yes,1.8,61.11
+Leliana,Kitten,Torbie,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Nila,Senior,Fawn,Female,5,5,4,4,4,Yes,1.4,50.0
+Tali,Young Adult,Chocolate and White,Female,4,4,3,4,3,Yes,1.4,50.0
+Tater,Senior,Gray Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Shadow,Mature Adult,Cream Tabby,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Max,Young Adult,Orange,Male,4,3,4,5,3,Yes,1.8,61.11
+Fergus,Senior,Chocolate,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Lexi,Young Adult,Chocolate and White,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Figaro,Mature Adult,Gray Tabby,Male,4,4,4,4,3,No,1.3,47.22
+Dante,Senior,Orange,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Sprinkles,Young Adult,Chocolate Tabby,Male,5,5,4,4,3,Yes,1.4999999999999998,52.78
+Dante,Young Adult,Chocolate,Male,4,4,4,4,3,No,1.3,47.22
+Biscuit,Young Adult,Brown and White Tabby,Male,3,2,3,3,5,No,0.8999999999999999,36.11
+Bitsy,Kitten,Calico,Female,4,3,3,6,3,Yes,2.2,72.22
+Nacho,Mature Adult,Fawn,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Tilly,Kitten,Gray and White Tabby,Female,4,3,2,6,2,Yes,2.3999999999999995,77.78
+Smokey,Kitten,Cream,Male,4,5,4,3,5,No,0.6000000000000001,27.78
+Luna,Kitten,Dilute Calico,Female,5,3,4,5,3,Yes,2.2,72.22
+Zeke,Mature Adult,White,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Macaroni,Mature Adult,White,Male,4,4,4,3,5,No,0.7999999999999998,33.33
+Rogue,Mature Adult,Red Tabby,Female,4,3,3,4,6,No,1.2999999999999998,47.22
+Pistachio,Senior,Chocolate,Female,3,3,3,4,5,No,1.0,38.89
+Kiwi,Senior,Chocolate Tabby,Female,4,5,3,4,3,No,1.2,44.44
+Anders,Mature Adult,Cream Tabby,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Princess,Young Adult,Black,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Anders,Senior,Gray,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Sylvester,Kitten,Gray,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Evie,Senior,Lilac,Female,4,3,3,4,4,Yes,1.5,52.78
+Clawdia,Mature Adult,Silver Tabby,Female,5,4,5,4,4,Yes,1.5,52.78
+Morty,Mature Adult,Chocolate and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Marshmallow,Mature Adult,Gray Tabby,Male,4,3,5,5,3,Yes,1.7,58.33
+Boots,Kitten,Red,Female,5,5,6,3,4,No,0.8999999999999998,36.11
+Delfina,Kitten,Black and White,Female,4,6,4,4,6,No,0.5999999999999996,27.78
+Pi ,Senior,Red,Female,4,4,4,6,2,Yes,1.9999999999999998,66.67
+Alfred,Young Adult,Cream Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Helios,Kitten,Gray and White,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Atlas,Senior,Cream Tabby,Male,5,2,4,5,4,Yes,2.3000000000000003,75.0
+Alfred,Young Adult,Black,Male,5,5,6,4,5,No,1.0999999999999999,41.67
+Cricket,Mature Adult,Chocolate and White,Male,3,6,3,3,4,No,0.19999999999999984,16.67
+Cricket,Senior,White,Male,4,6,5,5,3,No,1.0999999999999999,41.67
+Lilith,Kitten,Chocolate Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Maximus,Mature Adult,Brown and White Tabby,Male,4,4,5,4,4,No,1.1,41.67
+Helios,Senior,White,Male,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Lenny,Kitten,Cinnamon,Male,4,4,4,5,5,Yes,1.4,50.0
+Sadie,Mature Adult,Red,Female,5,4,2,5,6,Yes,1.9,63.89
+Smokey,Kitten,Chocolate Tabby,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+George,Senior,White,Male,5,5,5,5,2,Yes,1.8,61.11
+Sylphrena,Young Adult,Lilac,Female,4,5,2,5,3,Yes,1.6,55.56
+Nico,Mature Adult,Brown and White Tabby,Male,4,3,4,3,5,No,1.0,38.89
+Jerry,Kitten,White,Male,4,4,4,4,5,No,1.1,41.67
+Wit,Senior,Cream,Male,5,4,4,5,4,Yes,1.9,63.89
+Graham,Senior,Chocolate and White,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Chester,Senior,Orange,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Daisy,Kitten,Red,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Daisy,Young Adult,Silver Tabby,Female,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Nova,Young Adult,Brown and White Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Rico,Mature Adult,Orange,Male,4,4,5,4,4,No,1.1,41.67
+Kaladin,Kitten,Brown and White Tabby,Male,4,3,2,4,4,Yes,1.6,55.56
+Cosmo,Young Adult,Gray,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Calypso,Kitten,Calico,Female,5,5,5,3,5,No,0.8999999999999999,36.11
+Cas,Kitten,Gray and White Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Clawde,Kitten,Gray and White,Male,4,4,3,4,5,No,1.2,44.44
+Snickers,Senior,White,Female,4,3,3,5,2,Yes,2.0,66.67
+Soju,Mature Adult,Silver Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Navani,Mature Adult,Silver Tabby,Female,5,3,2,4,2,Yes,2.1999999999999997,72.22
+Darla,Senior,Black,Female,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Tasha,Mature Adult,Chocolate,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Gabe,Mature Adult,Fawn,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Stitch,Mature Adult,Red,Male,5,3,2,5,4,Yes,2.3000000000000003,75.0
+Clawde,Senior,Red Tabby,Male,4,4,3,4,3,Yes,1.4,50.0
+Frodo,Mature Adult,Chocolate and White,Male,5,3,5,5,2,Yes,2.1999999999999997,72.22
+Waffles,Young Adult,Cream,Male,5,4,4,5,4,Yes,1.9,63.89
+Nacho,Mature Adult,Black and White,Male,4,4,2,4,4,Yes,1.4,50.0
+Hunter,Mature Adult,Gray and White Tabby,Male,4,3,3,3,5,No,1.0999999999999999,41.67
+Navani,Mature Adult,Gray Tabby,Female,4,4,5,5,3,Yes,1.5,52.78
+Orion,Mature Adult,Red,Male,5,3,2,3,5,Yes,1.5999999999999996,55.56
+Nova,Mature Adult,Orange and White,Female,4,4,5,5,3,Yes,1.5,52.78
+Zevran,Young Adult,Orange and White,Male,3,4,2,4,4,No,1.0,38.89
+Felix,Young Adult,Brown and White Tabby,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Marshmallow,Mature Adult,Chocolate,Male,5,3,3,3,4,Yes,1.5999999999999996,55.56
+Penny,Kitten,Cinnamon,Female,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Liara,Young Adult,Chocolate Tabby,Female,4,5,3,5,3,Yes,1.5,52.78
+Gypsy,Kitten,Gray,Female,4,3,3,3,4,No,1.1999999999999997,44.44
+Gilly,Kitten,Fawn,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Graham,Young Adult,Fawn,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Callie,Mature Adult,Gray,Female,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Sylvester,Kitten,Orange and White,Male,4,4,2,4,4,Yes,1.4,50.0
+Furman,Mature Adult,Brown and White Tabby,Male,4,4,4,5,5,Yes,1.4,50.0
+Boots,Young Adult,Red,Female,5,5,4,5,3,Yes,1.8,61.11
+Libby,Senior,Fawn,Female,4,4,3,4,3,Yes,1.4,50.0
+Jasnah,Kitten,Lilac Tortoiseshell,Female,4,5,2,4,3,No,1.3,47.22
+Libby,Kitten,Cream Tabby,Female,4,4,4,4,3,No,1.3,47.22
+Sylvanas,Young Adult,Red,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Lexi,Young Adult,Brown and White Tabby,Female,4,3,2,5,4,Yes,1.9,63.89
+Bailey,Senior,Dilute Tortoiseshell,Female,3,4,4,4,2,No,1.0000000000000002,38.89
+Vesper,Kitten,Tortoiseshell,Female,5,4,3,6,4,Yes,2.3,75.0
+Clyde,Mature Adult,Chocolate,Male,4,3,3,4,4,Yes,1.5,52.78
+Delfina,Mature Adult,Brown and White Tabby,Female,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Lilith,Senior,Cream,Female,4,2,4,3,4,No,1.3000000000000003,47.22
+Charlie,Mature Adult,Fawn,Male,5,3,3,6,3,Yes,2.5999999999999996,83.33
+Parsnip,Senior,Dilute Tortoiseshell,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Rick,Senior,Red Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+George,Senior,Black,Male,4,4,4,4,5,No,1.1,41.67
+Chai,Kitten,Dilute Tortoiseshell,Female,5,5,4,6,3,Yes,2.0999999999999996,69.44
+Julian,Kitten,Black and White,Male,5,4,4,6,3,Yes,2.3,75.0
+Spike,Young Adult,Chocolate Tabby,Male,5,4,5,4,4,Yes,1.5,52.78
+Rico,Mature Adult,Orange,Male,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Salem,Senior,Black and White,Male,4,5,4,4,6,No,0.7999999999999998,33.33
+Ivy,Kitten,Cream,Female,4,4,3,4,6,No,1.0999999999999999,41.67
+Mika,Mature Adult,Chocolate and White,Male,4,3,3,5,2,Yes,2.0,66.67
+Aloy,Kitten,Dilute Calico,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Frodo,Senior,Red Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Binx,Senior,Orange and White,Male,4,2,3,4,4,Yes,1.7000000000000002,58.33
+Milo,Mature Adult,White,Male,4,2,3,4,5,Yes,1.6,55.56
+Bilbo,Mature Adult,Gray and White,Male,4,5,3,4,4,No,1.1,41.67
+Mischief,Senior,Gray and White Tabby,Female,4,3,5,3,5,No,0.8999999999999999,36.11
+Navani,Young Adult,Chocolate Tabby,Female,4,3,5,3,5,No,0.8999999999999999,36.11
+Cas,Young Adult,Red,Male,5,4,2,5,3,Yes,2.2,72.22
+Enzo,Mature Adult,Gray and White Tabby,Male,5,3,2,5,4,Yes,2.3000000000000003,75.0
+Maisy,Young Adult,Gray,Female,6,5,7,5,4,Yes,1.8000000000000003,61.11
+Stitch,Senior,Orange and White,Male,5,5,4,4,4,Yes,1.4,50.0
+Axel,Mature Adult,White,Male,5,3,4,5,3,Yes,2.2,72.22
+Gatsby,Young Adult,Black and White,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Morrigan,Kitten,Red Tabby,Female,5,6,4,5,3,Yes,1.5999999999999999,55.56
+Sylphrena,Mature Adult,Gray Tabby,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Athena,Senior,Red,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Rogue,Mature Adult,Brown and White Tabby,Male,4,3,3,5,2,Yes,2.0,66.67
+Remi,Mature Adult,Red Tabby,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Sophie,Kitten,Silver Tabby,Female,4,3,5,4,4,No,1.2999999999999998,47.22
+Celeste,Senior,Orange,Female,4,5,5,5,4,No,1.2000000000000002,44.44
+Freya,Senior,Gray,Female,5,4,4,4,5,Yes,1.5,52.78
+Chai,Senior,Chocolate,Female,4,3,3,4,5,Yes,1.4,50.0
+Kimchi,Mature Adult,Black,Male,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Flemeth,Mature Adult,White,Female,4,3,3,4,5,Yes,1.4,50.0
+Remi,Kitten,Black,Male,4,4,4,6,2,Yes,1.9999999999999998,66.67
+Bailey,Senior,Gray and White Tabby,Female,4,4,3,6,3,Yes,1.9999999999999998,66.67
+Donut,Mature Adult,Gray,Male,5,4,2,6,2,Yes,2.5999999999999996,83.33
+Chai,Kitten,Silver Tabby,Female,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Buttercup,Senior,Silver Tabby,Female,5,5,4,5,3,Yes,1.8,61.11
+Callie,Senior,Black and White,Female,5,4,4,4,5,Yes,1.5,52.78
+Stella,Kitten,Calico,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Trouble,Kitten,Brown and White Tabby,Male,3,6,5,4,4,No,0.29999999999999993,19.44
+Evie,Mature Adult,Cinnamon,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Reptar,Young Adult,White,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Binx,Young Adult,Cream Tabby,Male,5,3,2,6,4,Yes,2.6,83.33
+Bagel,Mature Adult,White,Male,4,5,5,4,3,No,1.0,38.89
+Alfred,Senior,Chocolate Tabby,Male,4,4,5,5,3,Yes,1.5,52.78
+Sylvanas,Mature Adult,Black,Female,4,3,3,4,4,Yes,1.5,52.78
+Sylvester,Senior,Brown and White Tabby,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Shadow,Senior,White,Male,4,5,5,5,4,No,1.2000000000000002,44.44
+Kaladin,Young Adult,Cream,Male,4,5,2,3,3,No,1.0,38.89
+Taffy,Mature Adult,Silver Tabby,Female,5,5,5,5,3,Yes,1.7,58.33
+Sasha,Young Adult,Torbie,Female,4,5,4,5,4,No,1.3000000000000003,47.22
+Bailey,Mature Adult,Gray and White,Female,4,5,3,4,4,No,1.1,41.67
+Cordelia,Senior,Fawn,Female,4,3,2,3,3,Yes,1.4,50.0
+Kona,Mature Adult,Gray and White,Male,4,3,3,5,2,Yes,2.0,66.67
+Jinx,Senior,Black,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Athena,Mature Adult,Orange and White,Female,5,3,5,6,2,Yes,2.4999999999999996,80.56
+Dante,Mature Adult,Silver Tabby,Male,5,5,3,5,5,Yes,1.7000000000000002,58.33
+Neptune,Young Adult,Cream,Male,5,4,4,5,4,Yes,1.9,63.89
+Sushi,Senior,Brown and White Tabby,Male,4,4,3,6,3,Yes,1.9999999999999998,66.67
+Olive,Kitten,Calico,Female,5,2,3,3,5,Yes,1.7000000000000002,58.33
+Dolly,Mature Adult,Silver Tabby,Female,4,4,4,3,5,No,0.7999999999999998,33.33
+Romeo,Kitten,Orange and White,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Eden,Mature Adult,Cream,Female,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Agatha,Kitten,Brown and White Tabby,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Stella,Senior,Calico,Female,4,3,2,4,4,Yes,1.6,55.56
+Daisy,Kitten,Brown and White Tabby,Female,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Jinx,Kitten,Dilute Calico,Female,5,5,4,4,5,No,1.2999999999999998,47.22
+Binx,Mature Adult,Gray and White Tabby,Male,4,3,3,5,2,Yes,2.0,66.67
+Lucy,Senior,Fawn,Female,4,4,5,4,4,No,1.1,41.67
+Maximus,Senior,Black and White,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Peanut,Senior,Black,Male,4,3,3,5,5,Yes,1.7000000000000002,58.33
+Freya,Young Adult,Chocolate Tabby,Female,5,3,3,4,5,Yes,1.7999999999999998,61.11
+Biscuit,Senior,Cinnamon,Male,5,5,4,5,3,Yes,1.8,61.11
+Jasper,Kitten,Gray Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Fritz,Mature Adult,White,Male,4,3,3,3,4,No,1.1999999999999997,44.44
+Coffee,Young Adult,Dilute Torbie,Female,5,3,5,4,5,Yes,1.5999999999999996,55.56
+Princess,Kitten,Dilute Tortoiseshell,Female,4,5,3,5,4,Yes,1.4,50.0
+Hendrix,Mature Adult,Black and White,Male,4,5,5,4,4,No,0.9,36.11
+Murphy,Senior,Lilac,Female,4,6,2,5,5,No,1.2,44.44
+Cleo,Kitten,Dilute Torbie,Female,5,4,4,5,4,Yes,1.9,63.89
+Edie,Mature Adult,Red Tabby,Female,4,3,3,3,5,No,1.0999999999999999,41.67
+Portia,Mature Adult,Dilute Torbie,Female,4,3,3,4,4,Yes,1.5,52.78
+Furman,Mature Adult,Black and White,Male,4,6,3,4,3,No,0.9999999999999998,38.89
+Sammy,Kitten,Cinnamon,Male,4,3,4,5,3,Yes,1.8,61.11
+Nova,Kitten,Dilute Tortoiseshell,Female,4,4,3,4,3,Yes,1.4,50.0
+Chai,Young Adult,Dilute Calico,Female,4,3,3,4,5,Yes,1.4,50.0
+Atticus,Senior,Red Tabby,Male,4,4,3,3,4,No,0.9999999999999999,38.89
+Cooper,Senior,Gray,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Natasha,Senior,Brown and White Tabby,Female,5,3,3,5,4,Yes,2.1999999999999997,72.22
+Patch,Mature Adult,Silver Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Lilith,Young Adult,White,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Nova,Senior,Orange and White,Female,4,4,2,4,5,No,1.3,47.22
+Tiger,Senior,Orange,Male,4,4,5,6,3,Yes,1.7999999999999996,61.11
+George,Mature Adult,Brown and White Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Ivy,Senior,Brown and White Tabby,Female,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Betsy,Mature Adult,Orange,Female,5,2,2,6,1,Yes,3.1,97.22
+Kona,Young Adult,Gray and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Liara,Young Adult,Chocolate Tabby,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Sprinkles,Senior,Lilac,Male,5,4,4,4,5,Yes,1.5,52.78
+Avery,Mature Adult,White,Female,4,3,3,4,4,Yes,1.5,52.78
+Lenny,Young Adult,Gray and White Tabby,Male,4,3,3,4,5,Yes,1.4,50.0
+Atlas,Young Adult,Black and White,Male,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Kaladin,Mature Adult,Gray and White Tabby,Male,5,4,4,3,4,No,1.2999999999999998,47.22
+Daisy,Young Adult,Dilute Torbie,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Clawdia,Young Adult,Lilac Tortoiseshell,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Cricket,Young Adult,Brown and White Tabby,Male,4,5,3,4,4,No,1.1,41.67
+Duchess,Young Adult,Red Tabby,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Nugget,Senior,Orange,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Alistair,Mature Adult,Red,Male,5,2,3,4,5,Yes,2.0,66.67
+Avery,Mature Adult,Dilute Calico,Female,4,5,3,4,4,No,1.1,41.67
+Petunia,Kitten,Lilac,Female,4,3,2,4,6,Yes,1.4,50.0
+Nacho,Young Adult,Red Tabby,Male,4,4,4,6,3,Yes,1.8999999999999997,63.89
+Boots,Young Adult,Silver Tabby,Female,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Lexi,Senior,Black,Female,5,4,2,4,4,Yes,1.8000000000000003,61.11
+George,Mature Adult,Orange and White,Male,5,4,2,4,2,Yes,2.0,66.67
+Romeo,Kitten,Gray and White,Male,5,3,4,5,4,Yes,2.1,69.44
+Sadie,Mature Adult,Chocolate Tabby,Female,5,4,5,6,2,Yes,2.3,75.0
+Sylvester,Senior,Gray and White Tabby,Male,4,4,3,4,3,Yes,1.4,50.0
+Murphy,Mature Adult,Gray,Male,3,3,3,5,1,Yes,1.7,58.33
+Lexi,Senior,Brown and White Tabby,Female,3,3,3,5,2,Yes,1.6,55.56
+Nacho,Senior,Gray and White,Male,5,3,5,5,4,Yes,2.0,66.67
+Jasper,Mature Adult,Chocolate Tabby,Male,4,6,4,4,4,No,0.7999999999999997,33.33
+Pi ,Young Adult,Dilute Torbie,Female,4,3,3,4,4,Yes,1.5,52.78
+Nala,Kitten,Brown and White Tabby,Female,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Reptar,Senior,Orange and White,Male,5,4,2,5,3,Yes,2.2,72.22
+Bilbo,Kitten,Lilac,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Sadie,Mature Adult,Dilute Calico,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Cordelia,Mature Adult,Cream Tabby,Female,5,5,4,4,5,No,1.2999999999999998,47.22
+Pistachio,Mature Adult,Gray Tabby,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Arwen,Young Adult,Red Tabby,Female,4,6,4,5,5,No,1.0,38.89
+Lucifer,Senior,Orange,Male,5,4,4,4,4,Yes,1.6,55.56
+Meg,Young Adult,Lilac Tortoiseshell,Female,4,4,3,4,3,Yes,1.4,50.0
+Gilly,Young Adult,Chocolate Tabby,Female,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Patch,Senior,Chocolate,Male,5,4,3,5,4,Yes,2.0,66.67
+Jinxy,Kitten,Gray and White Tabby,Female,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Noodle,Senior,Black,Male,4,4,4,4,3,No,1.3,47.22
+Bailey,Young Adult,Cream Tabby,Female,4,3,6,3,5,No,0.7999999999999998,33.33
+Avery,Mature Adult,Red Tabby,Female,5,4,5,5,5,Yes,1.7000000000000002,58.33
+Dora,Mature Adult,Silver Tabby,Female,4,5,3,4,4,No,1.1,41.67
+Jinx,Young Adult,Brown and White Tabby,Male,5,5,5,5,4,Yes,1.6,55.56
+Cooper,Young Adult,Black,Male,4,6,4,5,4,No,1.1,41.67
+Piper,Young Adult,Fawn,Female,5,2,3,5,6,Yes,2.1999999999999997,72.22
+Latte,Senior,Cream,Male,5,4,3,5,4,Yes,2.0,66.67
+Gabe,Mature Adult,Chocolate and White,Male,4,5,3,4,5,No,1.0,38.89
+Loki,Young Adult,Black,Male,4,3,4,6,3,Yes,2.0999999999999996,69.44
+Alfred,Mature Adult,Red Tabby,Male,4,4,4,5,2,Yes,1.7,58.33
+Boots,Senior,Gray and White Tabby,Male,5,5,4,5,3,Yes,1.8,61.11
+Trouble,Kitten,Silver Tabby,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Gizmo,Young Adult,Gray and White Tabby,Female,4,4,5,6,3,Yes,1.7999999999999996,61.11
+Sylphrena,Kitten,Lilac,Female,4,6,3,4,4,No,0.8999999999999998,36.11
+Sammy,Senior,Cream Tabby,Male,4,4,3,4,5,No,1.2,44.44
+Penny,Kitten,Silver Tabby,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Agnes,Senior,Brown and White Tabby,Female,5,3,5,5,5,Yes,1.9,63.89
+Morrigan,Young Adult,Fawn,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Izzy,Mature Adult,Silver Tabby,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Gimli,Young Adult,Gray Tabby,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Zelda,Kitten,Orange,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Rosie,Mature Adult,Silver Tabby,Female,5,5,5,4,5,No,1.2,44.44
+Acorn,Senior,Gray and White Tabby,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Shadow,Kitten,Gray Tabby,Male,5,3,5,4,3,Yes,1.7999999999999996,61.11
+Ruby,Kitten,Black and White,Female,4,4,3,4,5,No,1.2,44.44
+Cleocatra,Senior,Tortoiseshell,Female,4,4,3,3,5,No,0.8999999999999999,36.11
+Vesper,Young Adult,Gray and White,Female,5,3,3,5,3,Yes,2.3,75.0
+Petunia,Kitten,Cream Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Sadie,Young Adult,Red,Female,4,5,4,3,5,No,0.6000000000000001,27.78
+Mischief,Kitten,White,Female,5,4,4,4,5,Yes,1.5,52.78
+Avi,Kitten,Silver Tabby,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Eden,Kitten,Black and White,Female,5,3,4,5,4,Yes,2.1,69.44
+Vesper,Senior,Silver Tabby,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Catsanova,Young Adult,Red Tabby,Male,4,4,4,5,2,Yes,1.7,58.33
+Wilson,Senior,Orange,Male,5,4,6,5,3,Yes,1.7999999999999996,61.11
+Rick,Mature Adult,Red Tabby,Male,5,3,3,4,4,Yes,1.9,63.89
+Merlin,Mature Adult,Brown and White Tabby,Male,4,3,3,3,5,No,1.0999999999999999,41.67
+Bitsy,Kitten,Black and White,Female,5,5,5,4,5,No,1.2,44.44
+Rasha,Senior,Orange and White,Female,4,5,3,5,4,Yes,1.4,50.0
+Sophie,Senior,Lilac,Female,4,3,2,4,6,Yes,1.4,50.0
+Blossom,Senior,Cinnamon,Female,4,3,3,6,3,Yes,2.2,72.22
+Tilly,Senior,Cream Tabby,Female,4,3,4,4,5,No,1.2999999999999998,47.22
+Vesper,Senior,Brown and White Tabby,Female,4,3,3,5,2,Yes,2.0,66.67
+Salem,Kitten,Orange and White,Male,5,5,4,4,4,Yes,1.4,50.0
+Boots,Mature Adult,Black and White,Female,4,4,2,4,4,Yes,1.4,50.0
+Jerry,Young Adult,Cinnamon,Male,4,4,2,4,5,No,1.3,47.22
+Hendrix,Senior,Gray Tabby,Male,6,4,5,5,3,Yes,2.3000000000000007,75.0
+Arwen,Mature Adult,Cream,Female,4,4,5,5,3,Yes,1.5,52.78
+Neil,Kitten,Cinnamon,Male,5,5,4,3,5,No,1.0,38.89
+Nora,Young Adult,Black,Female,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Cooper,Young Adult,Gray and White,Male,5,5,4,5,3,Yes,1.8,61.11
+Aurora,Kitten,Cream Tabby,Female,3,6,5,5,5,No,0.5,25.0
+Fritz,Kitten,White,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Celeste,Kitten,Chocolate and White,Female,4,3,6,4,3,No,1.2999999999999998,47.22
+Kasumi,Senior,Chocolate and White,Female,4,4,2,4,5,No,1.3,47.22
+Boots,Kitten,Fawn,Female,3,4,3,4,3,No,1.0,38.89
+Xena,Kitten,Dilute Torbie,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Lily,Mature Adult,Lilac,Female,5,3,3,4,5,Yes,1.7999999999999998,61.11
+Nero,Kitten,Chocolate and White,Male,4,4,5,5,2,Yes,1.6,55.56
+Buccatini,Young Adult,Cream Tabby,Male,4,3,2,5,4,Yes,1.9,63.89
+Wilson,Senior,Silver Tabby,Male,4,5,4,4,5,No,0.8999999999999999,36.11
+Zoe,Young Adult,Lilac,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Graham,Senior,Cream Tabby,Male,5,4,4,4,5,Yes,1.5,52.78
+Pistachio,Kitten,Torbie,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Maddy,Kitten,Fawn,Female,4,4,3,4,3,Yes,1.4,50.0
+Buccatini,Senior,Chocolate Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+Waffles,Kitten,Lilac,Male,5,4,5,4,4,Yes,1.5,52.78
+Nyxi,Young Adult,Red,Female,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Waffles,Senior,Chocolate,Male,4,4,4,3,4,No,0.8999999999999998,36.11
+Navani,Kitten,Torbie,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Jasnah,Senior,Orange,Female,4,4,3,3,5,No,0.8999999999999999,36.11
+Bianca,Kitten,White,Female,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Winter,Senior,Tortoiseshell,Female,4,4,3,5,3,Yes,1.7,58.33
+Cordelia,Kitten,Black,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Austin,Senior,White,Male,4,3,3,4,4,Yes,1.5,52.78
+Sam,Senior,Cream,Male,4,2,2,4,4,Yes,1.8000000000000003,61.11
+Rosie,Mature Adult,Cream Tabby,Female,4,2,3,6,2,Yes,2.5,80.56
+Peanut,Young Adult,Cinnamon,Female,4,3,4,4,4,Yes,1.4,50.0
+Beau,Mature Adult,Black and White,Male,4,4,5,4,6,No,0.8999999999999999,36.11
+Milo,Kitten,Orange and White,Male,4,5,5,4,3,No,1.0,38.89
+Nola,Young Adult,Dilute Tortoiseshell,Female,5,3,4,5,5,Yes,2.0,66.67
+Beau,Mature Adult,Gray and White Tabby,Male,4,4,4,6,2,Yes,1.9999999999999998,66.67
+Peanut,Kitten,Black,Female,4,5,3,5,5,No,1.3,47.22
+Shadow,Mature Adult,Chocolate,Male,4,4,2,6,2,Yes,2.1999999999999997,72.22
+Nikki,Mature Adult,Chocolate and White,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Apollo,Mature Adult,Black and White,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Parsnip,Mature Adult,Calico,Female,4,3,3,4,4,Yes,1.5,52.78
+Frodo,Senior,Orange and White,Male,5,3,2,4,5,Yes,1.9,63.89
+August,Young Adult,Orange,Male,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Millie,Senior,Cream Tabby,Female,5,3,2,5,3,Yes,2.4000000000000004,77.78
+Smudge,Senior,Red Tabby,Male,5,4,3,5,5,Yes,1.9,63.89
+Morrigan,Mature Adult,Tortoiseshell,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Marshmallow,Mature Adult,Orange and White,Male,4,5,3,4,3,No,1.2,44.44
+Celeste,Kitten,Calico,Female,4,3,3,4,4,Yes,1.5,52.78
+Cosmo,Young Adult,Brown and White Tabby,Male,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Calypso,Senior,Fawn,Female,4,2,2,5,5,Yes,2.0,66.67
+Copurrnicus,Senior,Red Tabby,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Kasumi,Senior,Cinnamon,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Nugget,Kitten,Cream,Male,3,3,3,5,3,Yes,1.5,52.78
+Oreo,Senior,Gray Tabby,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Maddy,Young Adult,Cinnamon,Female,4,5,2,5,4,Yes,1.5,52.78
+Rosie,Kitten,Silver Tabby,Female,4,4,3,6,3,Yes,1.9999999999999998,66.67
+Dean,Kitten,White,Male,4,4,4,5,4,Yes,1.5,52.78
+Taffy,Young Adult,Dilute Calico,Female,4,4,3,5,4,Yes,1.6,55.56
+Gimli,Kitten,Black,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Wanda,Senior,Chocolate and White,Female,5,4,4,5,4,Yes,1.9,63.89
+Vesper,Senior,Gray and White,Male,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Eowyn,Kitten,Red,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Nero,Kitten,Orange,Male,4,4,3,4,5,No,1.2,44.44
+Felix,Senior,Fawn,Male,4,4,3,4,3,Yes,1.4,50.0
+Arwen,Young Adult,Black,Female,4,4,4,5,4,Yes,1.5,52.78
+Catsanova,Young Adult,Brown and White Tabby,Male,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Waffles,Young Adult,Gray and White,Male,5,5,4,5,3,Yes,1.8,61.11
+Betsy,Senior,Calico,Female,5,3,4,5,3,Yes,2.2,72.22
+Simba,Kitten,Black,Male,4,3,3,4,5,Yes,1.4,50.0
+Austin,Mature Adult,Gray and White Tabby,Male,5,5,5,6,4,Yes,1.9,63.89
+Cielo,Senior,Black and White,Male,4,5,5,5,4,No,1.2000000000000002,44.44
+Morrigan,Mature Adult,Orange and White,Female,4,3,4,4,5,No,1.2999999999999998,47.22
+Ziggy,Senior,Orange and White,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Delphi,Senior,Gray Tabby,Female,4,3,4,3,4,No,1.1,41.67
+Lucifer,Kitten,Chocolate,Male,4,5,5,3,4,No,0.6,27.78
+Julian,Kitten,Fawn,Male,4,3,2,6,2,Yes,2.3999999999999995,77.78
+Sprinkles,Young Adult,Black,Male,4,5,6,2,6,No,-1.1102230246251565e-16,11.11
+Galadriel,Kitten,Chocolate and White,Female,5,4,3,6,3,Yes,2.3999999999999995,77.78
+Mordin,Young Adult,Gray Tabby,Male,6,6,7,5,4,Yes,1.6,55.56
+Latte,Senior,Gray and White,Male,4,4,3,5,4,Yes,1.6,55.56
+Agatha,Senior,Fawn,Female,5,4,4,6,2,Yes,2.3999999999999995,77.78
+Adolin,Kitten,Cream,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Galadriel,Young Adult,Brown and White Tabby,Female,4,3,4,5,3,Yes,1.8,61.11
+Avery,Kitten,Tortoiseshell,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Arthas,Senior,Gray and White Tabby,Male,4,3,3,4,5,Yes,1.4,50.0
+Lily,Mature Adult,Black,Female,4,3,2,4,3,Yes,1.7,58.33
+Spike,Kitten,Red,Male,4,5,6,5,3,No,1.2,44.44
+Callie,Mature Adult,Torbie,Female,4,3,1,6,3,Yes,2.3999999999999995,77.78
+Flemeth,Young Adult,Orange and White,Female,5,3,2,6,2,Yes,2.8,88.89
+Bilbo,Senior,Gray Tabby,Male,4,5,2,4,4,No,1.2000000000000002,44.44
+Vesper,Kitten,Dilute Tortoiseshell,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Jasmine,Mature Adult,Red Tabby,Female,4,4,5,4,3,No,1.2,44.44
+Luna,Young Adult,Gray and White Tabby,Female,3,3,2,4,2,Yes,1.4000000000000001,50.0
+Gilly,Young Adult,Gray and White Tabby,Female,5,4,4,2,4,No,0.9999999999999999,38.89
+Nikki,Young Adult,Chocolate,Female,4,3,3,5,2,Yes,2.0,66.67
+Axel,Kitten,Silver Tabby,Male,4,5,3,3,4,No,0.7999999999999999,33.33
+Daisy,Senior,Chocolate Tabby,Female,5,7,4,4,3,No,1.0999999999999999,41.67
+Helios,Kitten,Chocolate Tabby,Male,4,5,2,3,3,No,1.0,38.89
+Bianca,Kitten,Cinnamon,Female,5,5,6,4,3,No,1.2999999999999998,47.22
+Gatsby,Kitten,Red Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Scout,Kitten,Fawn,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Bitsy,Young Adult,Cream Tabby,Female,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Persephone,Young Adult,Torbie,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Tali,Kitten,Black and White,Female,4,4,5,4,4,No,1.1,41.67
+Lucifer,Young Adult,White,Male,4,3,4,5,3,Yes,1.8,61.11
+Cordelia,Senior,Gray and White Tabby,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Dean,Young Adult,Black and White,Male,4,4,4,4,5,No,1.1,41.67
+Soju,Senior,Orange and White,Male,5,4,4,4,3,Yes,1.7,58.33
+Jasper,Kitten,Lilac,Male,4,5,6,4,3,No,0.8999999999999999,36.11
+Daisy,Mature Adult,Chocolate Tabby,Female,5,4,2,5,3,Yes,2.2,72.22
+Avery,Young Adult,Torbie,Female,4,4,2,4,5,No,1.3,47.22
+Vesper,Kitten,Chocolate Tabby,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Buccatini,Senior,Gray,Male,5,4,4,4,4,Yes,1.6,55.56
+Aloy,Senior,Tortoiseshell,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Winter,Young Adult,Black and White,Male,3,4,4,5,3,No,1.2,44.44
+Calliope,Young Adult,Black and White,Female,4,6,5,3,4,No,0.3999999999999998,22.22
+Enzo,Senior,Black and White,Male,4,3,4,4,5,No,1.2999999999999998,47.22
+Leliana,Senior,Orange,Female,4,4,5,6,3,Yes,1.7999999999999996,61.11
+Leo,Kitten,Cream Tabby,Male,5,3,4,5,4,Yes,2.1,69.44
+Evie,Mature Adult,Dilute Torbie,Female,4,3,3,4,4,Yes,1.5,52.78
+Nugget,Young Adult,Chocolate Tabby,Male,5,4,5,4,4,Yes,1.5,52.78
+Sassy,Kitten,Cream,Female,4,4,4,5,2,Yes,1.7,58.33
+Olive,Senior,Dilute Calico,Female,4,4,3,4,5,No,1.2,44.44
+Atticus,Senior,Silver Tabby,Male,5,3,6,5,4,Yes,1.9,63.89
+Zevran,Mature Adult,Cream,Male,3,3,3,4,3,No,1.2,44.44
+Ivy,Mature Adult,Silver Tabby,Female,4,6,5,4,3,No,0.7999999999999998,33.33
+Boots,Mature Adult,Cream Tabby,Male,4,5,3,3,5,No,0.7,30.56
+Missy,Senior,Chocolate,Female,3,4,3,5,4,No,1.2000000000000002,44.44
+Tiger,Mature Adult,Chocolate and White,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Shallan,Mature Adult,Tortoiseshell,Female,5,4,4,4,4,Yes,1.6,55.56
+Dora,Senior,Red,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Libby,Mature Adult,Dilute Calico,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Taffy,Young Adult,Lilac Tortoiseshell,Female,5,3,5,5,4,Yes,2.0,66.67
+Muffin,Mature Adult,Red,Female,5,4,3,5,4,Yes,2.0,66.67
+Aurora,Senior,Gray and White,Female,5,3,3,5,3,Yes,2.3,75.0
+Lucky,Young Adult,Lilac,Male,4,6,3,4,5,No,0.7999999999999998,33.33
+Bagel,Young Adult,Black,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Milo,Young Adult,Cinnamon,Male,4,5,2,4,2,Yes,1.4000000000000001,50.0
+Calypso,Senior,Silver Tabby,Female,4,4,3,5,3,Yes,1.7,58.33
+Chai,Kitten,Dilute Calico,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Coffee,Young Adult,Dilute Torbie,Female,3,4,4,4,3,No,0.9000000000000001,36.11
+Buttercup,Kitten,Chocolate Tabby,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Vesper,Senior,Lilac,Male,4,4,2,5,4,Yes,1.7000000000000002,58.33
+Mittens,Young Adult,Chocolate,Male,5,3,4,4,5,Yes,1.6999999999999997,58.33
+Petunia,Kitten,Black,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Lenny,Young Adult,Lilac,Male,5,4,4,3,5,No,1.1999999999999997,44.44
+Dean,Mature Adult,Gray,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Aloy,Young Adult,Tortoiseshell,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Ziggy,Senior,Chocolate,Male,4,4,3,4,3,Yes,1.4,50.0
+Rosie,Young Adult,Gray and White,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Clawde,Senior,Fawn,Male,4,3,2,5,5,Yes,1.7999999999999998,61.11
+Izzy,Mature Adult,Cream Tabby,Female,5,5,2,4,3,Yes,1.7,58.33
+Cleo,Young Adult,Dilute Calico,Female,5,4,3,3,5,No,1.2999999999999998,47.22
+Chloe,Mature Adult,Chocolate Tabby,Female,4,4,3,4,3,Yes,1.4,50.0
+Wanda,Mature Adult,Orange,Female,5,4,4,5,5,Yes,1.7999999999999998,61.11
+Hendrix,Young Adult,Orange,Male,5,5,5,4,3,Yes,1.4,50.0
+Pumpkin,Senior,Fawn,Female,5,5,5,3,4,No,0.9999999999999999,38.89
+Gizmo,Mature Adult,Dilute Calico,Female,4,3,2,5,4,Yes,1.9,63.89
+Arwen,Kitten,Dilute Torbie,Female,5,3,2,4,3,Yes,2.0999999999999996,69.44
+Kona,Mature Adult,Gray and White Tabby,Male,4,4,3,3,4,No,0.9999999999999999,38.89
+Ivy,Kitten,Chocolate and White,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Winter,Mature Adult,Gray and White,Male,3,3,1,4,5,No,1.2000000000000002,44.44
+Luna,Senior,Red,Female,5,5,6,4,4,No,1.1999999999999997,44.44
+Nemo,Kitten,Cream Tabby,Male,3,3,3,4,4,No,1.1,41.67
+Graham,Mature Adult,Gray and White,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Lily,Mature Adult,Cinnamon,Female,4,3,3,3,4,No,1.1999999999999997,44.44
+Cooper,Young Adult,Brown and White Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Sadie,Kitten,Gray,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Missy,Young Adult,Torbie,Female,4,5,3,5,3,Yes,1.5,52.78
+Tilly,Senior,Cream,Female,4,4,2,3,4,No,1.1,41.67
+Chester,Mature Adult,Gray,Male,4,2,2,4,2,Yes,2.0,66.67
+Morty,Kitten,Cream,Male,4,5,3,5,3,Yes,1.5,52.78
+Callie,Senior,Chocolate and White,Female,5,4,2,5,4,Yes,2.1,69.44
+Zelda,Senior,Torbie,Female,4,3,4,4,5,No,1.2999999999999998,47.22
+Vesper,Young Adult,Orange,Male,4,4,3,3,3,No,1.0999999999999999,41.67
+Izzy,Mature Adult,Red,Female,3,4,3,4,4,No,0.9,36.11
+Dolly,Mature Adult,White,Female,4,4,3,5,3,Yes,1.7,58.33
+Mochi,Mature Adult,Orange,Female,4,5,5,4,5,No,0.8,33.33
+Fritz,Senior,Red Tabby,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Helios,Young Adult,Black and White,Male,4,4,3,5,3,Yes,1.7,58.33
+Neptune,Young Adult,White,Male,5,4,6,5,3,Yes,1.7999999999999996,61.11
+Suki,Mature Adult,Dilute Torbie,Female,3,3,4,3,6,No,0.5,25.0
+Chai,Young Adult,Orange and White,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Bast,Senior,Orange and White,Female,4,2,2,5,3,Yes,2.2,72.22
+Atticus,Senior,White,Male,4,5,4,5,5,No,1.2000000000000002,44.44
+Callie,Young Adult,Calico,Female,4,3,5,5,2,Yes,1.8,61.11
+Alina,Kitten,Lilac Tortoiseshell,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Bianca,Young Adult,Gray and White Tabby,Female,5,5,4,4,5,No,1.2999999999999998,47.22
+Katrina,Young Adult,Chocolate and White,Female,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Chestnut,Mature Adult,Chocolate,Male,5,4,2,4,5,Yes,1.7000000000000002,58.33
+Mordin,Senior,Cream Tabby,Male,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Bailey,Mature Adult,Torbie,Female,4,3,3,4,5,Yes,1.4,50.0
+Mika,Mature Adult,Cinnamon,Male,4,5,4,4,5,No,0.8999999999999999,36.11
+Enzo,Mature Adult,Chocolate and White,Male,5,3,3,5,3,Yes,2.3,75.0
+Shallan,Young Adult,Silver Tabby,Female,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Tawny,Senior,Dilute Calico,Female,4,4,3,5,3,Yes,1.7,58.33
+Bilbo,Kitten,Cream,Male,4,4,2,5,2,Yes,1.9000000000000001,63.89
+Zelda,Young Adult,Silver Tabby,Female,4,5,2,4,5,No,1.1,41.67
+Mufasa,Kitten,Cinnamon,Male,4,3,5,6,2,Yes,2.0999999999999996,69.44
+Misty,Mature Adult,Cream Tabby,Female,4,5,3,3,4,No,0.7999999999999999,33.33
+Graham,Young Adult,Orange,Male,4,3,2,4,4,Yes,1.6,55.56
+Hattie,Mature Adult,Brown and White Tabby,Female,4,3,3,4,2,Yes,1.7,58.33
+Nero,Young Adult,Cinnamon,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Jinx,Mature Adult,Black,Male,4,4,3,5,3,Yes,1.7,58.33
+Cooper,Senior,Gray and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Stella,Young Adult,Gray Tabby,Female,4,5,3,5,3,Yes,1.5,52.78
+Romeo,Mature Adult,Black and White,Male,4,5,2,3,4,No,0.9,36.11
+Cash,Senior,Cinnamon,Male,4,3,5,4,4,No,1.2999999999999998,47.22
+Flemeth,Senior,Calico,Female,4,5,3,5,4,Yes,1.4,50.0
+Jinx,Mature Adult,Calico,Female,4,3,4,4,4,Yes,1.4,50.0
+Simba,Kitten,Fawn,Male,4,5,4,4,5,No,0.8999999999999999,36.11
+Leo,Senior,Gray and White Tabby,Male,5,4,6,5,4,Yes,1.6999999999999997,58.33
+Dora,Mature Adult,Fawn,Female,4,5,3,3,4,No,0.7999999999999999,33.33
+Agnes,Kitten,Brown and White Tabby,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Bast,Senior,Dilute Tortoiseshell,Female,4,4,4,6,3,Yes,1.8999999999999997,63.89
+Blossom,Mature Adult,Chocolate,Female,3,3,2,5,3,Yes,1.6,55.56
+Penny,Kitten,Chocolate and White,Female,4,4,3,4,3,Yes,1.4,50.0
+Mittens,Senior,Gray Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Jinxy,Senior,Lilac,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Oreo,Mature Adult,Black,Male,4,5,3,3,5,No,0.7,30.56
+Charlie,Kitten,Gray and White Tabby,Male,5,3,4,4,5,Yes,1.6999999999999997,58.33
+Matty,Young Adult,Lilac,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Murphy,Mature Adult,Black,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Kimchi,Young Adult,Gray Tabby,Male,4,5,5,4,4,No,0.9,36.11
+Sam,Senior,Cream,Male,4,4,3,5,4,Yes,1.6,55.56
+Nila,Mature Adult,Red Tabby,Female,4,4,2,4,5,No,1.3,47.22
+Basil,Mature Adult,Chocolate Tabby,Male,4,6,4,3,4,No,0.4999999999999998,25.0
+Nelson,Senior,Gray Tabby,Male,4,3,2,5,6,Yes,1.6999999999999997,58.33
+Nola,Mature Adult,Tortoiseshell,Female,5,4,3,6,2,Yes,2.4999999999999996,80.56
+Waffles,Mature Adult,White,Male,4,5,4,4,5,No,0.8999999999999999,36.11
+Sammy,Senior,Gray and White,Male,4,4,3,3,4,No,0.9999999999999999,38.89
+Murphy,Mature Adult,Red Tabby,Male,4,3,3,6,3,Yes,2.2,72.22
+Liara,Kitten,Brown and White Tabby,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Cleo,Senior,Dilute Tortoiseshell,Female,4,3,4,4,5,No,1.2999999999999998,47.22
+Sadie,Young Adult,Lilac Tortoiseshell,Female,5,5,5,6,4,Yes,1.9,63.89
+Ziggy,Senior,Chocolate,Male,5,5,4,4,4,Yes,1.4,50.0
+Kodi,Kitten,Cinnamon,Male,5,4,2,4,3,Yes,1.9000000000000001,63.89
+Arwen,Kitten,White,Female,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Hendrix,Mature Adult,Chocolate Tabby,Male,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Adolin,Young Adult,Gray Tabby,Male,4,5,5,3,4,No,0.6,27.78
+Lexi,Senior,Dilute Tortoiseshell,Female,5,3,5,5,2,Yes,2.1999999999999997,72.22
+Kiwi,Kitten,Dilute Calico,Female,4,4,3,4,2,Yes,1.5,52.78
+Cielo,Mature Adult,Fawn,Male,4,4,2,6,3,Yes,2.0999999999999996,69.44
+Noodle,Mature Adult,Brown and White Tabby,Male,5,4,4,5,2,Yes,2.0999999999999996,69.44
+Matty,Mature Adult,Gray and White Tabby,Male,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Ivy,Senior,Orange and White,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Winnie,Kitten,Brown and White Tabby,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Vikki,Mature Adult,Tortoiseshell,Female,4,3,4,5,2,Yes,1.9000000000000001,63.89
+Sasha,Kitten,Silver Tabby,Female,4,4,4,3,5,No,0.7999999999999998,33.33
+Sylvester,Mature Adult,Gray and White,Male,5,5,4,4,3,Yes,1.4999999999999998,52.78
+Murphy,Kitten,Fawn,Female,4,4,4,3,5,No,0.7999999999999998,33.33
+Misty,Mature Adult,Chocolate and White,Female,4,3,3,3,6,No,0.9999999999999998,38.89
+Matcha,Kitten,Chocolate,Female,3,5,3,4,3,No,0.8,33.33
+Molly,Mature Adult,Cinnamon,Female,5,4,6,5,3,Yes,1.7999999999999996,61.11
+Kasumi,Mature Adult,Lilac Tortoiseshell,Female,4,6,2,4,3,No,1.0999999999999999,41.67
+Wrex,Kitten,Gray Tabby,Male,4,2,5,5,6,Yes,1.6,55.56
+Jerry,Senior,Gray and White,Male,5,5,5,5,4,Yes,1.6,55.56
+Ruby,Senior,Gray and White Tabby,Female,5,4,3,6,3,Yes,2.3999999999999995,77.78
+Avi,Mature Adult,Orange,Male,4,4,3,5,4,Yes,1.6,55.56
+Delphi,Young Adult,Dilute Torbie,Female,4,3,3,5,2,Yes,2.0,66.67
+Arwen,Kitten,Tortoiseshell,Female,5,3,5,5,5,Yes,1.9,63.89
+Tiger,Senior,Chocolate,Male,5,6,5,5,6,No,1.1999999999999997,44.44
+Buccatini,Senior,Red Tabby,Male,5,4,4,5,4,Yes,1.9,63.89
+Sierra,Mature Adult,Orange and White,Female,4,4,3,5,3,Yes,1.7,58.33
+Tali,Mature Adult,Orange and White,Female,4,3,3,4,6,No,1.2999999999999998,47.22
+Kitty,Mature Adult,Gray and White Tabby,Female,4,4,4,3,5,No,0.7999999999999998,33.33
+Latte,Kitten,Fawn,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Zoe,Kitten,Torbie,Female,4,4,3,3,5,No,0.8999999999999999,36.11
+Jinx,Young Adult,Torbie,Female,3,3,2,5,3,Yes,1.6,55.56
+Aurora,Kitten,Lilac,Female,5,5,5,5,4,Yes,1.6,55.56
+Charlie,Young Adult,Silver Tabby,Male,4,4,4,5,4,Yes,1.5,52.78
+Chai,Young Adult,Red,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Stella,Mature Adult,Chocolate and White,Female,5,4,4,4,4,Yes,1.6,55.56
+Waffles,Mature Adult,Gray,Male,4,4,3,5,5,Yes,1.5,52.78
+Marshmallow,Senior,Cinnamon,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Jasnah,Senior,Calico,Female,3,2,2,4,4,Yes,1.4,50.0
+Merlin,Senior,Cream Tabby,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Millie,Kitten,Cream Tabby,Female,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Zeke,Young Adult,Gray,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Rico,Senior,Gray and White,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Sophie,Kitten,Gray and White,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Buttercup,Young Adult,Orange and White,Female,4,4,4,3,5,No,0.7999999999999998,33.33
+Clawdia,Kitten,Black,Female,4,2,2,4,4,Yes,1.8000000000000003,61.11
+Lily,Senior,Black and White,Female,5,5,2,5,5,Yes,1.7999999999999998,61.11
+Dalinar,Senior,Cream Tabby,Male,4,4,3,4,5,No,1.2,44.44
+Maddy,Kitten,Red Tabby,Female,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Chester,Young Adult,Red Tabby,Male,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Liara,Kitten,White,Female,4,3,3,5,2,Yes,2.0,66.67
+Lily,Mature Adult,Orange and White,Female,4,4,5,5,3,Yes,1.5,52.78
+Natasha,Kitten,Orange,Female,4,4,4,3,3,No,0.9999999999999998,38.89
+Patch,Senior,Chocolate and White,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Nala,Kitten,Dilute Torbie,Female,4,3,1,5,5,Yes,1.9,63.89
+Jinxy,Mature Adult,Chocolate,Female,5,6,6,5,3,Yes,1.3999999999999997,50.0
+Peaches,Senior,Gray Tabby,Female,5,3,4,5,2,Yes,2.3,75.0
+Portia,Young Adult,Silver Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Gimli,Kitten,Chocolate and White,Male,5,6,4,5,3,Yes,1.5999999999999999,55.56
+Cleocatra,Mature Adult,Red,Female,3,5,5,3,5,No,0.10000000000000009,13.89
+Biscuit,Kitten,Chocolate Tabby,Male,4,3,4,5,3,Yes,1.8,61.11
+Alfred,Young Adult,Gray and White Tabby,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Alfred,Kitten,Chocolate,Male,4,4,3,4,3,Yes,1.4,50.0
+Sushi,Young Adult,Cream Tabby,Male,4,2,3,4,5,Yes,1.6,55.56
+Loki,Mature Adult,Silver Tabby,Male,5,6,4,5,3,Yes,1.5999999999999999,55.56
+Marshmallow,Senior,White,Male,5,5,5,5,3,Yes,1.7,58.33
+Penny,Mature Adult,Gray and White,Female,4,3,2,4,5,Yes,1.5,52.78
+Jasper,Mature Adult,Brown and White Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Figaro,Senior,Cream,Male,4,5,3,4,5,No,1.0,38.89
+Tater,Kitten,Gray and White,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Aloy,Kitten,Chocolate Tabby,Female,4,3,4,6,2,Yes,2.1999999999999997,72.22
+Ruby,Senior,Cream Tabby,Female,4,6,4,5,2,No,1.3,47.22
+Atlas,Mature Adult,Chocolate,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Snickers,Senior,Fawn,Female,5,3,4,5,3,Yes,2.2,72.22
+Cullen,Senior,Silver Tabby,Male,3,3,4,3,6,No,0.5,25.0
+Kaladin,Kitten,Lilac,Male,5,2,5,5,4,Yes,2.2,72.22
+Jasmine,Young Adult,White,Female,5,3,3,6,3,Yes,2.5999999999999996,83.33
+Catsanova,Senior,Gray and White Tabby,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Freya,Mature Adult,Orange and White,Female,2,6,4,3,5,No,-0.40000000000000024,0.0
+Aloy,Young Adult,Gray Tabby,Female,4,4,4,4,5,No,1.1,41.67
+Mufasa,Young Adult,Lilac,Male,5,5,5,4,3,Yes,1.4,50.0
+Nibbler,Senior,Chocolate and White,Male,5,6,3,3,5,No,0.8999999999999997,36.11
+Tasha,Kitten,Black,Female,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Peanut,Kitten,Cinnamon,Male,4,3,3,4,4,Yes,1.5,52.78
+George,Senior,Black and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Ozzy,Young Adult,Orange,Male,5,3,6,4,4,Yes,1.5999999999999996,55.56
+Kiwi,Mature Adult,Calico,Female,4,4,3,5,3,Yes,1.7,58.33
+Nola,Kitten,White,Female,4,5,3,5,3,Yes,1.5,52.78
+Kaladin,Young Adult,Fawn,Male,3,2,3,4,5,No,1.2000000000000002,44.44
+Buttercup,Kitten,Black,Female,4,6,5,4,4,No,0.6999999999999998,30.56
+Jinx,Kitten,Gray Tabby,Female,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Portia,Senior,Tortoiseshell,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Nola,Young Adult,Calico,Female,5,5,3,6,4,Yes,2.1,69.44
+Celeste,Mature Adult,Fawn,Female,4,3,3,4,4,Yes,1.5,52.78
+Anders,Senior,Black and White,Male,5,4,3,5,4,Yes,2.0,66.67
+Reptar,Senior,White,Male,4,4,3,3,5,No,0.8999999999999999,36.11
+Neptune,Kitten,Gray and White Tabby,Male,5,5,3,6,3,Yes,2.2,72.22
+Sylvanas,Senior,Gray and White Tabby,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Cordelia,Young Adult,Chocolate Tabby,Female,5,3,6,5,4,Yes,1.9,63.89
+Zeke,Mature Adult,Red,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Nila,Mature Adult,Black and White,Female,4,3,4,5,3,Yes,1.8,61.11
+Ozzy,Kitten,Gray,Male,4,3,5,5,5,Yes,1.5,52.78
+Felix,Senior,Black,Male,4,3,3,6,2,Yes,2.3,75.0
+Dante,Senior,Gray,Male,4,4,3,5,5,Yes,1.5,52.78
+Nola,Mature Adult,Gray,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Molly,Young Adult,Torbie,Female,4,4,3,5,3,Yes,1.7,58.33
+Ziggy,Young Adult,Silver Tabby,Male,4,4,3,4,2,Yes,1.5,52.78
+Mittens,Mature Adult,Red,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Merlin,Kitten,Red Tabby,Male,5,4,4,6,4,Yes,2.1999999999999997,72.22
+Hunter,Young Adult,Black,Male,5,5,3,5,2,Yes,2.0,66.67
+Vesper,Mature Adult,Black and White,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Sylvanas,Senior,Dilute Calico,Female,5,4,6,5,4,Yes,1.6999999999999997,58.33
+Nibbler,Young Adult,Cream,Male,4,5,3,4,3,No,1.2,44.44
+Clawde,Senior,Brown and White Tabby,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Duchess,Young Adult,Orange and White,Female,5,5,5,4,5,No,1.2,44.44
+Mischief,Young Adult,Torbie,Female,4,3,3,3,3,No,1.2999999999999998,47.22
+Jerry,Young Adult,Orange,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Maximus,Mature Adult,Orange,Male,4,5,3,4,4,No,1.1,41.67
+Mordin,Senior,Black,Male,3,3,3,4,4,No,1.1,41.67
+Liara,Kitten,Red,Female,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Winter,Mature Adult,Dilute Tortoiseshell,Female,5,4,3,6,3,Yes,2.3999999999999995,77.78
+Rogue,Young Adult,Silver Tabby,Female,5,5,4,4,4,Yes,1.4,50.0
+Bagel,Kitten,Cream,Male,5,6,5,4,5,No,0.9999999999999998,38.89
+Lenny,Young Adult,Cream,Male,5,6,5,4,3,No,1.1999999999999997,44.44
+Delfina,Kitten,Chocolate,Female,5,4,4,4,5,Yes,1.5,52.78
+Flemeth,Young Adult,Dilute Tortoiseshell,Female,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Clyde,Senior,Brown and White Tabby,Male,5,4,4,5,4,Yes,1.9,63.89
+Lilo,Senior,Black,Female,4,6,4,4,5,No,0.6999999999999997,30.56
+Callie,Kitten,Dilute Calico,Female,4,3,4,4,5,No,1.2999999999999998,47.22
+Dorian,Senior,Chocolate Tabby,Male,4,5,2,4,4,No,1.2000000000000002,44.44
+Gypsy,Senior,Cream,Female,3,4,2,4,4,No,1.0,38.89
+Finn,Mature Adult,White,Male,3,3,2,5,3,Yes,1.6,55.56
+Avi,Mature Adult,Gray and White,Male,4,3,2,3,5,No,1.2,44.44
+Nibbler,Kitten,Chocolate and White,Male,4,4,6,5,3,Yes,1.4,50.0
+Hunter,Mature Adult,Brown and White Tabby,Male,5,4,4,4,4,Yes,1.6,55.56
+Waffles,Mature Adult,Black and White,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Zeke,Kitten,Cream Tabby,Male,4,3,3,4,5,Yes,1.4,50.0
+Nacho,Kitten,Gray,Male,4,4,5,5,3,Yes,1.5,52.78
+Chai,Young Adult,Orange,Female,4,4,2,3,4,No,1.1,41.67
+Cash,Young Adult,Gray and White,Male,5,3,4,6,2,Yes,2.5999999999999996,83.33
+Cas,Young Adult,Silver Tabby,Male,4,4,4,4,2,Yes,1.4000000000000001,50.0
+Piper,Kitten,Lilac Tortoiseshell,Female,3,4,2,6,2,Yes,1.8,61.11
+Buttercup,Mature Adult,Cream Tabby,Female,5,3,5,5,4,Yes,2.0,66.67
+Clawdia,Kitten,Gray Tabby,Female,5,5,3,3,5,No,1.0999999999999999,41.67
+Cricket,Kitten,Gray and White,Male,5,4,5,5,2,Yes,2.0,66.67
+Darla,Senior,Silver Tabby,Female,3,3,2,5,5,Yes,1.4000000000000001,50.0
+Fiddler,Young Adult,Cinnamon,Male,4,6,3,5,4,No,1.1999999999999997,44.44
+Cash,Kitten,Fawn,Male,3,5,3,6,3,Yes,1.4,50.0
+Sprinkles,Kitten,White,Male,4,3,3,6,2,Yes,2.3,75.0
+Merlin,Senior,Red Tabby,Male,4,5,5,4,3,No,1.0,38.89
+Maisy,Senior,Dilute Calico,Female,4,3,3,5,2,Yes,2.0,66.67
+Bast,Young Adult,Red,Female,5,6,4,6,5,Yes,1.6999999999999997,58.33
+Axel,Senior,Chocolate and White,Male,5,5,5,5,4,Yes,1.6,55.56
+Stitch,Mature Adult,Gray and White,Male,5,4,5,4,6,No,1.2999999999999998,47.22
+Norbert,Kitten,White,Male,4,4,2,4,5,No,1.3,47.22
+Agnes,Mature Adult,Lilac,Female,5,5,4,5,3,Yes,1.8,61.11
+Charlie,Young Adult,Fawn,Male,5,4,3,4,6,Yes,1.4999999999999996,52.78
+Jerry,Mature Adult,Chocolate Tabby,Male,4,6,6,4,4,No,0.5999999999999998,27.78
+Winter,Senior,Orange,Female,3,6,4,4,3,No,0.4999999999999999,25.0
+Callie,Mature Adult,Cream,Female,5,3,3,5,4,Yes,2.1999999999999997,72.22
+Gimli,Senior,Cream Tabby,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Avery,Mature Adult,Dilute Tortoiseshell,Female,4,4,4,2,6,No,0.3999999999999999,22.22
+Minerva,Young Adult,Dilute Torbie,Female,5,3,4,3,5,Yes,1.4,50.0
+Kaladin,Mature Adult,Orange,Male,5,5,2,6,3,Yes,2.3,75.0
+Murphy,Kitten,Black and White,Female,4,5,3,3,5,No,0.7,30.56
+Nemo,Young Adult,Black,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Jasmine,Senior,Dilute Torbie,Female,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Basil,Young Adult,Gray,Male,4,4,2,5,4,Yes,1.7000000000000002,58.33
+Zevran,Mature Adult,Chocolate Tabby,Male,4,5,3,6,3,Yes,1.7999999999999996,61.11
+Zeke,Young Adult,Black,Male,5,5,5,4,5,No,1.2,44.44
+Poppy,Mature Adult,Black,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Spike,Senior,White,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Minerva,Kitten,Lilac,Female,3,4,3,5,3,No,1.3,47.22
+Nemo,Young Adult,Silver Tabby,Male,5,5,4,4,4,Yes,1.4,50.0
+Spike,Kitten,Orange and White,Male,3,3,4,5,4,No,1.3000000000000003,47.22
+Sprinkles,Senior,Calico,Female,2,3,2,5,1,Yes,1.4,50.0
+Scout,Young Adult,Brown and White Tabby,Male,5,4,5,6,3,Yes,2.2,72.22
+Rick,Young Adult,White,Male,4,4,3,6,3,Yes,1.9999999999999998,66.67
+Lilo,Mature Adult,Gray Tabby,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Frodo,Senior,Cinnamon,Male,5,4,4,4,4,Yes,1.6,55.56
+Biscuit,Mature Adult,Orange,Male,4,4,4,4,5,No,1.1,41.67
+Ozzy,Mature Adult,White,Male,5,4,4,5,4,Yes,1.9,63.89
+Dalinar,Senior,Gray,Male,4,3,3,4,4,Yes,1.5,52.78
+Murphy,Kitten,Cream,Female,4,4,4,5,4,Yes,1.5,52.78
+Dora,Mature Adult,Lilac Tortoiseshell,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Beau,Senior,Black and White,Male,4,3,2,4,4,Yes,1.6,55.56
+Muffin,Mature Adult,Lilac,Female,4,3,4,4,5,No,1.2999999999999998,47.22
+Nacho,Kitten,Red Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Bast,Senior,Chocolate Tabby,Female,5,4,3,5,5,Yes,1.9,63.89
+Binx,Mature Adult,Brown and White Tabby,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Tater,Young Adult,Cinnamon,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Shadow,Kitten,Gray Tabby,Male,4,3,2,4,6,Yes,1.4,50.0
+Catsanova,Mature Adult,Orange and White,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Binx,Mature Adult,Chocolate Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Romeo,Mature Adult,White,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Flemeth,Mature Adult,Black and White,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Adolin,Senior,Gray Tabby,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Jasmine,Young Adult,Red Tabby,Female,4,5,4,5,4,No,1.3000000000000003,47.22
+Figaro,Senior,White,Male,4,4,3,6,3,Yes,1.9999999999999998,66.67
+Bailey,Senior,Red,Female,5,4,5,4,4,Yes,1.5,52.78
+Rosie,Young Adult,Gray and White Tabby,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Portia,Senior,Fawn,Female,4,5,3,5,3,Yes,1.5,52.78
+Adolin,Mature Adult,Cinnamon,Male,4,3,5,3,5,No,0.8999999999999999,36.11
+Hunter,Mature Adult,Gray,Male,4,4,4,4,3,No,1.3,47.22
+Ruby,Young Adult,Chocolate and White,Female,4,3,3,4,5,Yes,1.4,50.0
+Neil,Kitten,Orange,Male,5,4,4,4,3,Yes,1.7,58.33
+Blossom,Senior,Gray,Female,3,3,3,5,2,Yes,1.6,55.56
+Nico,Young Adult,Orange,Male,4,3,5,5,5,Yes,1.5,52.78
+Anna,Young Adult,Chocolate,Female,4,4,3,4,3,Yes,1.4,50.0
+Matcha,Senior,Gray,Female,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Lucifer,Kitten,Cream,Male,3,2,3,4,5,No,1.2000000000000002,44.44
+Rasha,Young Adult,Orange,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Felix,Young Adult,Gray Tabby,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Flemeth,Mature Adult,Silver Tabby,Female,5,3,5,5,4,Yes,2.0,66.67
+Nova,Mature Adult,Dilute Tortoiseshell,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Dante,Senior,Gray and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Kimchi,Kitten,Brown and White Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Murphy,Kitten,Red,Male,4,3,4,5,3,Yes,1.8,61.11
+Jasmine,Kitten,Gray Tabby,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Biscuit,Mature Adult,Black,Male,4,5,4,4,5,No,0.8999999999999999,36.11
+Athena,Senior,Fawn,Female,5,4,4,4,5,Yes,1.5,52.78
+Betsy,Young Adult,Gray and White,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Sylvester,Senior,Lilac,Male,4,5,2,4,4,No,1.2000000000000002,44.44
+Atticus,Kitten,Cream,Male,5,5,3,4,5,Yes,1.4,50.0
+Tawny,Young Adult,Gray and White,Female,5,4,6,4,5,No,1.2999999999999998,47.22
+Maddy,Mature Adult,Silver Tabby,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Merlin,Senior,Lilac,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Avi,Mature Adult,Silver Tabby,Male,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Gabe,Mature Adult,Chocolate and White,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Gabe,Young Adult,Fawn,Male,5,3,3,5,4,Yes,2.1999999999999997,72.22
+Wit,Mature Adult,Chocolate,Male,3,5,2,3,6,No,0.30000000000000004,19.44
+Nyxi,Young Adult,Cinnamon,Female,5,5,3,5,5,Yes,1.7000000000000002,58.33
+Misty,Kitten,Calico,Female,3,4,6,2,6,No,-0.20000000000000007,5.56
+Sophie,Mature Adult,Chocolate and White,Female,5,6,4,2,3,No,0.6999999999999997,30.56
+Katrina,Young Adult,Brown and White Tabby,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+August,Mature Adult,Black and White,Male,4,4,4,4,3,No,1.3,47.22
+Salem,Mature Adult,Fawn,Male,4,2,2,4,4,Yes,1.8000000000000003,61.11
+Clyde,Young Adult,Gray Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Jasnah,Mature Adult,Gray,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Molly,Mature Adult,Orange,Female,5,4,5,4,4,Yes,1.5,52.78
+Rogue,Senior,Brown and White Tabby,Male,4,4,4,4,5,No,1.1,41.67
+Chestnut,Senior,Chocolate and White,Male,4,4,4,4,5,No,1.1,41.67
+Nyxi,Mature Adult,Gray Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Maddy,Young Adult,Black,Female,4,2,2,5,6,Yes,1.9,63.89
+Cooper,Kitten,Fawn,Male,5,4,5,5,2,Yes,2.0,66.67
+Catsanova,Young Adult,Cream,Male,4,3,2,5,4,Yes,1.9,63.89
+Agatha,Kitten,Cinnamon,Female,5,4,3,3,5,No,1.2999999999999998,47.22
+Nacho,Kitten,Chocolate,Male,4,3,3,3,4,No,1.1999999999999997,44.44
+Nibbler,Senior,Chocolate and White,Male,4,4,3,4,2,Yes,1.5,52.78
+Neil,Senior,Brown and White Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Peaches,Mature Adult,White,Female,4,4,6,5,3,Yes,1.4,50.0
+Anna,Kitten,White,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Calypso,Kitten,Gray and White Tabby,Female,4,5,3,3,5,No,0.7,30.56
+Calliope,Kitten,Lilac Tortoiseshell,Female,5,4,2,4,5,Yes,1.7000000000000002,58.33
+Nila,Senior,White,Female,5,5,5,5,3,Yes,1.7,58.33
+Callie,Mature Adult,Dilute Calico,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Delfina,Senior,Torbie,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Zevran,Young Adult,Gray,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Jerry,Senior,Chocolate Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Austin,Mature Adult,Cream,Male,4,2,5,4,4,Yes,1.5,52.78
+Cosmo,Mature Adult,Black and White,Male,4,3,4,5,2,Yes,1.9000000000000001,63.89
+Donut,Mature Adult,Gray and White,Male,5,2,4,4,4,Yes,2.0000000000000004,66.67
+Tiger,Kitten,Silver Tabby,Male,5,3,4,5,2,Yes,2.3,75.0
+Leo,Mature Adult,Brown and White Tabby,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Sheba,Mature Adult,Chocolate Tabby,Female,4,4,4,3,3,No,0.9999999999999998,38.89
+Wanda,Kitten,Dilute Torbie,Female,5,5,4,4,3,Yes,1.4999999999999998,52.78
+Sprinkles,Senior,Silver Tabby,Male,4,5,3,5,3,Yes,1.5,52.78
+Binx,Senior,Red Tabby,Male,5,4,2,5,3,Yes,2.2,72.22
+Anna,Senior,Gray and White Tabby,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Jerry,Senior,Chocolate and White,Male,4,3,4,5,3,Yes,1.8,61.11
+Linguine,Young Adult,Red,Male,5,4,4,5,4,Yes,1.9,63.89
+Morrigan,Mature Adult,Dilute Tortoiseshell,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Cielo,Mature Adult,Red,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Anna,Kitten,Cinnamon,Female,5,4,4,4,5,Yes,1.5,52.78
+Binx,Kitten,Orange,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Marshmallow,Young Adult,Gray Tabby,Female,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Pumpkin,Young Adult,Chocolate,Female,4,4,4,5,4,Yes,1.5,52.78
+Peanut,Mature Adult,Fawn,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Figaro,Senior,Brown and White Tabby,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Vikki,Senior,Fawn,Female,4,3,3,4,5,Yes,1.4,50.0
+Atticus,Young Adult,Gray and White Tabby,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Orion,Mature Adult,Chocolate Tabby,Male,5,3,3,5,2,Yes,2.3999999999999995,77.78
+Ash,Kitten,Brown and White Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Alfred,Mature Adult,Cinnamon,Male,4,3,5,4,5,No,1.2,44.44
+Pumpkin,Mature Adult,Silver Tabby,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Sophie,Senior,Black and White,Female,5,3,5,4,3,Yes,1.7999999999999996,61.11
+Matty,Kitten,Chocolate and White,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Spike,Young Adult,Chocolate Tabby,Male,5,4,4,4,4,Yes,1.6,55.56
+Pancake,Mature Adult,Gray and White Tabby,Female,4,5,2,3,4,No,0.9,36.11
+August,Mature Adult,Lilac,Male,4,4,4,4,5,No,1.1,41.67
+Callie,Kitten,Calico,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Chestnut,Mature Adult,Chocolate Tabby,Male,3,3,3,5,2,Yes,1.6,55.56
+Hendrix,Young Adult,Black,Male,5,3,4,6,2,Yes,2.5999999999999996,83.33
+Rosie,Kitten,Tortoiseshell,Female,4,2,3,4,2,Yes,1.9000000000000001,63.89
+Axel,Kitten,Gray Tabby,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Delphi,Senior,Black,Female,5,4,4,4,3,Yes,1.7,58.33
+Shadow,Mature Adult,Red,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Reptar,Kitten,Orange,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Hunter,Kitten,Black,Male,4,3,3,6,2,Yes,2.3,75.0
+Bitsy,Mature Adult,Tortoiseshell,Female,5,5,5,5,3,Yes,1.7,58.33
+Lucky,Senior,Lilac,Male,4,4,5,3,5,No,0.7,30.56
+Dante,Kitten,Chocolate,Male,5,4,4,5,4,Yes,1.9,63.89
+Fergus,Young Adult,Gray and White Tabby,Male,4,5,2,5,4,Yes,1.5,52.78
+Fritz,Senior,Red,Male,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Mochi,Young Adult,Chocolate and White,Female,4,4,3,4,3,Yes,1.4,50.0
+Stella,Senior,Lilac Tortoiseshell,Female,4,4,3,5,3,Yes,1.7,58.33
+Latte,Senior,Silver Tabby,Male,5,5,4,4,3,Yes,1.4999999999999998,52.78
+Suki,Young Adult,Orange and White,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Furman,Senior,White,Male,4,6,6,4,3,No,0.6999999999999997,30.56
+Tater,Mature Adult,Cream Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Ash,Kitten,Chocolate,Male,5,4,3,3,4,Yes,1.4,50.0
+Chai,Kitten,Lilac Tortoiseshell,Female,4,4,5,4,5,No,1.0,38.89
+Gilly,Young Adult,Calico,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Bella,Senior,Gray Tabby,Female,4,4,5,4,3,No,1.2,44.44
+Marshmallow,Young Adult,Cinnamon,Female,6,3,3,5,2,Yes,2.8,88.89
+Aloy,Kitten,Gray Tabby,Female,5,4,4,4,4,Yes,1.6,55.56
+Nikki,Senior,Silver Tabby,Female,4,4,2,3,4,No,1.1,41.67
+Gilly,Young Adult,Brown and White Tabby,Female,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Jasnah,Senior,Cream,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Princess,Young Adult,Orange,Female,4,5,5,4,3,No,1.0,38.89
+Trouble,Young Adult,Orange,Male,5,3,4,3,5,Yes,1.4,50.0
+Darla,Mature Adult,Calico,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Portia,Kitten,Cream,Female,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Sasha,Mature Adult,Dilute Tortoiseshell,Female,4,5,3,3,3,No,0.8999999999999999,36.11
+Sprinkles,Kitten,Black and White,Female,5,3,4,5,2,Yes,2.3,75.0
+Oreo,Mature Adult,Black and White,Female,4,3,3,4,4,Yes,1.5,52.78
+Maddy,Senior,Brown and White Tabby,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Minerva,Senior,Gray and White,Female,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Kitty,Senior,Torbie,Female,5,3,4,6,3,Yes,2.5,80.56
+Jinx,Kitten,Gray and White Tabby,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Winter,Kitten,Black and White,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Pistachio,Senior,Chocolate and White,Female,6,4,6,5,4,Yes,2.1,69.44
+Latte,Mature Adult,Gray and White,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Jasper,Young Adult,Orange,Male,4,4,3,5,2,Yes,1.8,61.11
+Misty,Mature Adult,Orange,Female,5,4,4,4,2,Yes,1.8,61.11
+Arwen,Kitten,Chocolate and White,Female,3,3,1,4,5,No,1.2000000000000002,44.44
+Nico,Senior,Gray and White Tabby,Male,4,3,4,6,2,Yes,2.1999999999999997,72.22
+Taffy,Mature Adult,Dilute Torbie,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Coffee,Young Adult,Black and White,Male,3,4,2,5,2,Yes,1.5000000000000002,52.78
+Nemo,Kitten,Chocolate,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Jinx,Senior,Chocolate Tabby,Male,5,3,4,5,5,Yes,2.0,66.67
+August,Kitten,Red,Male,5,5,3,4,4,Yes,1.5,52.78
+Latte,Senior,White,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Dora,Young Adult,Fawn,Female,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Nemo,Kitten,Cinnamon,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Shallan,Kitten,Brown and White Tabby,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Vesper,Young Adult,Gray,Female,5,5,6,4,4,No,1.1999999999999997,44.44
+Scout,Kitten,Cream Tabby,Male,4,4,4,3,4,No,0.8999999999999998,36.11
+Mordin,Mature Adult,Red Tabby,Male,5,3,4,3,5,Yes,1.4,50.0
+Nikki,Kitten,Orange,Female,5,6,5,4,4,No,1.0999999999999996,41.67
+Tiger,Young Adult,Cream Tabby,Male,5,5,5,5,3,Yes,1.7,58.33
+Sammy,Mature Adult,Silver Tabby,Male,5,4,3,5,5,Yes,1.9,63.89
+Alina,Young Adult,Red,Female,5,4,4,4,3,Yes,1.7,58.33
+Natasha,Senior,Cinnamon,Female,5,5,5,5,4,Yes,1.6,55.56
+Sam,Kitten,Fawn,Male,4,4,4,5,4,Yes,1.5,52.78
+Molly,Kitten,Lilac,Female,4,4,4,5,4,Yes,1.5,52.78
+Felix,Young Adult,Gray Tabby,Male,4,4,3,5,2,Yes,1.8,61.11
+Smudge,Young Adult,Gray and White Tabby,Male,4,4,4,5,4,Yes,1.5,52.78
+Norbert,Young Adult,Cream,Male,4,4,4,5,4,Yes,1.5,52.78
+Chloe,Mature Adult,Fawn,Female,4,3,3,4,5,Yes,1.4,50.0
+Edie,Kitten,Gray and White,Female,4,5,3,5,3,Yes,1.5,52.78
+Nala,Kitten,Fawn,Female,4,3,2,6,3,Yes,2.3,75.0
+Clawdia,Kitten,Calico,Female,5,5,5,4,3,Yes,1.4,50.0
+Penny,Kitten,Chocolate,Female,5,4,4,4,5,Yes,1.5,52.78
+Dalinar,Young Adult,Cream Tabby,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Zevran,Mature Adult,Cream,Male,4,3,3,4,4,Yes,1.5,52.78
+Cas,Young Adult,Cream,Male,4,5,3,5,4,Yes,1.4,50.0
+Lucifer,Kitten,Chocolate Tabby,Male,4,3,2,4,3,Yes,1.7,58.33
+Nila,Mature Adult,Black and White,Female,4,3,2,3,4,No,1.2999999999999998,47.22
+Smokey,Kitten,Chocolate and White,Male,5,4,4,4,3,Yes,1.7,58.33
+Sadie,Kitten,Silver Tabby,Female,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Cosmo,Young Adult,Gray and White,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Rasha,Young Adult,Tortoiseshell,Female,4,3,3,4,4,Yes,1.5,52.78
+Kiwi,Mature Adult,Lilac Tortoiseshell,Female,4,5,4,3,3,No,0.8,33.33
+Mordin,Young Adult,Orange,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Frodo,Senior,Orange,Male,5,6,4,4,5,No,1.0999999999999996,41.67
+Stitch,Senior,Cream,Male,4,3,4,4,4,Yes,1.4,50.0
+Axel,Mature Adult,Red,Male,4,4,4,4,3,No,1.3,47.22
+Portia,Senior,Dilute Calico,Female,4,6,4,4,4,No,0.7999999999999997,33.33
+Enzo,Kitten,White,Male,4,3,2,4,4,Yes,1.6,55.56
+Hendrix,Young Adult,Gray,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Penelope,Young Adult,Chocolate and White,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Basil,Mature Adult,Cream Tabby,Male,4,5,5,4,5,No,0.8,33.33
+Rocky,Young Adult,Gray and White Tabby,Male,4,5,5,4,5,No,0.8,33.33
+Nico,Senior,Gray and White Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Kimchi,Mature Adult,Silver Tabby,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Atticus,Senior,Gray Tabby,Male,4,6,3,5,4,No,1.1999999999999997,44.44
+Peanut,Kitten,Chocolate and White,Female,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Loki,Young Adult,Black and White,Male,4,4,4,4,5,No,1.1,41.67
+Basil,Mature Adult,Cream,Male,4,4,5,5,3,Yes,1.5,52.78
+Smudge,Kitten,Orange and White,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Charlie,Young Adult,Cream,Male,5,5,5,6,4,Yes,1.9,63.89
+Smokey,Mature Adult,White,Male,4,3,3,6,2,Yes,2.3,75.0
+Princess,Mature Adult,Lilac Tortoiseshell,Female,4,4,4,4,5,No,1.1,41.67
+Noodle,Senior,Gray,Male,5,5,4,4,4,Yes,1.4,50.0
+Mischief,Kitten,Black and White,Female,3,3,3,4,5,No,1.0,38.89
+Alina,Young Adult,Cinnamon,Female,3,4,3,5,4,No,1.2000000000000002,44.44
+Ozzy,Senior,White,Male,3,2,2,3,4,No,1.1,41.67
+Reptar,Mature Adult,Red,Male,4,4,4,5,4,Yes,1.5,52.78
+Wilson,Senior,Lilac,Male,4,3,3,5,2,Yes,2.0,66.67
+Marshmallow,Kitten,Brown and White Tabby,Male,4,2,2,5,2,Yes,2.3,75.0
+Rosie,Mature Adult,Fawn,Female,4,5,3,3,4,No,0.7999999999999999,33.33
+Lucky,Senior,Black and White,Male,5,3,2,5,2,Yes,2.5,80.56
+Lenny,Kitten,Gray Tabby,Male,4,4,5,4,2,No,1.3,47.22
+Trouble,Senior,Red,Male,5,3,4,5,4,Yes,2.1,69.44
+Leo,Young Adult,Red Tabby,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Gimli,Senior,Gray,Male,4,4,4,5,4,Yes,1.5,52.78
+Marshmallow,Mature Adult,Cinnamon,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Matcha,Mature Adult,Chocolate and White,Female,4,5,4,3,4,No,0.7000000000000001,30.56
+Persephone,Kitten,Torbie,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Figaro,Mature Adult,Chocolate,Male,4,4,4,5,4,Yes,1.5,52.78
+Atlas,Kitten,Chocolate Tabby,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Peanut,Young Adult,Black and White,Male,5,5,4,6,3,Yes,2.0999999999999996,69.44
+Missy,Senior,Torbie,Female,4,4,5,5,4,Yes,1.4,50.0
+Austin,Mature Adult,Chocolate,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Galadriel,Senior,Gray and White Tabby,Female,4,4,3,5,3,Yes,1.7,58.33
+Neptune,Mature Adult,Lilac,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Trouble,Senior,Lilac,Male,4,5,3,5,3,Yes,1.5,52.78
+Oliver,Senior,Silver Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+Basil,Senior,Chocolate Tabby,Male,5,4,2,5,4,Yes,2.1,69.44
+Misty,Young Adult,Red Tabby,Female,4,3,3,6,3,Yes,2.2,72.22
+Penny,Mature Adult,Orange and White,Female,4,3,3,4,4,Yes,1.5,52.78
+Frodo,Mature Adult,Gray and White Tabby,Male,4,5,3,4,3,No,1.2,44.44
+Mittens,Young Adult,Silver Tabby,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Calypso,Senior,Torbie,Female,4,5,5,4,3,No,1.0,38.89
+Meg,Senior,Dilute Calico,Female,4,4,3,5,3,Yes,1.7,58.33
+Kasumi,Senior,Lilac,Female,5,3,3,4,5,Yes,1.7999999999999998,61.11
+Agnes,Young Adult,Black,Female,5,3,3,5,2,Yes,2.3999999999999995,77.78
+Neo,Senior,Red,Male,4,3,5,4,4,No,1.2999999999999998,47.22
+Cleo,Young Adult,Dilute Tortoiseshell,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Kimchi,Young Adult,Brown and White Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Minerva,Senior,Dilute Tortoiseshell,Female,3,3,2,5,2,Yes,1.7000000000000002,58.33
+Calliope,Mature Adult,Cinnamon,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Pancake,Kitten,Cinnamon,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Lilo,Young Adult,Chocolate,Female,5,4,4,4,3,Yes,1.7,58.33
+Coffee,Young Adult,Lilac Tortoiseshell,Female,5,4,5,4,4,Yes,1.5,52.78
+Kona,Mature Adult,Gray,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Adolin,Senior,Black and White,Male,4,4,4,4,5,No,1.1,41.67
+Maisy,Kitten,Dilute Tortoiseshell,Female,4,5,3,5,4,Yes,1.4,50.0
+Sadie,Kitten,Cream Tabby,Female,4,3,3,4,2,Yes,1.7,58.33
+Murphy,Kitten,Lilac,Male,4,4,5,4,4,No,1.1,41.67
+Stella,Senior,Cinnamon,Female,4,4,3,5,3,Yes,1.7,58.33
+Delfina,Mature Adult,Cinnamon,Female,4,4,4,5,4,Yes,1.5,52.78
+Shadow,Mature Adult,Black,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Jinx,Mature Adult,Lilac,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Shallan,Mature Adult,Red,Female,4,4,5,5,4,Yes,1.4,50.0
+Mika,Kitten,Cinnamon,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Macaroni,Senior,Fawn,Male,4,3,3,6,3,Yes,2.2,72.22
+Lucifer,Kitten,Cream,Male,4,6,5,5,3,No,1.0999999999999999,41.67
+Arwen,Senior,Red Tabby,Female,4,3,5,4,6,No,1.0999999999999999,41.67
+Marshmallow,Young Adult,Gray Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Romeo,Young Adult,Orange,Male,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Beau,Mature Adult,Silver Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Mufasa,Young Adult,Orange and White,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Merlin,Kitten,Chocolate,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Apollo,Mature Adult,Gray Tabby,Male,4,2,2,5,2,Yes,2.3,75.0
+Cleocatra,Mature Adult,Cinnamon,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Snickers,Senior,Black,Female,3,3,4,3,4,No,0.7000000000000001,30.56
+Winter,Senior,Black,Male,4,3,3,4,5,Yes,1.4,50.0
+Neptune,Senior,Chocolate and White,Male,4,3,2,6,2,Yes,2.3999999999999995,77.78
+Atticus,Senior,Fawn,Male,4,4,3,5,3,Yes,1.7,58.33
+Ruby,Mature Adult,Lilac Tortoiseshell,Female,6,5,4,5,4,Yes,2.1000000000000005,69.44
+Kasumi,Mature Adult,Dilute Calico,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Portia,Young Adult,Calico,Female,4,3,3,3,5,No,1.0999999999999999,41.67
+Eowyn,Mature Adult,Brown and White Tabby,Female,5,4,4,4,4,Yes,1.6,55.56
+Freya,Senior,Brown and White Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Nora,Young Adult,Calico,Female,5,4,4,4,4,Yes,1.6,55.56
+Katrina,Young Adult,Gray,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Lucy,Senior,Silver Tabby,Female,5,5,4,5,3,Yes,1.8,61.11
+Nora,Kitten,Chocolate and White,Female,4,4,3,5,4,Yes,1.6,55.56
+Gatsby,Mature Adult,Cream Tabby,Male,4,5,3,5,3,Yes,1.5,52.78
+Nero,Young Adult,Chocolate,Male,4,4,3,4,5,No,1.2,44.44
+Snickers,Mature Adult,Orange,Male,4,5,3,4,4,No,1.1,41.67
+Clyde,Young Adult,Chocolate,Male,4,3,2,5,4,Yes,1.9,63.89
+Sophie,Senior,Red Tabby,Female,4,4,3,6,3,Yes,1.9999999999999998,66.67
+Gizmo,Senior,Gray Tabby,Female,3,5,4,5,2,No,1.1000000000000003,41.67
+Remi,Young Adult,Chocolate and White,Male,5,3,3,4,3,Yes,1.9999999999999998,66.67
+Shallan,Mature Adult,Black,Female,4,4,3,4,3,Yes,1.4,50.0
+Rico,Kitten,Orange,Male,5,5,5,5,4,Yes,1.6,55.56
+Calliope,Kitten,Chocolate Tabby,Female,4,4,4,5,4,Yes,1.5,52.78
+Adolin,Young Adult,Red Tabby,Male,4,5,3,4,3,No,1.2,44.44
+Nyxi,Mature Adult,Red Tabby,Female,5,4,4,5,4,Yes,1.9,63.89
+Kasumi,Kitten,Gray and White Tabby,Female,4,5,5,6,3,Yes,1.5999999999999999,55.56
+Hendrix,Mature Adult,Gray,Male,5,3,4,5,4,Yes,2.1,69.44
+Oreo,Senior,White,Female,5,3,5,5,2,Yes,2.1999999999999997,72.22
+Chestnut,Senior,Chocolate and White,Male,4,5,3,3,5,No,0.7,30.56
+Nibbler,Senior,Cream Tabby,Male,3,2,5,4,3,No,1.2,44.44
+Hendrix,Senior,Red,Male,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Jinx,Kitten,Chocolate,Male,4,2,3,4,4,Yes,1.7000000000000002,58.33
+Wanda,Mature Adult,Cream Tabby,Female,5,6,6,5,3,Yes,1.3999999999999997,50.0
+Delphi,Senior,Calico,Female,4,3,3,4,4,Yes,1.5,52.78
+Suki,Mature Adult,Lilac Tortoiseshell,Female,5,5,4,5,3,Yes,1.8,61.11
+Rick,Senior,Cream,Male,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Zelda,Kitten,Dilute Torbie,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Leo,Mature Adult,Cream,Male,5,4,4,3,4,No,1.2999999999999998,47.22
+Luna,Senior,Lilac Tortoiseshell,Female,3,3,2,5,2,Yes,1.7000000000000002,58.33
+Freya,Young Adult,Dilute Calico,Female,4,4,4,5,4,Yes,1.5,52.78
+Ivy,Young Adult,Orange,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Gabe,Young Adult,Cream,Male,3,2,2,4,2,Yes,1.6,55.56
+Stella,Kitten,Cream Tabby,Female,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Pi ,Mature Adult,Dilute Tortoiseshell,Female,5,4,5,4,4,Yes,1.5,52.78
+Avi,Kitten,Silver Tabby,Male,5,3,3,4,4,Yes,1.9,63.89
+Zoe,Senior,Gray Tabby,Female,3,3,3,5,2,Yes,1.6,55.56
+Sprinkles,Young Adult,Cinnamon,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Darla,Kitten,Dilute Calico,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Nelson,Mature Adult,Gray and White,Male,4,3,3,5,2,Yes,2.0,66.67
+Clawde,Senior,Brown and White Tabby,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Pistachio,Kitten,Gray Tabby,Female,4,4,3,4,3,Yes,1.4,50.0
+Lucky,Young Adult,Chocolate Tabby,Male,4,3,5,6,2,Yes,2.0999999999999996,69.44
+Orion,Kitten,White,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Coffee,Senior,Cream Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Winter,Senior,Black,Male,5,5,4,5,2,Yes,1.9000000000000001,63.89
+Jasper,Mature Adult,Brown and White Tabby,Male,3,2,3,4,4,No,1.3000000000000003,47.22
+Dorian,Kitten,Lilac,Male,5,6,3,4,5,No,1.1999999999999997,44.44
+Wanda,Mature Adult,Fawn,Female,6,6,7,4,5,No,1.2000000000000002,44.44
+Fritz,Senior,Fawn,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Oliver,Kitten,Red,Male,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Navani,Senior,Black and White,Female,5,4,4,4,4,Yes,1.6,55.56
+Olive,Young Adult,Orange and White,Female,5,5,5,6,4,Yes,1.9,63.89
+Nikki,Mature Adult,Lilac,Female,5,3,4,4,5,Yes,1.6999999999999997,58.33
+Liara,Kitten,Orange,Female,4,3,3,4,4,Yes,1.5,52.78
+Izzy,Kitten,Chocolate Tabby,Female,4,3,4,6,2,Yes,2.1999999999999997,72.22
+Persephone,Kitten,Black,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Muffin,Senior,White,Female,4,3,3,4,5,Yes,1.4,50.0
+Shadow,Young Adult,Brown and White Tabby,Male,4,4,4,4,5,No,1.1,41.67
+Bilbo,Kitten,Cream,Male,5,4,4,5,5,Yes,1.7999999999999998,61.11
+Duchess,Mature Adult,Cream,Female,5,3,4,5,4,Yes,2.1,69.44
+Nero,Young Adult,Cream,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Lucky,Kitten,Chocolate Tabby,Male,6,5,7,4,5,Yes,1.4000000000000004,50.0
+Arthas,Senior,Orange,Male,4,6,5,4,5,No,0.5999999999999999,27.78
+Lilo,Mature Adult,Calico,Female,4,4,4,5,4,Yes,1.5,52.78
+Kiwi,Mature Adult,Orange and White,Female,4,3,3,4,4,Yes,1.5,52.78
+Oreo,Mature Adult,Gray and White,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Maddy,Kitten,Silver Tabby,Female,4,3,3,4,5,Yes,1.4,50.0
+Waffles,Kitten,Fawn,Male,4,4,3,5,4,Yes,1.6,55.56
+Catsanova,Mature Adult,Brown and White Tabby,Male,6,5,5,5,4,Yes,2.0000000000000004,66.67
+Atticus,Young Adult,Chocolate Tabby,Male,5,3,5,4,3,Yes,1.7999999999999996,61.11
+Axel,Mature Adult,Lilac,Male,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Gizmo,Senior,Lilac Tortoiseshell,Female,5,3,4,5,3,Yes,2.2,72.22
+Gilly,Senior,Calico,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Pi ,Senior,Gray and White,Female,5,4,4,5,4,Yes,1.9,63.89
+Ash,Senior,Orange and White,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Anna,Senior,Torbie,Female,5,3,3,4,4,Yes,1.9,63.89
+Dorian,Young Adult,Orange,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Sylphrena,Mature Adult,Chocolate,Female,4,4,3,4,3,Yes,1.4,50.0
+Ozzy,Kitten,Gray Tabby,Male,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Tater,Young Adult,Cream Tabby,Male,4,4,5,4,4,No,1.1,41.67
+Noodle,Kitten,Orange and White,Male,4,4,4,6,3,Yes,1.8999999999999997,63.89
+Hattie,Mature Adult,Cream,Female,4,3,4,4,4,Yes,1.4,50.0
+Dolly,Kitten,Brown and White Tabby,Female,5,4,3,5,4,Yes,2.0,66.67
+Dolly,Kitten,Fawn,Female,4,3,3,4,5,Yes,1.4,50.0
+Daisy,Senior,Dilute Tortoiseshell,Female,5,4,4,5,4,Yes,1.9,63.89
+Murphy,Kitten,Red,Male,4,5,3,4,3,No,1.2,44.44
+Agatha,Mature Adult,Black,Female,4,4,3,5,3,Yes,1.7,58.33
+Parsnip,Senior,White,Female,4,4,2,5,3,Yes,1.8,61.11
+Peanut,Mature Adult,Orange and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Cash,Senior,Fawn,Male,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Oreo,Senior,Silver Tabby,Male,3,3,3,5,2,Yes,1.6,55.56
+Piper,Kitten,Red,Female,3,2,2,3,2,No,1.3,47.22
+Alistair,Young Adult,Orange,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Alistair,Young Adult,Chocolate,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Loki,Kitten,Chocolate Tabby,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Duchess,Young Adult,Dilute Calico,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Axel,Mature Adult,Cream,Male,4,3,4,3,5,No,1.0,38.89
+Celeste,Young Adult,Lilac Tortoiseshell,Female,4,5,3,4,4,No,1.1,41.67
+Sasha,Kitten,Red,Female,3,4,3,5,3,No,1.3,47.22
+Clyde,Kitten,Silver Tabby,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Lucifer,Senior,Black and White,Male,4,4,3,5,4,Yes,1.6,55.56
+Eowyn,Senior,Black and White,Female,4,4,3,5,2,Yes,1.8,61.11
+August,Young Adult,Gray Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Adolin,Senior,Gray Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Maddy,Young Adult,Silver Tabby,Female,4,4,3,4,5,No,1.2,44.44
+Kiwi,Mature Adult,Black and White,Female,5,4,1,4,3,Yes,1.9999999999999998,66.67
+Cielo,Senior,Chocolate,Male,5,2,3,5,6,Yes,2.1999999999999997,72.22
+Sophie,Kitten,Cinnamon,Female,5,4,4,4,5,Yes,1.5,52.78
+Dalinar,Mature Adult,White,Male,4,3,2,3,5,No,1.2,44.44
+Peanut,Mature Adult,Gray and White,Male,5,4,5,3,5,No,1.0999999999999999,41.67
+Arthas,Senior,Red,Male,5,3,2,5,2,Yes,2.5,80.56
+Jinx,Young Adult,Black,Female,5,5,6,4,5,No,1.0999999999999999,41.67
+Waffles,Kitten,Gray Tabby,Male,5,5,3,4,4,Yes,1.5,52.78
+Cielo,Young Adult,Gray and White Tabby,Male,4,6,3,5,3,No,1.2999999999999998,47.22
+Fritz,Young Adult,Silver Tabby,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Clawdia,Kitten,White,Female,4,5,4,5,4,No,1.3000000000000003,47.22
+Nala,Young Adult,Calico,Female,5,5,2,5,3,Yes,1.9999999999999998,66.67
+Lilo,Mature Adult,Calico,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Galadriel,Young Adult,Orange,Female,4,5,3,4,5,No,1.0,38.89
+Olive,Mature Adult,Cream,Female,4,5,3,3,3,No,0.8999999999999999,36.11
+Tiger,Senior,Chocolate and White,Male,4,6,5,4,3,No,0.7999999999999998,33.33
+Eowyn,Kitten,Dilute Tortoiseshell,Female,4,4,5,4,5,No,1.0,38.89
+Starlight,Kitten,Lilac,Female,5,3,3,5,3,Yes,2.3,75.0
+Vesper,Young Adult,Gray and White,Female,5,4,4,6,3,Yes,2.3,75.0
+Orion,Kitten,Gray,Male,4,4,5,5,4,Yes,1.4,50.0
+Lily,Young Adult,Chocolate and White,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Tilly,Kitten,Torbie,Female,4,4,4,5,5,Yes,1.4,50.0
+Neptune,Young Adult,Lilac,Male,4,4,3,4,3,Yes,1.4,50.0
+Persephone,Kitten,Red,Female,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Zevran,Kitten,Gray,Male,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Romeo,Young Adult,Silver Tabby,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Noodle,Kitten,Cream Tabby,Male,4,4,2,5,5,Yes,1.6,55.56
+Oliver,Senior,Silver Tabby,Male,4,4,5,3,5,No,0.7,30.56
+Matty,Mature Adult,Cream,Male,4,3,2,6,2,Yes,2.3999999999999995,77.78
+Flemeth,Kitten,Orange and White,Female,5,5,3,4,3,Yes,1.5999999999999999,55.56
+Kimchi,Mature Adult,Chocolate and White,Male,4,2,4,4,5,Yes,1.5,52.78
+Merlin,Mature Adult,Chocolate,Male,5,4,4,4,3,Yes,1.7,58.33
+Rogue,Senior,Chocolate Tabby,Female,4,4,5,4,4,No,1.1,41.67
+Arthas,Senior,Brown and White Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Nova,Kitten,Dilute Torbie,Female,5,6,4,4,4,No,1.1999999999999997,44.44
+Mochi,Young Adult,Orange and White,Female,5,4,3,5,5,Yes,1.9,63.89
+Peanut,Kitten,Black and White,Female,5,4,2,5,3,Yes,2.2,72.22
+Peanut,Kitten,Lilac,Male,5,6,4,4,5,No,1.0999999999999996,41.67
+Chester,Kitten,Orange,Male,4,4,4,5,4,Yes,1.5,52.78
+Trouble,Kitten,Orange and White,Male,4,4,3,4,5,No,1.2,44.44
+Sierra,Mature Adult,Gray and White Tabby,Female,5,4,3,3,4,Yes,1.4,50.0
+Ziggy,Kitten,Chocolate and White,Male,4,4,2,5,6,Yes,1.5,52.78
+Orion,Senior,White,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Leo,Young Adult,Cinnamon,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Muffin,Mature Adult,White,Female,4,5,3,4,5,No,1.0,38.89
+Rosie,Young Adult,Gray Tabby,Female,5,3,3,4,4,Yes,1.9,63.89
+Kimchi,Mature Adult,Black,Male,5,4,5,4,4,Yes,1.5,52.78
+Mufasa,Kitten,Gray,Male,4,5,3,3,4,No,0.7999999999999999,33.33
+Tiger,Kitten,Chocolate and White,Male,4,5,3,5,4,Yes,1.4,50.0
+Marshmallow,Mature Adult,Gray Tabby,Male,4,4,4,5,4,Yes,1.5,52.78
+Matcha,Senior,Chocolate Tabby,Female,4,2,4,5,4,Yes,1.9000000000000004,63.89
+Sassy,Kitten,Gray and White,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Liara,Senior,Red Tabby,Female,4,3,4,6,3,Yes,2.0999999999999996,69.44
+Poppy,Mature Adult,Orange,Female,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Adolin,Senior,Lilac,Male,4,3,5,3,3,No,1.0999999999999999,41.67
+Cullen,Mature Adult,Silver Tabby,Male,4,3,2,4,3,Yes,1.7,58.33
+Charlie,Mature Adult,Cinnamon,Male,5,5,4,3,4,No,1.1,41.67
+Zelda,Mature Adult,Gray and White,Female,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Nero,Kitten,White,Male,4,4,3,5,3,Yes,1.7,58.33
+Shallan,Kitten,Black and White,Female,5,5,3,5,5,Yes,1.7000000000000002,58.33
+Sierra,Mature Adult,Chocolate and White,Female,5,3,2,6,2,Yes,2.8,88.89
+Tater,Young Adult,Black,Male,5,2,4,4,5,Yes,1.9000000000000004,63.89
+Rico,Mature Adult,Silver Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Noodle,Senior,Silver Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Poppy,Mature Adult,Lilac Tortoiseshell,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Snickers,Senior,Red,Male,4,4,5,5,4,Yes,1.4,50.0
+Marshmallow,Mature Adult,Black and White,Female,4,4,4,4,5,No,1.1,41.67
+Mufasa,Young Adult,Gray and White Tabby,Male,5,4,3,5,5,Yes,1.9,63.89
+Felicity,Kitten,Red,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Zoe,Senior,Black,Female,4,4,3,3,5,No,0.8999999999999999,36.11
+Max,Mature Adult,Fawn,Male,4,3,2,5,4,Yes,1.9,63.89
+Calliope,Kitten,Calico,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Petunia,Young Adult,Chocolate and White,Female,4,4,3,4,3,Yes,1.4,50.0
+Adolin,Young Adult,Cream,Male,4,4,5,5,4,Yes,1.4,50.0
+Sheba,Kitten,Red Tabby,Female,5,3,3,5,4,Yes,2.1999999999999997,72.22
+Figaro,Young Adult,Red,Male,4,3,5,5,3,Yes,1.7,58.33
+Bitsy,Senior,Chocolate and White,Female,4,3,5,3,5,No,0.8999999999999999,36.11
+Sam,Kitten,Gray Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Neo,Senior,Cream Tabby,Male,6,4,4,5,4,Yes,2.3000000000000003,75.0
+Bast,Mature Adult,Cinnamon,Female,4,5,3,3,4,No,0.7999999999999999,33.33
+Izzy,Senior,Cinnamon,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Lucy,Kitten,Orange,Female,5,5,4,4,4,Yes,1.4,50.0
+Sierra,Young Adult,Dilute Calico,Female,4,3,4,5,3,Yes,1.8,61.11
+Sierra,Kitten,Chocolate and White,Female,5,5,4,5,2,Yes,1.9000000000000001,63.89
+Acorn,Young Adult,Lilac,Male,5,4,4,5,4,Yes,1.9,63.89
+Maisy,Young Adult,Dilute Calico,Female,4,5,3,5,3,Yes,1.5,52.78
+Nugget,Young Adult,Chocolate Tabby,Male,5,4,2,5,4,Yes,2.1,69.44
+Rogue,Young Adult,Brown and White Tabby,Male,5,4,4,4,4,Yes,1.6,55.56
+Piper,Kitten,Chocolate and White,Female,5,4,3,6,3,Yes,2.3999999999999995,77.78
+Cricket,Mature Adult,Chocolate Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Waffles,Mature Adult,Black,Male,5,3,3,4,4,Yes,1.9,63.89
+Coffee,Mature Adult,Orange and White,Male,5,5,3,4,4,Yes,1.5,52.78
+Mittens,Kitten,Orange and White,Male,4,2,2,4,5,Yes,1.7000000000000002,58.33
+Persephone,Kitten,Brown and White Tabby,Female,5,5,3,4,4,Yes,1.5,52.78
+Mika,Young Adult,Red,Male,4,5,3,5,3,Yes,1.5,52.78
+Tasha,Senior,Dilute Torbie,Female,4,4,5,4,4,No,1.1,41.67
+Lexi,Senior,Black and White,Female,5,4,2,4,4,Yes,1.8000000000000003,61.11
+Latte,Young Adult,Gray and White,Male,4,5,5,3,4,No,0.6,27.78
+Freya,Kitten,Cinnamon,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Portia,Mature Adult,Silver Tabby,Female,4,3,3,5,5,Yes,1.7000000000000002,58.33
+Olive,Mature Adult,Red Tabby,Female,5,4,3,6,3,Yes,2.3999999999999995,77.78
+Max,Young Adult,Orange,Male,5,4,4,5,4,Yes,1.9,63.89
+Kiwi,Kitten,Cinnamon,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Eowyn,Mature Adult,Dilute Tortoiseshell,Female,5,4,3,5,4,Yes,2.0,66.67
+Navani,Young Adult,Gray and White,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Apollo,Mature Adult,Red Tabby,Male,5,5,5,4,5,No,1.2,44.44
+Calliope,Young Adult,Silver Tabby,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Stitch,Mature Adult,Cream Tabby,Male,5,5,4,5,3,Yes,1.8,61.11
+Mika,Senior,White,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Mufasa,Young Adult,Lilac,Male,4,3,2,3,5,No,1.2,44.44
+Avi,Senior,Gray Tabby,Male,4,4,3,5,2,Yes,1.8,61.11
+Sushi,Mature Adult,Gray and White Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Nugget,Senior,Black,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Pumpkin,Young Adult,Tortoiseshell,Female,3,3,1,4,5,No,1.2000000000000002,44.44
+Nugget,Senior,Orange,Male,4,3,2,4,4,Yes,1.6,55.56
+Nyxi,Kitten,Chocolate,Female,4,5,3,4,4,No,1.1,41.67
+Peaches,Mature Adult,Dilute Calico,Female,4,3,2,6,3,Yes,2.3,75.0
+Nibbler,Young Adult,Gray Tabby,Male,4,4,5,5,4,Yes,1.4,50.0
+Rosie,Young Adult,Cinnamon,Female,3,3,3,4,3,No,1.2,44.44
+Duchess,Kitten,White,Female,3,4,4,4,4,No,0.8000000000000002,33.33
+Izzy,Senior,Orange,Female,4,3,2,4,2,Yes,1.8,61.11
+Muffin,Young Adult,Dilute Torbie,Female,4,5,2,5,4,Yes,1.5,52.78
+Figaro,Mature Adult,Gray and White Tabby,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Jasmine,Kitten,Black and White,Female,5,4,2,6,2,Yes,2.5999999999999996,83.33
+Matty,Senior,Red Tabby,Male,4,3,6,3,4,No,0.8999999999999998,36.11
+Tawny,Senior,Black,Female,4,4,4,5,4,Yes,1.5,52.78
+Leliana,Kitten,Chocolate Tabby,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Austin,Kitten,Cream,Male,4,4,3,5,3,Yes,1.7,58.33
+Ruby,Kitten,Fawn,Female,4,2,4,5,3,Yes,2.0,66.67
+Tali,Mature Adult,Cinnamon,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Lily,Kitten,Fawn,Female,5,5,5,5,3,Yes,1.7,58.33
+Julian,Mature Adult,Black,Male,5,4,3,6,2,Yes,2.4999999999999996,80.56
+Lily,Senior,Orange,Female,5,4,4,6,3,Yes,2.3,75.0
+Bagel,Senior,Fawn,Male,4,2,3,5,3,Yes,2.1000000000000005,69.44
+Olive,Kitten,White,Female,5,5,3,3,4,No,1.1999999999999997,44.44
+Mika,Mature Adult,Chocolate and White,Male,4,4,4,5,4,Yes,1.5,52.78
+Apollo,Mature Adult,Fawn,Male,4,5,3,4,4,No,1.1,41.67
+Piper,Mature Adult,Gray and White Tabby,Female,5,3,3,4,4,Yes,1.9,63.89
+Betsy,Mature Adult,Tortoiseshell,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Austin,Young Adult,Gray,Male,5,4,5,3,4,No,1.1999999999999997,44.44
+Kona,Mature Adult,Chocolate Tabby,Male,4,3,4,5,3,Yes,1.8,61.11
+Sylvanas,Mature Adult,Tortoiseshell,Female,5,5,5,5,4,Yes,1.6,55.56
+Cricket,Senior,Black and White,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Missy,Kitten,Orange and White,Female,4,4,3,5,2,Yes,1.8,61.11
+Liara,Kitten,Torbie,Female,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Nova,Kitten,Black,Female,5,3,2,5,5,Yes,2.2,72.22
+Tulip,Senior,Cream Tabby,Female,4,4,4,5,4,Yes,1.5,52.78
+Graham,Senior,Red,Male,5,4,4,5,4,Yes,1.9,63.89
+Persephone,Young Adult,Brown and White Tabby,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Matty,Senior,Gray and White,Male,5,3,3,5,3,Yes,2.3,75.0
+Ivy,Senior,Cream,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Wilson,Mature Adult,Chocolate Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Bitsy,Mature Adult,Dilute Torbie,Female,5,4,6,5,5,Yes,1.5999999999999996,55.56
+Sushi,Senior,Gray and White,Male,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Avi,Mature Adult,Silver Tabby,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Nila,Young Adult,Torbie,Female,3,5,4,4,3,No,0.7,30.56
+Aurora,Kitten,Cream Tabby,Female,3,5,3,4,4,No,0.7000000000000001,30.56
+Kitty,Mature Adult,White,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Duchess,Kitten,Gray and White Tabby,Female,4,4,4,5,4,Yes,1.5,52.78
+Nibbler,Senior,Chocolate and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Alina,Senior,Red,Female,4,4,4,4,3,No,1.3,47.22
+Ozzy,Senior,Cream,Male,6,6,5,5,4,Yes,1.8000000000000003,61.11
+Merlin,Kitten,Gray Tabby,Male,5,3,4,4,3,Yes,1.8999999999999997,63.89
+Lexi,Mature Adult,Lilac Tortoiseshell,Female,4,4,5,4,3,No,1.2,44.44
+Kaladin,Kitten,Black,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Nico,Mature Adult,Cream Tabby,Male,4,3,3,4,2,Yes,1.7,58.33
+Latte,Mature Adult,White,Male,4,4,3,5,3,Yes,1.7,58.33
+Atlas,Kitten,Black,Male,4,5,3,4,3,No,1.2,44.44
+Peanut,Senior,Dilute Tortoiseshell,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Meg,Young Adult,Cream,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Missy,Senior,Cream Tabby,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Lilith,Young Adult,Black,Female,5,4,5,5,5,Yes,1.7000000000000002,58.33
+Rico,Kitten,Orange,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Max,Senior,Black,Male,4,4,3,5,3,Yes,1.7,58.33
+Nova,Mature Adult,Chocolate Tabby,Female,4,4,2,4,3,Yes,1.5,52.78
+Lexi,Kitten,Chocolate Tabby,Female,4,5,2,4,5,No,1.1,41.67
+Nikki,Young Adult,Fawn,Female,4,3,3,4,4,Yes,1.5,52.78
+Figaro,Mature Adult,Chocolate Tabby,Male,5,3,2,5,4,Yes,2.3000000000000003,75.0
+Sheba,Kitten,Fawn,Female,4,4,4,4,2,Yes,1.4000000000000001,50.0
+Millie,Kitten,Silver Tabby,Female,4,3,4,4,4,Yes,1.4,50.0
+Felicity,Senior,Gray,Female,4,4,5,4,5,No,1.0,38.89
+Mittens,Kitten,Black,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Buccatini,Senior,Red Tabby,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Zeke,Mature Adult,Chocolate Tabby,Male,4,5,2,4,4,No,1.2000000000000002,44.44
+Anders,Senior,Fawn,Male,5,4,2,5,2,Yes,2.3,75.0
+Max,Young Adult,Orange,Male,5,4,2,4,5,Yes,1.7000000000000002,58.33
+Arthas,Young Adult,White,Male,4,3,3,4,4,Yes,1.5,52.78
+Gatsby,Senior,Gray and White,Male,4,2,4,4,4,Yes,1.6,55.56
+Frodo,Mature Adult,Silver Tabby,Male,4,3,3,5,2,Yes,2.0,66.67
+Winter,Senior,Black,Female,5,3,3,5,3,Yes,2.3,75.0
+Jasnah,Kitten,Orange and White,Female,3,4,4,5,4,No,1.1,41.67
+Garrus,Senior,Brown and White Tabby,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Mufasa,Mature Adult,Gray and White,Male,4,3,3,6,3,Yes,2.2,72.22
+Petunia,Mature Adult,Tortoiseshell,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Jasper,Young Adult,Red,Male,4,4,3,5,3,Yes,1.7,58.33
+Clawde,Mature Adult,Orange and White,Male,4,3,4,5,3,Yes,1.8,61.11
+Dante,Mature Adult,Black and White,Male,3,3,2,5,2,Yes,1.7000000000000002,58.33
+Wanda,Senior,Dilute Tortoiseshell,Female,5,4,4,4,4,Yes,1.6,55.56
+Winnie,Young Adult,Gray Tabby,Female,4,4,3,5,2,Yes,1.8,61.11
+Leliana,Senior,Orange and White,Female,4,4,2,5,2,Yes,1.9000000000000001,63.89
+Mischief,Young Adult,Dilute Tortoiseshell,Female,4,4,3,5,3,Yes,1.7,58.33
+Piper,Mature Adult,Black,Female,4,4,3,5,3,Yes,1.7,58.33
+Fergus,Senior,Red Tabby,Male,3,6,3,3,3,No,0.2999999999999998,19.44
+Callie,Mature Adult,Dilute Tortoiseshell,Female,5,5,5,5,3,Yes,1.7,58.33
+Kona,Mature Adult,Red,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Figaro,Senior,Gray,Male,5,3,2,5,3,Yes,2.4000000000000004,77.78
+Calypso,Kitten,Tortoiseshell,Female,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Eden,Kitten,Orange,Female,3,3,3,4,4,No,1.1,41.67
+Kaladin,Mature Adult,Red Tabby,Male,4,3,4,4,5,No,1.2999999999999998,47.22
+Enzo,Kitten,Chocolate,Male,5,3,3,5,3,Yes,2.3,75.0
+Dorian,Senior,Lilac,Male,4,5,3,4,5,No,1.0,38.89
+Izzy,Senior,Dilute Torbie,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Nila,Young Adult,Gray Tabby,Female,5,4,4,4,4,Yes,1.6,55.56
+Cleo,Young Adult,Dilute Torbie,Female,4,3,3,4,4,Yes,1.5,52.78
+Sasha,Senior,Black,Female,4,5,3,3,3,No,0.8999999999999999,36.11
+Natasha,Young Adult,Orange,Female,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Nico,Young Adult,Cream Tabby,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Luna,Mature Adult,Torbie,Female,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Patch,Senior,Cinnamon,Male,5,5,4,4,4,Yes,1.4,50.0
+Kona,Young Adult,Red Tabby,Male,4,4,3,4,5,No,1.2,44.44
+Fritz,Young Adult,Gray,Male,5,4,7,5,4,Yes,1.6,55.56
+Sassy,Senior,Dilute Tortoiseshell,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Tasha,Kitten,Cream,Female,3,3,2,5,3,Yes,1.6,55.56
+Blossom,Senior,Cream Tabby,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Winter,Kitten,Red Tabby,Male,3,4,3,5,3,No,1.3,47.22
+Kaladin,Senior,Chocolate,Male,4,4,4,4,5,No,1.1,41.67
+Dorian,Kitten,Fawn,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Cricket,Mature Adult,White,Male,5,4,5,5,2,Yes,2.0,66.67
+Mufasa,Senior,Orange and White,Male,3,5,3,5,4,No,1.0,38.89
+Leo,Mature Adult,Lilac,Male,4,3,3,3,4,No,1.1999999999999997,44.44
+Bitsy,Senior,Cream Tabby,Female,5,4,4,4,5,Yes,1.5,52.78
+Pumpkin,Senior,Lilac Tortoiseshell,Female,5,3,3,4,4,Yes,1.9,63.89
+Callie,Senior,Brown and White Tabby,Female,4,5,5,5,4,No,1.2000000000000002,44.44
+Bella,Senior,Cream,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Jerry,Young Adult,Chocolate and White,Male,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Arthas,Mature Adult,Chocolate and White,Male,4,4,4,5,4,Yes,1.5,52.78
+Liara,Mature Adult,Dilute Tortoiseshell,Female,4,4,5,5,2,Yes,1.6,55.56
+Romeo,Senior,Gray and White,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Chai,Young Adult,Gray and White Tabby,Female,5,5,5,3,4,No,0.9999999999999999,38.89
+Betsy,Senior,Orange and White,Female,4,4,2,4,4,Yes,1.4,50.0
+Vikki,Mature Adult,Chocolate and White,Female,5,4,5,4,5,Yes,1.4,50.0
+Rico,Kitten,Chocolate,Male,4,4,3,4,3,Yes,1.4,50.0
+Tilly,Mature Adult,Chocolate and White,Female,4,3,5,5,4,Yes,1.6,55.56
+Sassy,Young Adult,Cinnamon,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Arwen,Young Adult,Gray,Female,5,4,4,4,5,Yes,1.5,52.78
+Boots,Young Adult,Gray,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Atticus,Young Adult,Gray and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Wanda,Young Adult,Gray Tabby,Female,4,4,4,5,4,Yes,1.5,52.78
+Cricket,Kitten,Cinnamon,Male,4,3,3,5,2,Yes,2.0,66.67
+Apollo,Kitten,Brown and White Tabby,Male,4,3,4,5,3,Yes,1.8,61.11
+Enzo,Mature Adult,Silver Tabby,Male,4,5,4,4,2,No,1.2,44.44
+Atlas,Kitten,Lilac,Male,4,5,3,5,3,Yes,1.5,52.78
+Kona,Young Adult,Gray and White Tabby,Male,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Enzo,Senior,Black and White,Male,5,5,4,5,5,Yes,1.6,55.56
+Atticus,Mature Adult,Cinnamon,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Cielo,Mature Adult,Gray and White Tabby,Male,5,4,6,5,3,Yes,1.7999999999999996,61.11
+Alistair,Kitten,Gray and White Tabby,Male,5,5,4,5,3,Yes,1.8,61.11
+Bilbo,Kitten,Cream Tabby,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Tali,Kitten,Cream,Female,5,4,4,4,3,Yes,1.7,58.33
+Oreo,Young Adult,Gray and White,Female,5,7,6,5,3,No,1.1999999999999997,44.44
+Rick,Young Adult,Brown and White Tabby,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Ivy,Mature Adult,Black and White,Female,4,5,3,5,3,Yes,1.5,52.78
+Aloy,Kitten,Black and White,Female,3,5,4,4,3,No,0.7,30.56
+Gatsby,Young Adult,Cream,Male,4,3,2,3,4,No,1.2999999999999998,47.22
+Chester,Young Adult,White,Male,5,3,4,6,3,Yes,2.5,80.56
+Garrus,Mature Adult,Fawn,Male,4,3,4,4,2,Yes,1.5999999999999999,55.56
+Lilith,Kitten,Chocolate,Female,4,3,2,5,4,Yes,1.9,63.89
+Sylvanas,Young Adult,Gray and White,Female,5,5,4,6,3,Yes,2.0999999999999996,69.44
+Atlas,Kitten,Silver Tabby,Male,4,4,4,4,5,No,1.1,41.67
+Rico,Young Adult,Black,Male,3,3,3,3,5,No,0.7,30.56
+Leo,Mature Adult,White,Male,3,4,3,4,4,No,0.9,36.11
+Rogue,Young Adult,Red Tabby,Female,4,3,2,3,4,No,1.2999999999999998,47.22
+Navani,Senior,Black,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Freya,Senior,Chocolate and White,Female,4,4,3,4,5,No,1.2,44.44
+Nova,Young Adult,Red Tabby,Female,5,4,4,4,4,Yes,1.6,55.56
+Oreo,Kitten,Cream,Male,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Hunter,Young Adult,Chocolate,Male,5,5,5,4,5,No,1.2,44.44
+Tater,Young Adult,Gray and White,Male,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Cooper,Mature Adult,Orange,Male,4,5,2,4,4,No,1.2000000000000002,44.44
+Lily,Senior,Cream Tabby,Female,4,2,2,5,3,Yes,2.2,72.22
+Callie,Young Adult,Torbie,Female,5,6,3,3,4,No,0.9999999999999997,38.89
+Cosmo,Mature Adult,Lilac,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Catsanova,Senior,White,Male,5,3,4,6,3,Yes,2.5,80.56
+Lily,Senior,Orange and White,Female,4,4,3,4,3,Yes,1.4,50.0
+Lucky,Kitten,Gray and White Tabby,Male,4,4,3,3,4,No,0.9999999999999999,38.89
+Parsnip,Senior,Dilute Tortoiseshell,Female,4,4,2,5,5,Yes,1.6,55.56
+Linguine,Kitten,Cream,Male,5,3,3,4,4,Yes,1.9,63.89
+Macaroni,Mature Adult,Fawn,Male,4,3,4,4,4,Yes,1.4,50.0
+Jasper,Mature Adult,Lilac,Male,4,4,3,5,4,Yes,1.6,55.56
+Reptar,Kitten,Lilac,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Maximus,Mature Adult,Chocolate,Male,5,5,3,4,3,Yes,1.5999999999999999,55.56
+Figaro,Mature Adult,Gray and White Tabby,Male,4,4,5,5,3,Yes,1.5,52.78
+Clawde,Young Adult,Silver Tabby,Male,5,4,5,4,4,Yes,1.5,52.78
+Wanda,Young Adult,Gray,Female,4,4,4,4,5,No,1.1,41.67
+Zoe,Senior,Tortoiseshell,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Jasnah,Young Adult,Black and White,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Libby,Mature Adult,Brown and White Tabby,Female,4,4,3,3,5,No,0.8999999999999999,36.11
+Starlight,Senior,Orange and White,Female,3,4,3,4,3,No,1.0,38.89
+Latte,Young Adult,Red Tabby,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Rogue,Young Adult,Gray and White,Male,5,4,3,5,4,Yes,2.0,66.67
+Molly,Senior,Silver Tabby,Female,5,4,4,4,5,Yes,1.5,52.78
+Basil,Young Adult,Cream,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Wanda,Young Adult,Cream,Female,5,3,5,4,4,Yes,1.6999999999999997,58.33
+Ruby,Kitten,Gray and White Tabby,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Linguine,Young Adult,Lilac,Male,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Reptar,Kitten,Cinnamon,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Spike,Kitten,Gray,Male,5,5,5,5,3,Yes,1.7,58.33
+Princess,Mature Adult,Lilac Tortoiseshell,Female,4,3,2,5,3,Yes,1.9999999999999998,66.67
+August,Senior,Cream,Male,4,3,3,5,2,Yes,2.0,66.67
+Daisy,Mature Adult,Red,Female,4,3,3,4,4,Yes,1.5,52.78
+Sierra,Kitten,Orange and White,Female,4,4,3,5,3,Yes,1.7,58.33
+Clawdia,Senior,Black and White,Female,5,5,3,4,4,Yes,1.5,52.78
+Scout,Kitten,Orange and White,Male,5,4,5,5,2,Yes,2.0,66.67
+Milo,Mature Adult,Gray Tabby,Male,4,6,3,5,3,No,1.2999999999999998,47.22
+Lilith,Senior,Black,Female,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Trouble,Kitten,Chocolate,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Mordin,Senior,Orange and White,Male,4,3,4,4,4,Yes,1.4,50.0
+Nico,Kitten,Cream,Male,4,4,5,5,4,Yes,1.4,50.0
+Dora,Young Adult,Red Tabby,Female,4,4,5,4,4,No,1.1,41.67
+Pancake,Senior,Lilac Tortoiseshell,Female,5,4,4,4,4,Yes,1.6,55.56
+Furman,Young Adult,Cream Tabby,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Blossom,Mature Adult,Gray and White Tabby,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Acorn,Senior,Chocolate,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Wit,Kitten,White,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Binx,Senior,Gray,Male,5,5,5,3,4,No,0.9999999999999999,38.89
+Binx,Senior,Lilac,Male,5,4,3,5,4,Yes,2.0,66.67
+Starlight,Senior,Red Tabby,Female,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Blossom,Senior,Gray Tabby,Female,4,3,3,5,2,Yes,2.0,66.67
+Celeste,Kitten,Gray Tabby,Female,4,4,4,5,2,Yes,1.7,58.33
+Mordin,Mature Adult,Red,Male,5,3,2,4,3,Yes,2.0999999999999996,69.44
+Ash,Senior,Chocolate,Male,3,5,3,4,4,No,0.7000000000000001,30.56
+Orion,Mature Adult,Red,Male,5,4,4,4,4,Yes,1.6,55.56
+Lexi,Mature Adult,Silver Tabby,Female,5,5,3,6,3,Yes,2.2,72.22
+Frodo,Young Adult,Gray and White Tabby,Male,4,4,4,5,4,Yes,1.5,52.78
+Minerva,Kitten,Lilac,Female,5,5,4,4,4,Yes,1.4,50.0
+Matcha,Senior,Black,Female,5,3,4,6,2,Yes,2.5999999999999996,83.33
+Luna,Senior,Dilute Torbie,Female,4,3,3,5,5,Yes,1.7000000000000002,58.33
+Dolly,Mature Adult,Brown and White Tabby,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Snickers,Young Adult,Tortoiseshell,Female,4,3,4,6,2,Yes,2.1999999999999997,72.22
+Sasha,Kitten,Lilac Tortoiseshell,Female,5,5,4,5,3,Yes,1.8,61.11
+Garrus,Senior,Gray Tabby,Male,4,2,2,3,4,Yes,1.5,52.78
+Atlas,Mature Adult,Brown and White Tabby,Male,5,5,5,5,3,Yes,1.7,58.33
+Kiwi,Young Adult,Lilac,Female,5,5,5,5,3,Yes,1.7,58.33
+Dora,Senior,Silver Tabby,Female,3,3,3,5,2,Yes,1.6,55.56
+Soju,Kitten,Chocolate Tabby,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Avery,Young Adult,Lilac,Female,3,3,3,4,4,No,1.1,41.67
+Pistachio,Kitten,Red,Female,3,4,2,5,2,Yes,1.5000000000000002,52.78
+Cielo,Kitten,Chocolate Tabby,Male,5,4,4,5,4,Yes,1.9,63.89
+Parsnip,Young Adult,Gray and White Tabby,Female,5,3,5,5,2,Yes,2.1999999999999997,72.22
+Marshmallow,Kitten,Red,Female,4,3,3,4,4,Yes,1.5,52.78
+Pi ,Mature Adult,Cinnamon,Female,4,4,5,4,2,No,1.3,47.22
+Peanut,Senior,White,Male,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Kodi,Young Adult,Orange,Male,5,6,4,4,5,No,1.0999999999999996,41.67
+Noodle,Senior,Silver Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Cordelia,Kitten,Torbie,Female,4,4,5,5,3,Yes,1.5,52.78
+Duchess,Mature Adult,Dilute Calico,Female,4,4,3,5,4,Yes,1.6,55.56
+Cielo,Mature Adult,Brown and White Tabby,Male,4,4,4,5,2,Yes,1.7,58.33
+Nola,Mature Adult,Cinnamon,Female,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Nikki,Senior,Gray and White,Female,4,4,4,5,2,Yes,1.7,58.33
+Tulip,Young Adult,Gray Tabby,Female,5,4,4,3,5,No,1.1999999999999997,44.44
+Coffee,Senior,Dilute Torbie,Female,4,4,4,5,4,Yes,1.5,52.78
+Vesper,Kitten,Lilac,Female,4,3,4,4,4,Yes,1.4,50.0
+Catsanova,Mature Adult,Orange,Male,4,3,3,3,5,No,1.0999999999999999,41.67
+Navani,Kitten,Red,Female,4,4,4,3,5,No,0.7999999999999998,33.33
+Neil,Mature Adult,Brown and White Tabby,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Rogue,Mature Adult,Calico,Female,5,3,2,5,4,Yes,2.3000000000000003,75.0
+Zevran,Senior,Chocolate Tabby,Male,4,4,4,4,3,No,1.3,47.22
+Dora,Kitten,Fawn,Female,5,4,6,4,3,Yes,1.4999999999999998,52.78
+Oreo,Mature Adult,Gray and White,Male,4,3,4,3,4,No,1.1,41.67
+Kiwi,Senior,Cream Tabby,Female,5,4,4,4,4,Yes,1.6,55.56
+Bagel,Young Adult,Chocolate,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Navani,Senior,Cream Tabby,Female,4,3,4,2,5,No,0.7,30.56
+Soju,Mature Adult,Chocolate and White,Male,3,5,4,3,4,No,0.30000000000000004,19.44
+Jasmine,Senior,Orange and White,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Boots,Mature Adult,Gray and White,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Rick,Mature Adult,Gray Tabby,Male,5,4,3,5,2,Yes,2.1999999999999997,72.22
+Maddy,Mature Adult,Brown and White Tabby,Female,4,4,3,5,4,Yes,1.6,55.56
+Evie,Young Adult,Gray and White,Female,4,2,2,3,5,Yes,1.4000000000000001,50.0
+Linguine,Young Adult,Chocolate and White,Male,5,5,4,4,4,Yes,1.4,50.0
+Poppy,Young Adult,Tortoiseshell,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Buccatini,Senior,Gray and White Tabby,Male,3,4,4,3,3,No,0.6,27.78
+Snickers,Young Adult,Brown and White Tabby,Male,5,4,4,5,4,Yes,1.9,63.89
+Adolin,Young Adult,Gray and White Tabby,Male,4,4,4,4,3,No,1.3,47.22
+Avery,Senior,Gray,Female,5,4,4,6,3,Yes,2.3,75.0
+Simba,Young Adult,Chocolate and White,Male,3,3,4,4,3,No,1.0999999999999999,41.67
+Norbert,Young Adult,Cream Tabby,Male,3,4,3,5,4,No,1.2000000000000002,44.44
+Minerva,Kitten,Silver Tabby,Female,5,5,3,3,4,No,1.1999999999999997,44.44
+Peaches,Mature Adult,Gray Tabby,Female,5,4,3,5,4,Yes,2.0,66.67
+Jinx,Senior,Brown and White Tabby,Female,4,5,5,4,4,No,0.9,36.11
+Sheba,Kitten,Lilac,Female,5,7,5,5,4,No,1.1999999999999997,44.44
+Rogue,Kitten,Lilac,Male,4,5,3,5,4,Yes,1.4,50.0
+Vesper,Kitten,Gray and White,Male,4,4,4,5,4,Yes,1.5,52.78
+Cosmo,Mature Adult,Gray and White,Male,5,6,4,5,5,Yes,1.4,50.0
+Sushi,Young Adult,Chocolate Tabby,Male,4,3,2,5,4,Yes,1.9,63.89
+Bella,Kitten,Dilute Calico,Female,5,3,2,5,1,Yes,2.6,83.33
+Scout,Kitten,Red,Male,4,3,3,4,5,Yes,1.4,50.0
+Nico,Young Adult,Cream,Male,4,3,4,5,3,Yes,1.8,61.11
+Nikki,Mature Adult,White,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Felix,Senior,Red Tabby,Male,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Waffles,Senior,Chocolate Tabby,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Bilbo,Young Adult,Brown and White Tabby,Male,4,3,3,6,2,Yes,2.3,75.0
+Cullen,Young Adult,Gray and White Tabby,Male,4,4,5,4,3,No,1.2,44.44
+Atlas,Senior,Gray Tabby,Male,4,6,5,4,4,No,0.6999999999999998,30.56
+Wilson,Mature Adult,White,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Jasnah,Kitten,Dilute Calico,Female,4,4,3,5,3,Yes,1.7,58.33
+Nola,Kitten,Tortoiseshell,Female,4,4,3,5,3,Yes,1.7,58.33
+Avi,Young Adult,Black,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Orion,Kitten,Lilac,Male,4,4,4,3,5,No,0.7999999999999998,33.33
+Clawdia,Mature Adult,Silver Tabby,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Jinx,Kitten,Cream Tabby,Male,4,4,3,4,5,No,1.2,44.44
+Max,Kitten,Red Tabby,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Lenny,Young Adult,Chocolate,Male,4,3,4,4,4,Yes,1.4,50.0
+Sierra,Mature Adult,Orange and White,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Nemo,Mature Adult,Cream,Male,3,3,2,4,3,No,1.3,47.22
+Bianca,Young Adult,Cinnamon,Female,4,6,5,5,4,No,0.9999999999999999,38.89
+Gimli,Mature Adult,Orange and White,Male,4,4,4,6,3,Yes,1.8999999999999997,63.89
+Jasmine,Kitten,Silver Tabby,Female,5,5,5,5,3,Yes,1.7,58.33
+Cleocatra,Mature Adult,Cream,Female,4,5,3,5,3,Yes,1.5,52.78
+Jasper,Kitten,Chocolate,Male,5,4,3,3,4,Yes,1.4,50.0
+Jinxy,Young Adult,Lilac Tortoiseshell,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Nugget,Young Adult,Black and White,Male,3,3,3,4,6,No,0.8999999999999999,36.11
+Eden,Mature Adult,Red Tabby,Female,5,3,3,5,3,Yes,2.3,75.0
+Fritz,Mature Adult,Orange and White,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Anders,Kitten,Silver Tabby,Male,5,4,4,4,4,Yes,1.6,55.56
+Portia,Kitten,Chocolate and White,Female,4,3,3,4,4,Yes,1.5,52.78
+Cosmo,Young Adult,Red Tabby,Male,4,5,3,4,3,No,1.2,44.44
+Soju,Mature Adult,Lilac,Male,3,4,2,5,3,Yes,1.4000000000000001,50.0
+Ruby,Mature Adult,Gray,Female,4,3,4,5,3,Yes,1.8,61.11
+Nero,Kitten,Gray Tabby,Male,5,4,2,4,5,Yes,1.7000000000000002,58.33
+Lenny,Young Adult,Cream Tabby,Male,4,3,3,5,2,Yes,2.0,66.67
+Hattie,Senior,Cream,Female,4,4,2,5,3,Yes,1.8,61.11
+Piper,Kitten,Dilute Calico,Female,4,4,4,4,2,Yes,1.4000000000000001,50.0
+Bagel,Young Adult,Gray and White Tabby,Male,5,3,4,4,5,Yes,1.6999999999999997,58.33
+Gimli,Mature Adult,Cream,Male,4,4,4,5,4,Yes,1.5,52.78
+Chai,Mature Adult,Silver Tabby,Female,3,3,2,4,4,No,1.2000000000000002,44.44
+Sierra,Kitten,Cream Tabby,Female,4,3,6,4,2,Yes,1.4,50.0
+Atticus,Young Adult,Red,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Winter,Mature Adult,Gray and White Tabby,Female,5,3,4,5,4,Yes,2.1,69.44
+Atlas,Young Adult,Chocolate,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Acorn,Kitten,Chocolate and White,Male,4,5,3,4,4,No,1.1,41.67
+Mordin,Senior,Orange,Male,3,5,3,5,2,No,1.2000000000000002,44.44
+Smudge,Mature Adult,Black,Male,5,5,4,4,4,Yes,1.4,50.0
+Max,Mature Adult,Red Tabby,Male,4,5,3,4,3,No,1.2,44.44
+Piper,Mature Adult,White,Female,4,4,4,4,3,No,1.3,47.22
+Betsy,Senior,Lilac Tortoiseshell,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Sylphrena,Senior,Silver Tabby,Female,3,3,3,2,2,No,0.7,30.56
+Nova,Kitten,Gray and White Tabby,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Kona,Mature Adult,Cinnamon,Male,5,5,5,5,4,Yes,1.6,55.56
+Furman,Kitten,Gray and White Tabby,Male,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Ozzy,Senior,Orange,Male,5,4,4,4,4,Yes,1.6,55.56
+Winter,Senior,Chocolate,Male,5,5,2,5,4,Yes,1.9,63.89
+Flemeth,Young Adult,Dilute Calico,Female,5,5,4,4,4,Yes,1.4,50.0
+Neil,Mature Adult,Black,Male,5,5,5,4,5,No,1.2,44.44
+Binx,Mature Adult,Cinnamon,Male,4,4,4,5,4,Yes,1.5,52.78
+Poppy,Senior,Torbie,Female,4,5,6,5,4,No,1.1,41.67
+Bianca,Mature Adult,Orange,Female,4,3,3,4,4,Yes,1.5,52.78
+Celeste,Mature Adult,Chocolate Tabby,Female,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Bitsy,Kitten,Fawn,Female,4,5,3,4,4,No,1.1,41.67
+Jerry,Kitten,Fawn,Male,5,5,5,5,3,Yes,1.7,58.33
+Nelson,Senior,Red Tabby,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Penny,Senior,Torbie,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Julian,Young Adult,Gray Tabby,Male,4,4,4,4,5,No,1.1,41.67
+August,Kitten,Red Tabby,Male,4,5,3,4,5,No,1.0,38.89
+Romeo,Senior,Orange and White,Male,5,4,3,5,4,Yes,2.0,66.67
+Bella,Kitten,Cinnamon,Female,5,4,4,4,3,Yes,1.7,58.33
+Axel,Young Adult,Gray Tabby,Male,5,5,4,5,5,Yes,1.6,55.56
+Nora,Kitten,Dilute Torbie,Female,3,3,2,4,5,No,1.1,41.67
+Patch,Mature Adult,Lilac,Male,5,4,4,4,4,Yes,1.6,55.56
+Mika,Mature Adult,Red,Male,4,4,3,3,5,No,0.8999999999999999,36.11
+Noodle,Young Adult,Chocolate and White,Male,5,5,5,5,4,Yes,1.6,55.56
+Pumpkin,Mature Adult,Tortoiseshell,Female,5,4,4,5,4,Yes,1.9,63.89
+Chester,Kitten,Orange,Male,5,4,5,6,3,Yes,2.2,72.22
+Marshmallow,Senior,Chocolate,Female,4,3,3,4,5,Yes,1.4,50.0
+Cleocatra,Young Adult,Silver Tabby,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Zoe,Senior,Chocolate,Female,5,6,5,5,3,Yes,1.4999999999999998,52.78
+Zevran,Young Adult,Silver Tabby,Male,4,4,3,5,2,Yes,1.8,61.11
+Vesper,Senior,Orange and White,Male,4,4,3,4,3,Yes,1.4,50.0
+Fergus,Senior,Silver Tabby,Male,5,3,4,5,3,Yes,2.2,72.22
+Kona,Senior,Gray and White Tabby,Male,5,3,2,5,4,Yes,2.3000000000000003,75.0
+Cleo,Young Adult,Tortoiseshell,Female,4,3,5,3,3,No,1.0999999999999999,41.67
+Morrigan,Senior,Dilute Tortoiseshell,Female,4,4,4,4,3,No,1.3,47.22
+Muffin,Young Adult,Calico,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Kaladin,Mature Adult,Gray Tabby,Male,4,4,3,4,5,No,1.2,44.44
+Matcha,Kitten,Gray,Female,4,4,3,4,3,Yes,1.4,50.0
+Nugget,Kitten,Gray Tabby,Male,4,3,3,4,5,Yes,1.4,50.0
+Chloe,Mature Adult,Gray and White Tabby,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Hunter,Mature Adult,Red,Male,5,4,3,5,4,Yes,2.0,66.67
+Julian,Mature Adult,Black and White,Male,5,5,3,4,4,Yes,1.5,52.78
+Calliope,Kitten,Dilute Calico,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Tulip,Young Adult,Dilute Calico,Female,5,6,4,5,4,Yes,1.5,52.78
+Penelope,Senior,Fawn,Female,4,4,3,5,3,Yes,1.7,58.33
+Luna,Senior,Orange,Female,4,6,3,6,3,Yes,1.5999999999999996,55.56
+Fergus,Senior,Silver Tabby,Male,4,4,5,4,4,No,1.1,41.67
+Avery,Senior,Dilute Calico,Female,5,5,5,5,5,Yes,1.5,52.78
+Missy,Young Adult,Dilute Torbie,Female,5,5,6,4,6,No,0.9999999999999998,38.89
+Pancake,Mature Adult,Silver Tabby,Female,4,3,3,4,5,Yes,1.4,50.0
+George,Young Adult,Chocolate Tabby,Male,5,3,3,5,3,Yes,2.3,75.0
+Wrex,Young Adult,Cream,Male,4,4,3,4,3,Yes,1.4,50.0
+Felicity,Mature Adult,Black,Female,4,3,2,6,2,Yes,2.3999999999999995,77.78
+Gimli,Mature Adult,Orange,Male,5,5,2,5,5,Yes,1.7999999999999998,61.11
+Navani,Senior,Torbie,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Matty,Kitten,Chocolate Tabby,Male,4,3,3,5,2,Yes,2.0,66.67
+Macaroni,Kitten,Red Tabby,Male,4,5,3,4,3,No,1.2,44.44
+Boots,Senior,Chocolate and White,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Axel,Senior,Orange and White,Male,4,5,5,4,4,No,0.9,36.11
+Xena,Young Adult,Cream,Female,4,5,4,3,4,No,0.7000000000000001,30.56
+Arwen,Senior,Dilute Calico,Female,4,3,3,4,4,Yes,1.5,52.78
+Delphi,Kitten,Red Tabby,Female,5,4,4,3,4,No,1.2999999999999998,47.22
+Winter,Senior,White,Male,4,3,5,5,3,Yes,1.7,58.33
+Sasha,Young Adult,Gray Tabby,Female,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Minerva,Mature Adult,Black and White,Female,5,4,5,4,4,Yes,1.5,52.78
+Winnie,Senior,Dilute Calico,Female,5,5,4,5,2,Yes,1.9000000000000001,63.89
+Gabe,Mature Adult,Lilac,Male,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Avi,Young Adult,Gray Tabby,Male,5,4,4,5,4,Yes,1.9,63.89
+Matty,Kitten,Orange and White,Male,4,4,4,4,3,No,1.3,47.22
+Portia,Mature Adult,Chocolate,Female,5,3,2,3,4,Yes,1.6999999999999997,58.33
+Pancake,Mature Adult,Dilute Calico,Female,4,4,3,5,4,Yes,1.6,55.56
+Delfina,Young Adult,Gray and White Tabby,Female,5,3,3,5,2,Yes,2.3999999999999995,77.78
+Maximus,Mature Adult,Gray,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Soju,Kitten,Cream Tabby,Male,4,4,3,4,3,Yes,1.4,50.0
+Kiwi,Kitten,Cinnamon,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Zevran,Senior,Fawn,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Murphy,Senior,Chocolate and White,Male,4,4,5,5,5,No,1.3,47.22
+Nugget,Young Adult,Gray and White Tabby,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Dean,Young Adult,Orange,Male,5,5,5,6,2,Yes,2.0999999999999996,69.44
+Celeste,Mature Adult,Cinnamon,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Rick,Mature Adult,Cream,Male,3,4,3,4,3,No,1.0,38.89
+Patch,Kitten,Gray,Male,5,5,4,4,5,No,1.2999999999999998,47.22
+Kimchi,Mature Adult,Cream,Male,4,4,3,4,3,Yes,1.4,50.0
+Axel,Kitten,Black,Male,3,5,4,4,4,No,0.6,27.78
+Flemeth,Kitten,Gray and White Tabby,Female,5,6,5,5,4,Yes,1.4,50.0
+Calliope,Young Adult,Gray and White Tabby,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Arthas,Kitten,White,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Tiger,Young Adult,Chocolate,Male,5,2,3,5,3,Yes,2.5,80.56
+Biscuit,Senior,Cinnamon,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Snickers,Kitten,Brown and White Tabby,Male,5,4,4,4,4,Yes,1.6,55.56
+Latte,Senior,White,Male,5,5,5,5,4,Yes,1.6,55.56
+Jerry,Senior,Gray,Male,4,4,4,4,3,No,1.3,47.22
+Rosie,Mature Adult,White,Female,4,5,2,4,3,No,1.3,47.22
+Rogue,Young Adult,Cream Tabby,Male,5,4,4,4,4,Yes,1.6,55.56
+Lexi,Mature Adult,Fawn,Female,4,2,3,5,5,Yes,1.9000000000000004,63.89
+Gilly,Young Adult,Chocolate Tabby,Female,4,3,4,3,5,No,1.0,38.89
+Frodo,Mature Adult,White,Male,4,2,3,4,2,Yes,1.9000000000000001,63.89
+Rasha,Young Adult,Gray,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Maddy,Mature Adult,Gray,Female,5,3,3,4,5,Yes,1.7999999999999998,61.11
+Lilith,Mature Adult,Chocolate and White,Female,3,3,3,5,5,No,1.3,47.22
+Millie,Kitten,Lilac Tortoiseshell,Female,3,2,2,4,2,Yes,1.6,55.56
+Minerva,Senior,Cream Tabby,Female,4,4,3,4,3,Yes,1.4,50.0
+Penny,Young Adult,Dilute Calico,Female,4,4,3,4,3,Yes,1.4,50.0
+Sylvester,Kitten,Chocolate,Male,4,3,4,6,2,Yes,2.1999999999999997,72.22
+Lexi,Mature Adult,Lilac Tortoiseshell,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Galadriel,Kitten,Chocolate,Female,4,6,3,4,3,No,0.9999999999999998,38.89
+Portia,Mature Adult,Cinnamon,Female,4,3,2,5,4,Yes,1.9,63.89
+Fritz,Kitten,Orange and White,Male,5,5,4,5,3,Yes,1.8,61.11
+Tulip,Young Adult,Cinnamon,Female,3,4,2,3,5,No,0.6000000000000001,27.78
+Bagel,Mature Adult,White,Male,4,5,3,4,3,No,1.2,44.44
+Kiwi,Mature Adult,Tortoiseshell,Female,4,3,3,4,4,Yes,1.5,52.78
+Reptar,Senior,Gray,Male,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Basil,Kitten,Silver Tabby,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Edie,Kitten,Orange and White,Female,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Sierra,Senior,Red Tabby,Female,4,3,4,4,4,Yes,1.4,50.0
+Frodo,Mature Adult,Cinnamon,Male,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Avery,Young Adult,Dilute Torbie,Female,4,5,3,4,3,No,1.2,44.44
+Macaroni,Mature Adult,Chocolate and White,Male,4,5,4,4,5,No,0.8999999999999999,36.11
+Clyde,Senior,Chocolate,Male,5,4,3,5,4,Yes,2.0,66.67
+Atticus,Kitten,Orange and White,Male,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Sprinkles,Mature Adult,Red Tabby,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Basil,Mature Adult,Gray and White,Male,5,4,6,4,3,Yes,1.4999999999999998,52.78
+Muffin,Senior,Gray and White Tabby,Female,4,3,4,5,2,Yes,1.9000000000000001,63.89
+Romeo,Young Adult,Cream Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Rocky,Kitten,Orange and White,Male,5,5,4,5,3,Yes,1.8,61.11
+Petunia,Kitten,Chocolate Tabby,Female,4,5,4,3,3,No,0.8,33.33
+Wit,Senior,Orange and White,Male,5,3,4,6,2,Yes,2.5999999999999996,83.33
+Tawny,Kitten,Chocolate and White,Female,5,3,3,4,6,Yes,1.6999999999999997,58.33
+Lucy,Young Adult,Gray Tabby,Female,5,5,5,5,3,Yes,1.7,58.33
+Shallan,Young Adult,Orange,Female,4,5,3,5,3,Yes,1.5,52.78
+Wilson,Senior,Gray Tabby,Male,4,4,5,4,5,No,1.0,38.89
+Gimli,Kitten,Lilac,Male,2,4,3,3,2,No,0.39999999999999986,22.22
+Sprinkles,Mature Adult,Gray and White Tabby,Male,5,5,4,3,4,No,1.1,41.67
+Lucy,Kitten,Dilute Tortoiseshell,Female,5,3,3,5,4,Yes,2.1999999999999997,72.22
+Rocky,Mature Adult,Red Tabby,Male,4,5,3,4,4,No,1.1,41.67
+Cleocatra,Kitten,Red Tabby,Female,4,5,3,4,3,No,1.2,44.44
+Hunter,Young Adult,Gray and White Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Nala,Mature Adult,Dilute Tortoiseshell,Female,4,3,3,5,2,Yes,2.0,66.67
+Remi,Kitten,Orange,Male,4,4,5,4,2,No,1.3,47.22
+Winter,Kitten,Red,Male,5,5,4,4,6,No,1.1999999999999997,44.44
+Clyde,Young Adult,Brown and White Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Eowyn,Senior,Cinnamon,Female,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Nova,Mature Adult,Chocolate,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Nemo,Young Adult,Orange and White,Male,4,4,3,4,3,Yes,1.4,50.0
+Shadow,Kitten,Brown and White Tabby,Male,3,2,5,3,4,No,0.8000000000000002,33.33
+Peanut,Young Adult,Gray Tabby,Female,5,4,4,5,4,Yes,1.9,63.89
+Sylvanas,Mature Adult,Dilute Calico,Female,4,4,3,5,3,Yes,1.7,58.33
+Lexi,Young Adult,Dilute Tortoiseshell,Female,5,6,5,3,6,No,0.5999999999999996,27.78
+Jasper,Mature Adult,Gray and White,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Celeste,Mature Adult,Gray Tabby,Female,4,4,3,5,3,Yes,1.7,58.33
+Atticus,Senior,Red Tabby,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Millie,Young Adult,Orange and White,Female,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Nemo,Young Adult,Silver Tabby,Male,4,5,4,5,5,No,1.2000000000000002,44.44
+Sasha,Kitten,Brown and White Tabby,Female,5,6,3,3,4,No,0.9999999999999997,38.89
+Kitty,Young Adult,Silver Tabby,Female,4,3,4,5,2,Yes,1.9000000000000001,63.89
+Stella,Senior,Cinnamon,Female,5,3,4,4,5,Yes,1.6999999999999997,58.33
+Penelope,Young Adult,Chocolate,Female,5,5,5,5,5,Yes,1.5,52.78
+Sierra,Senior,Gray and White,Female,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Chester,Mature Adult,Black,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Bailey,Young Adult,Chocolate and White,Female,4,4,4,4,3,No,1.3,47.22
+Oreo,Senior,Chocolate,Female,4,4,2,6,2,Yes,2.1999999999999997,72.22
+Tasha,Senior,Gray and White,Female,4,4,3,5,2,Yes,1.8,61.11
+Zevran,Senior,Gray Tabby,Male,4,2,3,5,4,Yes,2.0000000000000004,66.67
+Wanda,Senior,Lilac,Female,4,4,3,5,4,Yes,1.6,55.56
+Sammy,Young Adult,Red Tabby,Male,3,2,1,3,3,No,1.3,47.22
+Edie,Young Adult,Silver Tabby,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Chloe,Kitten,Torbie,Female,4,2,3,3,5,No,1.3,47.22
+Graham,Mature Adult,Orange and White,Male,5,5,4,4,4,Yes,1.4,50.0
+Dora,Kitten,Chocolate and White,Female,4,3,5,3,4,No,0.9999999999999999,38.89
+Oreo,Mature Adult,Black and White,Male,4,4,4,5,4,Yes,1.5,52.78
+Cullen,Young Adult,Gray and White,Male,3,5,3,5,5,No,0.9000000000000001,36.11
+Alina,Mature Adult,Lilac Tortoiseshell,Female,5,6,4,6,3,Yes,1.8999999999999997,63.89
+Kimchi,Young Adult,Cream,Male,4,3,2,4,3,Yes,1.7,58.33
+Athena,Kitten,Red,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Agatha,Young Adult,Silver Tabby,Female,4,3,3,4,5,Yes,1.4,50.0
+Neil,Kitten,Chocolate,Male,4,4,4,4,2,Yes,1.4000000000000001,50.0
+Garrus,Senior,White,Male,4,3,3,2,4,No,0.8999999999999998,36.11
+Sammy,Kitten,Orange,Male,4,5,3,4,3,No,1.2,44.44
+Jinx,Young Adult,Gray and White Tabby,Male,4,4,2,5,2,Yes,1.9000000000000001,63.89
+Piper,Senior,Cream,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Taffy,Mature Adult,Cinnamon,Female,4,5,4,5,2,Yes,1.5000000000000002,52.78
+Sam,Senior,Orange and White,Male,4,5,3,4,5,No,1.0,38.89
+Freya,Mature Adult,Torbie,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Ruby,Mature Adult,Silver Tabby,Female,5,6,4,5,3,Yes,1.5999999999999999,55.56
+Agatha,Mature Adult,Gray and White Tabby,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Vikki,Kitten,Gray,Female,4,6,5,5,3,No,1.0999999999999999,41.67
+Binx,Mature Adult,Lilac,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Ozzy,Young Adult,Silver Tabby,Male,4,4,3,6,4,Yes,1.9,63.89
+Muffin,Senior,Lilac Tortoiseshell,Female,5,4,3,5,4,Yes,2.0,66.67
+Buccatini,Mature Adult,Gray and White,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Gatsby,Mature Adult,Gray Tabby,Male,5,6,4,4,4,No,1.1999999999999997,44.44
+August,Mature Adult,Red Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Jinxy,Mature Adult,Dilute Calico,Female,4,3,2,4,3,Yes,1.7,58.33
+Poppy,Kitten,Chocolate and White,Female,4,4,3,4,5,No,1.2,44.44
+Nola,Young Adult,Lilac,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Spike,Senior,Fawn,Male,5,5,4,5,2,Yes,1.9000000000000001,63.89
+Rasha,Young Adult,Dilute Torbie,Female,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Missy,Young Adult,Black,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Winter,Senior,Orange,Male,5,4,3,6,4,Yes,2.3,75.0
+Penny,Kitten,Dilute Calico,Female,4,4,3,5,3,Yes,1.7,58.33
+Peaches,Kitten,Cream Tabby,Female,5,5,4,4,5,No,1.2999999999999998,47.22
+Neo,Kitten,Gray and White Tabby,Male,5,4,5,4,4,Yes,1.5,52.78
+Zevran,Young Adult,Black,Male,5,5,4,4,4,Yes,1.4,50.0
+Charlie,Senior,Brown and White Tabby,Male,4,3,5,5,3,Yes,1.7,58.33
+Rosie,Mature Adult,Black,Female,4,4,4,6,2,Yes,1.9999999999999998,66.67
+Pi ,Mature Adult,Silver Tabby,Female,4,4,3,4,5,No,1.2,44.44
+Jasnah,Senior,Calico,Female,4,3,2,6,2,Yes,2.3999999999999995,77.78
+Zevran,Kitten,Orange and White,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Kona,Senior,Gray Tabby,Male,5,3,4,5,5,Yes,2.0,66.67
+Poppy,Young Adult,Lilac Tortoiseshell,Female,5,6,6,4,4,No,0.9999999999999997,38.89
+Tawny,Senior,Cream,Female,5,6,5,4,5,No,0.9999999999999998,38.89
+Nugget,Kitten,Fawn,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Rogue,Senior,Cream,Male,4,5,4,3,4,No,0.7000000000000001,30.56
+Kona,Mature Adult,Orange and White,Male,4,3,3,5,2,Yes,2.0,66.67
+Milo,Mature Adult,Silver Tabby,Male,4,5,3,4,4,No,1.1,41.67
+Avery,Kitten,Cream Tabby,Female,5,4,3,4,4,Yes,1.6999999999999997,58.33
+George,Mature Adult,Chocolate,Male,4,4,3,4,5,No,1.2,44.44
+Lexi,Kitten,Silver Tabby,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Natasha,Mature Adult,Torbie,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Penelope,Kitten,Gray,Female,4,5,4,4,2,No,1.2,44.44
+Snickers,Mature Adult,Gray and White,Male,5,5,5,5,3,Yes,1.7,58.33
+Ash,Kitten,Brown and White Tabby,Male,5,6,7,5,5,No,1.0999999999999996,41.67
+Patch,Kitten,Gray and White Tabby,Male,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Lucifer,Senior,Black,Male,4,4,2,4,3,Yes,1.5,52.78
+Sasha,Young Adult,Cinnamon,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Rico,Senior,Red,Male,4,3,2,3,4,No,1.2999999999999998,47.22
+Tater,Kitten,Gray,Male,5,4,4,6,2,Yes,2.3999999999999995,77.78
+Callie,Young Adult,Cream,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Marshmallow,Young Adult,Lilac,Male,4,3,2,4,4,Yes,1.6,55.56
+Misty,Young Adult,Tortoiseshell,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Penelope,Senior,Cream Tabby,Female,5,3,3,4,4,Yes,1.9,63.89
+Tulip,Mature Adult,Chocolate and White,Female,4,4,3,4,5,No,1.2,44.44
+Agatha,Kitten,Tortoiseshell,Female,4,4,5,5,4,Yes,1.4,50.0
+Murphy,Young Adult,Calico,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Eowyn,Senior,Torbie,Female,4,4,2,3,5,No,1.0,38.89
+Zelda,Young Adult,Dilute Tortoiseshell,Female,5,5,4,5,5,Yes,1.6,55.56
+Chloe,Senior,White,Female,4,4,4,5,4,Yes,1.5,52.78
+Leo,Senior,Gray and White,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Cullen,Senior,Silver Tabby,Male,4,3,4,3,5,No,1.0,38.89
+Snickers,Young Adult,Brown and White Tabby,Male,4,4,3,4,3,Yes,1.4,50.0
+Atticus,Senior,Fawn,Male,3,4,3,4,2,No,1.1,41.67
+Xena,Kitten,Red Tabby,Female,4,5,3,4,3,No,1.2,44.44
+Loki,Mature Adult,Lilac,Male,5,4,3,4,2,Yes,1.8999999999999997,63.89
+Shallan,Kitten,Dilute Tortoiseshell,Female,4,3,3,4,5,Yes,1.4,50.0
+Arthas,Kitten,Gray Tabby,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Biscuit,Young Adult,Chocolate Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+George,Senior,Fawn,Male,5,3,3,5,2,Yes,2.3999999999999995,77.78
+Nyxi,Senior,Brown and White Tabby,Female,5,3,5,6,3,Yes,2.3999999999999995,77.78
+Enzo,Mature Adult,White,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Duchess,Senior,White,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Rosie,Senior,Chocolate Tabby,Female,4,4,2,4,2,Yes,1.6,55.56
+Clyde,Young Adult,Fawn,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Cielo,Senior,Chocolate and White,Male,5,5,6,5,3,Yes,1.5999999999999999,55.56
+Macaroni,Young Adult,Chocolate,Male,4,4,5,4,2,No,1.3,47.22
+Delfina,Mature Adult,Chocolate and White,Female,5,3,4,5,3,Yes,2.2,72.22
+Lucifer,Kitten,Gray and White,Male,4,5,3,4,3,No,1.2,44.44
+Oreo,Mature Adult,Gray,Female,4,4,3,4,5,No,1.2,44.44
+Dora,Kitten,Torbie,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Nacho,Senior,Gray and White,Male,4,4,2,5,4,Yes,1.7000000000000002,58.33
+Remi,Senior,Fawn,Male,4,4,3,4,3,Yes,1.4,50.0
+Luna,Mature Adult,Brown and White Tabby,Female,5,4,4,5,4,Yes,1.9,63.89
+Rosie,Young Adult,Chocolate,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Bailey,Mature Adult,Brown and White Tabby,Female,4,4,3,5,3,Yes,1.7,58.33
+Wrex,Mature Adult,Orange,Male,3,5,3,3,3,No,0.5,25.0
+Edie,Senior,Black and White,Female,5,3,3,5,3,Yes,2.3,75.0
+Salem,Young Adult,Cinnamon,Male,4,4,3,5,3,Yes,1.7,58.33
+Sprinkles,Mature Adult,Gray and White,Female,3,2,2,5,2,Yes,1.9000000000000001,63.89
+Kasumi,Kitten,Gray and White,Female,4,4,2,5,3,Yes,1.8,61.11
+Boots,Senior,Chocolate and White,Male,4,3,2,4,5,Yes,1.5,52.78
+Libby,Young Adult,Red Tabby,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Neptune,Mature Adult,Black,Male,4,3,4,4,5,No,1.2999999999999998,47.22
+Scout,Young Adult,Lilac,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Darla,Mature Adult,Gray and White Tabby,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Noodle,Mature Adult,Cinnamon,Male,3,5,5,3,4,No,0.20000000000000007,16.67
+Jinx,Young Adult,Black and White,Male,4,6,5,5,4,No,0.9999999999999999,38.89
+Nyxi,Senior,Tortoiseshell,Female,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Rogue,Kitten,Chocolate and White,Male,4,4,5,4,5,No,1.0,38.89
+Donut,Kitten,Cream,Male,4,2,3,6,2,Yes,2.5,80.56
+Milo,Senior,Brown and White Tabby,Male,4,4,3,4,3,Yes,1.4,50.0
+Vikki,Kitten,Red,Female,4,3,2,4,4,Yes,1.6,55.56
+Mufasa,Young Adult,Chocolate and White,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Pancake,Kitten,Lilac,Female,3,4,2,5,3,Yes,1.4000000000000001,50.0
+Kitty,Mature Adult,Chocolate,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Garrus,Kitten,Lilac,Male,3,5,4,3,4,No,0.30000000000000004,19.44
+Nico,Young Adult,Cinnamon,Male,3,2,3,5,3,Yes,1.7,58.33
+Felix,Kitten,Gray and White,Male,5,5,4,4,4,Yes,1.4,50.0
+Mischief,Senior,Silver Tabby,Female,4,4,3,5,4,Yes,1.6,55.56
+Wit,Kitten,Cinnamon,Male,4,4,3,5,3,Yes,1.7,58.33
+Coffee,Senior,Lilac,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Milo,Kitten,Gray and White,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Vesper,Senior,Cinnamon,Male,4,4,3,3,5,No,0.8999999999999999,36.11
+Orion,Kitten,Black,Male,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Tali,Mature Adult,Chocolate and White,Female,5,4,4,4,4,Yes,1.6,55.56
+Petunia,Senior,Brown and White Tabby,Female,5,4,2,5,3,Yes,2.2,72.22
+Trouble,Senior,White,Male,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Lucky,Senior,Red,Male,3,3,2,5,2,Yes,1.7000000000000002,58.33
+Reptar,Senior,Chocolate,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+George,Senior,Silver Tabby,Male,3,2,2,4,3,Yes,1.5,52.78
+Betsy,Young Adult,Gray and White,Female,4,5,3,4,5,No,1.0,38.89
+Fiddler,Young Adult,Red,Male,4,5,4,3,4,No,0.7000000000000001,30.56
+Dora,Mature Adult,Dilute Torbie,Female,4,4,3,4,3,Yes,1.4,50.0
+Muffin,Kitten,Cream Tabby,Female,4,3,4,3,3,No,1.2,44.44
+Zeke,Mature Adult,Gray,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Rogue,Young Adult,Dilute Tortoiseshell,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Tawny,Kitten,Black,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Arwen,Young Adult,Dilute Calico,Female,3,5,3,4,3,No,0.8,33.33
+Pancake,Mature Adult,Lilac,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Copurrnicus,Mature Adult,Red,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Neil,Young Adult,Brown and White Tabby,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Murphy,Mature Adult,Dilute Tortoiseshell,Female,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Austin,Senior,Lilac,Male,4,4,3,6,3,Yes,1.9999999999999998,66.67
+Macaroni,Senior,Brown and White Tabby,Male,4,5,3,4,4,No,1.1,41.67
+Shadow,Mature Adult,Lilac,Male,4,4,3,5,3,Yes,1.7,58.33
+Smokey,Senior,Black,Male,4,4,3,4,3,Yes,1.4,50.0
+Gatsby,Senior,Chocolate Tabby,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Meg,Kitten,Silver Tabby,Female,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Gabe,Kitten,Black,Male,4,4,3,5,3,Yes,1.7,58.33
+Max,Senior,Chocolate,Male,4,4,2,6,3,Yes,2.0999999999999996,69.44
+Gabe,Kitten,Fawn,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Fritz,Kitten,Orange and White,Male,4,3,4,3,6,No,0.8999999999999999,36.11
+Lilo,Young Adult,Orange,Female,4,4,3,5,3,Yes,1.7,58.33
+Libby,Young Adult,White,Female,4,3,2,4,4,Yes,1.6,55.56
+Maisy,Young Adult,Orange,Female,5,4,4,5,2,Yes,2.0999999999999996,69.44
+Zelda,Young Adult,Dilute Calico,Female,5,5,6,5,2,Yes,1.7,58.33
+Finn,Young Adult,Gray Tabby,Male,5,4,5,6,2,Yes,2.3,75.0
+Nikki,Mature Adult,Cinnamon,Female,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Hendrix,Senior,Gray and White Tabby,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+August,Kitten,Gray and White Tabby,Male,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Mika,Senior,Chocolate Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Mufasa,Young Adult,Gray Tabby,Male,5,2,5,5,2,Yes,2.4,77.78
+Sprinkles,Mature Adult,Gray and White,Male,4,4,3,3,4,No,0.9999999999999999,38.89
+Katrina,Kitten,Torbie,Female,5,4,4,6,2,Yes,2.3999999999999995,77.78
+Chloe,Kitten,Orange and White,Female,4,3,3,4,5,Yes,1.4,50.0
+Poppy,Mature Adult,Gray and White,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Natasha,Mature Adult,Red Tabby,Female,5,5,6,5,4,Yes,1.5,52.78
+Simba,Senior,Gray Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Gilly,Young Adult,Cream Tabby,Female,4,3,3,4,5,Yes,1.4,50.0
+Remi,Kitten,Cinnamon,Male,3,3,2,5,2,Yes,1.7000000000000002,58.33
+Evie,Mature Adult,Black,Female,4,6,4,3,4,No,0.4999999999999998,25.0
+Noodle,Kitten,Gray Tabby,Male,4,4,2,4,3,Yes,1.5,52.78
+Max,Kitten,Red,Male,4,4,2,5,3,Yes,1.8,61.11
+Murphy,Young Adult,Gray,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Rogue,Mature Adult,Black and White,Male,4,5,5,4,5,No,0.8,33.33
+Neo,Young Adult,Orange and White,Male,5,3,4,5,3,Yes,2.2,72.22
+Persephone,Senior,Red,Female,4,4,3,4,3,Yes,1.4,50.0
+Atlas,Senior,Chocolate,Male,4,4,4,5,5,Yes,1.4,50.0
+Parsnip,Kitten,Chocolate and White,Female,5,5,4,4,4,Yes,1.4,50.0
+Rasha,Mature Adult,Fawn,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Pumpkin,Senior,Torbie,Female,4,5,5,4,4,No,0.9,36.11
+Helios,Kitten,Red,Male,5,4,4,4,5,Yes,1.5,52.78
+Catsanova,Mature Adult,Brown and White Tabby,Male,4,4,4,4,5,No,1.1,41.67
+Hunter,Senior,Lilac,Male,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Bailey,Senior,Dilute Tortoiseshell,Female,4,4,5,3,5,No,0.7,30.56
+Zevran,Young Adult,Fawn,Male,5,4,5,3,5,No,1.0999999999999999,41.67
+Kitty,Kitten,Calico,Female,4,3,2,3,4,No,1.2999999999999998,47.22
+Navani,Kitten,Gray and White Tabby,Female,5,3,3,3,4,Yes,1.5999999999999996,55.56
+Enzo,Young Adult,Gray,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Arwen,Kitten,Red Tabby,Female,5,6,4,5,4,Yes,1.5,52.78
+Acorn,Young Adult,Red Tabby,Male,4,3,2,4,3,Yes,1.7,58.33
+Snickers,Kitten,Cream Tabby,Male,5,5,5,4,6,No,1.0999999999999999,41.67
+Alistair,Mature Adult,White,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Nero,Senior,Chocolate,Male,4,5,4,3,5,No,0.6000000000000001,27.78
+Helios,Senior,Gray and White,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Aurora,Senior,Black and White,Female,4,5,3,6,3,Yes,1.7999999999999996,61.11
+Lilo,Senior,Lilac,Female,4,4,4,5,5,Yes,1.4,50.0
+Sylphrena,Young Adult,Gray,Female,4,4,2,5,3,Yes,1.8,61.11
+Rogue,Mature Adult,Gray,Male,4,4,3,5,4,Yes,1.6,55.56
+Leo,Senior,Chocolate Tabby,Male,3,3,3,4,4,No,1.1,41.67
+Wrex,Young Adult,Cream,Male,4,4,3,5,2,Yes,1.8,61.11
+Peanut,Senior,Silver Tabby,Female,3,3,3,5,4,Yes,1.4,50.0
+Sam,Mature Adult,Gray Tabby,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Jinx,Kitten,Gray and White,Female,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Petunia,Senior,Gray and White Tabby,Female,5,5,3,4,5,Yes,1.4,50.0
+Matty,Mature Adult,Orange and White,Male,4,2,3,3,4,Yes,1.4,50.0
+Mittens,Kitten,Red,Male,4,4,2,5,2,Yes,1.9000000000000001,63.89
+Pumpkin,Young Adult,Cream Tabby,Female,4,3,3,3,4,No,1.1999999999999997,44.44
+Loki,Young Adult,Gray and White Tabby,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Winnie,Senior,Tortoiseshell,Female,4,4,3,3,3,No,1.0999999999999999,41.67
+Mordin,Senior,Black,Male,5,6,6,4,5,No,0.8999999999999997,36.11
+Cooper,Senior,Orange,Male,5,3,2,4,2,Yes,2.1999999999999997,72.22
+Ruby,Senior,Cinnamon,Female,5,3,4,5,3,Yes,2.2,72.22
+Figaro,Young Adult,Orange,Male,5,4,4,4,4,Yes,1.6,55.56
+Bitsy,Kitten,Lilac,Female,4,2,2,5,3,Yes,2.2,72.22
+Julian,Kitten,Cream Tabby,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Vesper,Kitten,Cream Tabby,Female,3,3,3,4,4,No,1.1,41.67
+Dora,Senior,Gray and White Tabby,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Furman,Kitten,Gray and White Tabby,Male,4,3,2,4,4,Yes,1.6,55.56
+Sprinkles,Kitten,Torbie,Female,4,4,3,5,4,Yes,1.6,55.56
+Snickers,Mature Adult,Cinnamon,Male,4,3,5,4,3,Yes,1.4,50.0
+Loki,Mature Adult,Black,Male,3,4,3,4,4,No,0.9,36.11
+Felix,Young Adult,Chocolate and White,Male,3,2,2,4,3,Yes,1.5,52.78
+Gypsy,Young Adult,Cream,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Izzy,Young Adult,Lilac Tortoiseshell,Female,4,4,3,5,2,Yes,1.8,61.11
+Finn,Young Adult,White,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Cas,Young Adult,Red,Male,4,4,4,4,3,No,1.3,47.22
+Calliope,Senior,Chocolate,Female,3,4,4,4,5,No,0.7000000000000002,30.56
+Sprinkles,Kitten,Fawn,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Dorian,Mature Adult,Gray,Male,4,3,2,4,4,Yes,1.6,55.56
+Cleo,Kitten,Gray and White,Female,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Macaroni,Kitten,Black,Male,4,4,3,3,4,No,0.9999999999999999,38.89
+Tulip,Senior,Dilute Tortoiseshell,Female,4,3,3,5,2,Yes,2.0,66.67
+Loki,Senior,Cream Tabby,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Delfina,Senior,Torbie,Female,4,4,5,4,4,No,1.1,41.67
+Matty,Young Adult,Red Tabby,Male,5,5,4,4,4,Yes,1.4,50.0
+Nugget,Kitten,Chocolate and White,Male,4,4,3,5,3,Yes,1.7,58.33
+Poppy,Senior,Chocolate Tabby,Female,4,4,5,5,5,No,1.3,47.22
+Clawde,Senior,Chocolate,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Calliope,Young Adult,Gray Tabby,Female,5,5,4,5,3,Yes,1.8,61.11
+Neptune,Senior,Cinnamon,Male,5,4,4,5,4,Yes,1.9,63.89
+Agatha,Mature Adult,Lilac,Female,5,3,3,5,3,Yes,2.3,75.0
+Stella,Mature Adult,Orange,Female,4,3,5,5,2,Yes,1.8,61.11
+Peaches,Young Adult,Dilute Calico,Female,4,6,3,5,3,No,1.2999999999999998,47.22
+Freya,Young Adult,Lilac Tortoiseshell,Female,5,3,2,4,5,Yes,1.9,63.89
+Mufasa,Senior,Gray Tabby,Male,5,3,4,3,5,Yes,1.4,50.0
+Wit,Mature Adult,Black and White,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Bianca,Kitten,Tortoiseshell,Female,5,5,4,3,4,No,1.1,41.67
+Kiwi,Mature Adult,Cinnamon,Female,5,5,4,4,5,No,1.2999999999999998,47.22
+Evie,Senior,Dilute Tortoiseshell,Female,5,3,4,4,5,Yes,1.6999999999999997,58.33
+Snickers,Kitten,Gray Tabby,Male,4,4,4,5,4,Yes,1.5,52.78
+Lenny,Young Adult,Red,Male,5,4,4,4,4,Yes,1.6,55.56
+Gabe,Young Adult,Chocolate and White,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Zevran,Mature Adult,Fawn,Male,4,4,3,4,3,Yes,1.4,50.0
+Daisy,Mature Adult,Dilute Calico,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Penny,Young Adult,Chocolate Tabby,Female,4,3,4,4,4,Yes,1.4,50.0
+Lilith,Kitten,Dilute Calico,Female,4,3,3,4,4,Yes,1.5,52.78
+Helios,Mature Adult,Gray,Male,4,5,4,4,2,No,1.2,44.44
+Beau,Senior,White,Male,4,3,2,4,4,Yes,1.6,55.56
+Ziggy,Mature Adult,Fawn,Male,5,4,4,5,4,Yes,1.9,63.89
+Sierra,Kitten,Dilute Calico,Female,4,2,2,4,4,Yes,1.8000000000000003,61.11
+Bella,Mature Adult,Black and White,Female,4,5,3,5,3,Yes,1.5,52.78
+Wilson,Senior,Red,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Murphy,Senior,Gray and White,Female,4,3,3,4,4,Yes,1.5,52.78
+Nelson,Mature Adult,Gray,Male,5,3,3,3,4,Yes,1.5999999999999996,55.56
+Nacho,Mature Adult,Red,Male,5,4,4,5,2,Yes,2.0999999999999996,69.44
+Xena,Mature Adult,Calico,Female,4,4,4,5,4,Yes,1.5,52.78
+Morty,Senior,Silver Tabby,Male,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Vikki,Senior,Brown and White Tabby,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Norbert,Kitten,Red Tabby,Male,5,4,3,6,3,Yes,2.3999999999999995,77.78
+Libby,Young Adult,Cinnamon,Female,4,4,3,4,3,Yes,1.4,50.0
+Sylvanas,Senior,Gray and White Tabby,Female,5,5,3,4,4,Yes,1.5,52.78
+Dora,Senior,Orange,Female,5,5,1,3,4,Yes,1.4,50.0
+Norbert,Kitten,Orange,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Jerry,Young Adult,Gray,Male,4,4,3,5,2,Yes,1.8,61.11
+Poppy,Senior,Brown and White Tabby,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Maisy,Mature Adult,Cream Tabby,Female,4,5,4,3,3,No,0.8,33.33
+Leo,Senior,Fawn,Male,4,4,4,4,5,No,1.1,41.67
+Trouble,Mature Adult,Cinnamon,Male,4,4,3,5,3,Yes,1.7,58.33
+Scout,Senior,Gray Tabby,Male,4,4,2,5,4,Yes,1.7000000000000002,58.33
+Izzy,Senior,Lilac Tortoiseshell,Female,4,5,5,5,3,No,1.3,47.22
+Julian,Young Adult,Red Tabby,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Sam,Senior,White,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Tilly,Mature Adult,Silver Tabby,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Sushi,Kitten,Gray and White Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Adolin,Kitten,Orange,Male,4,3,4,4,4,Yes,1.4,50.0
+Matty,Senior,Cinnamon,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Tilly,Young Adult,Black and White,Female,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Peaches,Young Adult,Calico,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Sophie,Young Adult,Fawn,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Ruby,Young Adult,Gray Tabby,Female,5,4,4,4,3,Yes,1.7,58.33
+Mochi,Mature Adult,Red,Female,5,4,4,5,4,Yes,1.9,63.89
+Jinxy,Young Adult,Cream Tabby,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Izzy,Kitten,Gray Tabby,Female,5,3,3,5,4,Yes,2.1999999999999997,72.22
+Cielo,Senior,White,Male,4,4,2,4,4,Yes,1.4,50.0
+Milo,Mature Adult,Fawn,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Cleo,Mature Adult,Gray and White Tabby,Female,5,3,5,6,3,Yes,2.3999999999999995,77.78
+Nero,Senior,Black,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Helios,Senior,Chocolate,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Freya,Kitten,Silver Tabby,Female,4,4,2,4,4,Yes,1.4,50.0
+Nico,Young Adult,Black and White,Male,3,5,3,3,4,No,0.4,22.22
+Fiddler,Mature Adult,Red,Male,4,3,5,6,4,Yes,1.9,63.89
+Kodi,Senior,Black,Male,4,3,2,6,3,Yes,2.3,75.0
+Murphy,Kitten,Gray Tabby,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Avi,Mature Adult,White,Male,4,2,3,5,2,Yes,2.2,72.22
+Eden,Senior,Calico,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Matcha,Mature Adult,Cinnamon,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Gizmo,Mature Adult,Fawn,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Oliver,Young Adult,Chocolate,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Pancake,Young Adult,White,Female,4,5,3,3,2,No,1.0,38.89
+Alistair,Mature Adult,Red Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Charlie,Senior,White,Male,5,3,3,5,3,Yes,2.3,75.0
+Neil,Mature Adult,Red Tabby,Male,5,5,4,5,3,Yes,1.8,61.11
+Wrex,Mature Adult,Chocolate Tabby,Male,4,6,2,4,4,No,0.9999999999999999,38.89
+Sadie,Young Adult,Chocolate and White,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Coffee,Mature Adult,Chocolate and White,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Acorn,Young Adult,Chocolate Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Snickers,Mature Adult,Torbie,Female,4,3,2,4,4,Yes,1.6,55.56
+Gimli,Senior,Brown and White Tabby,Male,5,4,4,5,4,Yes,1.9,63.89
+Luna,Young Adult,Chocolate and White,Female,5,4,4,4,4,Yes,1.6,55.56
+Jinxy,Kitten,Black and White,Female,5,3,3,3,3,Yes,1.6999999999999997,58.33
+Macaroni,Senior,Black,Male,3,4,4,4,5,No,0.7000000000000002,30.56
+Athena,Young Adult,Gray and White Tabby,Female,4,4,3,5,2,Yes,1.8,61.11
+Enzo,Young Adult,Silver Tabby,Male,5,3,6,4,5,Yes,1.4999999999999998,52.78
+Dora,Senior,Red Tabby,Female,5,4,4,6,2,Yes,2.3999999999999995,77.78
+Wilson,Kitten,Lilac,Male,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Max,Senior,Gray,Male,4,4,3,5,2,Yes,1.8,61.11
+Jinxy,Mature Adult,Chocolate and White,Female,5,3,4,6,2,Yes,2.5999999999999996,83.33
+Sylphrena,Mature Adult,Gray and White Tabby,Female,5,2,3,4,3,Yes,2.2,72.22
+Tiger,Kitten,Cream Tabby,Male,4,3,4,5,3,Yes,1.8,61.11
+Izzy,Young Adult,Fawn,Female,4,3,4,3,5,No,1.0,38.89
+Agatha,Young Adult,Dilute Torbie,Female,4,3,2,4,3,Yes,1.7,58.33
+Zeke,Senior,Lilac,Male,4,4,2,4,5,No,1.3,47.22
+Sushi,Young Adult,Chocolate,Male,4,3,3,4,4,Yes,1.5,52.78
+Tasha,Kitten,Dilute Torbie,Female,4,5,3,5,3,Yes,1.5,52.78
+Wilson,Young Adult,Brown and White Tabby,Male,4,5,4,3,4,No,0.7000000000000001,30.56
+Cosmo,Mature Adult,Brown and White Tabby,Male,4,3,3,4,2,Yes,1.7,58.33
+Garrus,Kitten,Red,Male,4,4,3,5,3,Yes,1.7,58.33
+Rasha,Kitten,Black and White,Female,4,5,5,4,4,No,0.9,36.11
+Betsy,Mature Adult,Red Tabby,Female,4,4,2,4,6,No,1.2,44.44
+Rick,Kitten,Chocolate and White,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Ruby,Young Adult,Black,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Smokey,Senior,Brown and White Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Sprinkles,Mature Adult,Chocolate and White,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Rico,Young Adult,Cream,Male,4,4,4,3,4,No,0.8999999999999998,36.11
+Vesper,Young Adult,Brown and White Tabby,Male,3,3,2,5,3,Yes,1.6,55.56
+Pumpkin,Senior,Lilac Tortoiseshell,Female,4,5,5,3,4,No,0.6,27.78
+Fiddler,Young Adult,Lilac,Male,4,5,6,3,4,No,0.4999999999999999,25.0
+Tawny,Mature Adult,Red,Female,3,5,4,4,5,No,0.5,25.0
+Ruby,Young Adult,Gray,Female,4,4,3,6,2,Yes,2.0999999999999996,69.44
+Sprinkles,Senior,Cream,Male,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Oliver,Senior,Gray,Male,4,4,3,3,5,No,0.8999999999999999,36.11
+Evie,Mature Adult,Chocolate,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Neptune,Mature Adult,Orange,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Matty,Young Adult,Silver Tabby,Male,4,4,3,4,2,Yes,1.5,52.78
+Mittens,Mature Adult,Gray and White Tabby,Male,4,4,5,4,4,No,1.1,41.67
+Mordin,Senior,Chocolate,Male,5,5,4,5,3,Yes,1.8,61.11
+Arthas,Young Adult,Brown and White Tabby,Male,5,3,2,6,2,Yes,2.8,88.89
+Nala,Mature Adult,Chocolate and White,Female,4,5,3,5,3,Yes,1.5,52.78
+Nola,Mature Adult,Silver Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Anders,Young Adult,Lilac,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Mittens,Young Adult,Chocolate and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Cas,Kitten,Red Tabby,Male,6,4,5,6,2,Yes,2.7,86.11
+Pistachio,Senior,Gray and White,Female,3,3,5,4,5,No,0.8,33.33
+Boots,Mature Adult,Orange,Male,5,4,4,4,5,Yes,1.5,52.78
+Lilith,Senior,Chocolate,Female,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Natasha,Young Adult,Cream Tabby,Female,3,4,4,4,3,No,0.9000000000000001,36.11
+Nora,Kitten,Gray Tabby,Female,4,4,4,4,3,No,1.3,47.22
+Winter,Kitten,Chocolate,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Penny,Young Adult,Cinnamon,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Catsanova,Young Adult,Silver Tabby,Male,5,3,2,6,2,Yes,2.8,88.89
+Mochi,Senior,Chocolate Tabby,Female,4,5,4,6,4,Yes,1.6,55.56
+Macaroni,Young Adult,Gray and White Tabby,Male,5,6,6,5,5,No,1.1999999999999997,44.44
+Lilith,Senior,Chocolate,Female,5,3,2,5,2,Yes,2.5,80.56
+Smudge,Senior,Black,Male,5,4,4,6,3,Yes,2.3,75.0
+Dolly,Senior,Red,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Fritz,Kitten,Red Tabby,Male,5,5,4,5,3,Yes,1.8,61.11
+Nugget,Senior,Fawn,Male,4,3,4,5,3,Yes,1.8,61.11
+Clawde,Senior,White,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Fiddler,Young Adult,Cinnamon,Male,4,5,3,4,3,No,1.2,44.44
+Galadriel,Mature Adult,Black,Female,4,4,4,4,5,No,1.1,41.67
+Liara,Young Adult,White,Female,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Hendrix,Young Adult,Lilac,Male,4,3,3,3,5,No,1.0999999999999999,41.67
+Calliope,Mature Adult,Gray and White,Female,4,4,2,3,4,No,1.1,41.67
+Morty,Young Adult,Gray and White,Male,4,4,2,3,4,No,1.1,41.67
+Jerry,Young Adult,Lilac,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Maddy,Young Adult,Fawn,Female,4,4,3,5,3,Yes,1.7,58.33
+Max,Mature Adult,Red Tabby,Male,4,5,3,4,3,No,1.2,44.44
+Gimli,Young Adult,Orange,Male,5,6,5,3,5,No,0.6999999999999997,30.56
+Rasha,Young Adult,Gray and White,Female,3,4,4,3,3,No,0.6,27.78
+Dante,Young Adult,Lilac,Male,4,2,2,3,4,Yes,1.5,52.78
+Maximus,Senior,Silver Tabby,Male,5,5,5,4,5,No,1.2,44.44
+Jerry,Senior,Orange,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Cosmo,Senior,Red,Male,5,4,4,4,5,Yes,1.5,52.78
+Matcha,Young Adult,Red Tabby,Female,3,4,3,4,4,No,0.9,36.11
+Duchess,Senior,Gray and White Tabby,Female,4,5,3,4,3,No,1.2,44.44
+Calliope,Kitten,Chocolate,Female,4,4,4,4,3,No,1.3,47.22
+Ziggy,Kitten,Chocolate Tabby,Male,5,5,4,4,4,Yes,1.4,50.0
+Matty,Senior,Gray and White,Male,4,4,2,5,2,Yes,1.9000000000000001,63.89
+Kasumi,Mature Adult,Black,Female,4,3,4,4,2,Yes,1.5999999999999999,55.56
+Sprinkles,Senior,Fawn,Male,4,5,5,5,3,No,1.3,47.22
+Marshmallow,Young Adult,Gray and White Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+Zevran,Senior,Gray and White Tabby,Male,5,4,6,4,4,Yes,1.4,50.0
+Helios,Mature Adult,Cinnamon,Male,4,4,4,3,4,No,0.8999999999999998,36.11
+Rasha,Kitten,Dilute Torbie,Female,4,3,4,5,3,Yes,1.8,61.11
+Aurora,Kitten,Chocolate,Female,3,3,2,4,4,No,1.2000000000000002,44.44
+Winnie,Young Adult,Brown and White Tabby,Female,5,4,3,5,2,Yes,2.1999999999999997,72.22
+Zeke,Young Adult,Orange,Male,5,3,3,5,3,Yes,2.3,75.0
+Arwen,Senior,White,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Peaches,Young Adult,Cinnamon,Female,4,5,4,3,5,No,0.6000000000000001,27.78
+Wrex,Mature Adult,White,Male,3,5,4,5,4,No,0.9000000000000002,36.11
+Winter,Young Adult,Gray and White,Male,4,4,4,4,3,No,1.3,47.22
+Millie,Mature Adult,Black and White,Female,4,4,5,5,5,No,1.3,47.22
+Navani,Senior,Gray Tabby,Female,5,4,5,4,5,Yes,1.4,50.0
+Marshmallow,Mature Adult,Dilute Torbie,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Peaches,Kitten,Torbie,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Gabe,Young Adult,Red Tabby,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Cordelia,Kitten,Gray Tabby,Female,6,4,5,6,3,Yes,2.6000000000000005,83.33
+Nola,Senior,Orange and White,Female,5,3,4,5,2,Yes,2.3,75.0
+Wilson,Mature Adult,Gray and White,Male,4,4,3,5,2,Yes,1.8,61.11
+Molly,Kitten,Brown and White Tabby,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Figaro,Senior,Gray Tabby,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Hunter,Young Adult,Cream Tabby,Male,4,3,5,5,2,Yes,1.8,61.11
+Atticus,Senior,Orange,Male,4,4,3,5,4,Yes,1.6,55.56
+Celeste,Kitten,Gray Tabby,Female,4,6,5,4,5,No,0.5999999999999999,27.78
+Calliope,Kitten,Cinnamon,Female,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Cosmo,Mature Adult,Chocolate,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Zelda,Mature Adult,Black,Female,4,3,2,4,2,Yes,1.8,61.11
+Edie,Young Adult,Chocolate and White,Female,5,5,5,5,3,Yes,1.7,58.33
+Matty,Young Adult,Chocolate and White,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Graham,Young Adult,Cinnamon,Male,4,4,2,3,5,No,1.0,38.89
+Cordelia,Kitten,Gray Tabby,Female,5,5,5,5,4,Yes,1.6,55.56
+Neptune,Senior,Chocolate,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Jasnah,Kitten,Dilute Calico,Female,4,4,3,5,3,Yes,1.7,58.33
+Arwen,Young Adult,Fawn,Female,5,5,5,6,4,Yes,1.9,63.89
+Stella,Kitten,Red,Female,4,4,3,4,3,Yes,1.4,50.0
+Freya,Young Adult,White,Female,4,4,5,4,5,No,1.0,38.89
+Mufasa,Mature Adult,Cinnamon,Male,4,4,4,4,5,No,1.1,41.67
+Jasper,Senior,Cream,Male,4,6,5,4,6,No,0.4999999999999998,25.0
+Sprinkles,Kitten,Red Tabby,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Julian,Senior,Cream,Male,5,2,4,5,4,Yes,2.3000000000000003,75.0
+Jasmine,Kitten,Cinnamon,Female,5,4,4,5,4,Yes,1.9,63.89
+Taffy,Mature Adult,Chocolate Tabby,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Atlas,Mature Adult,Orange and White,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Nikki,Senior,Torbie,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Nora,Kitten,Lilac Tortoiseshell,Female,5,6,5,5,4,Yes,1.4,50.0
+Winnie,Mature Adult,Cream Tabby,Female,5,4,4,3,4,No,1.2999999999999998,47.22
+Linguine,Young Adult,Chocolate and White,Male,5,6,5,4,4,No,1.0999999999999996,41.67
+Beau,Kitten,Gray and White Tabby,Male,4,3,3,6,3,Yes,2.2,72.22
+Remi,Senior,Chocolate and White,Male,4,4,2,4,2,Yes,1.6,55.56
+Pistachio,Mature Adult,Orange and White,Female,4,5,3,4,5,No,1.0,38.89
+Garrus,Young Adult,Gray and White,Male,4,5,6,4,3,No,0.8999999999999999,36.11
+Lucky,Young Adult,White,Male,5,4,5,5,2,Yes,2.0,66.67
+Neptune,Young Adult,Cinnamon,Male,3,3,2,4,4,No,1.2000000000000002,44.44
+Bagel,Senior,White,Male,4,3,3,5,2,Yes,2.0,66.67
+Ziggy,Kitten,Red Tabby,Male,5,4,4,4,4,Yes,1.6,55.56
+Maximus,Young Adult,Gray,Male,5,4,2,5,4,Yes,2.1,69.44
+Delphi,Senior,Brown and White Tabby,Female,4,4,5,5,3,Yes,1.5,52.78
+Meg,Mature Adult,Gray,Female,5,4,4,5,5,Yes,1.7999999999999998,61.11
+Max,Senior,Gray and White Tabby,Male,5,4,5,4,5,Yes,1.4,50.0
+Oreo,Senior,Cinnamon,Male,4,3,2,6,3,Yes,2.3,75.0
+Tilly,Kitten,Orange and White,Female,4,5,4,3,4,No,0.7000000000000001,30.56
+Piper,Senior,Gray and White Tabby,Female,4,4,3,4,3,Yes,1.4,50.0
+Nico,Senior,Gray Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+George,Kitten,Chocolate,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Tater,Young Adult,Chocolate and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Jinx,Mature Adult,Black,Male,3,5,3,6,3,Yes,1.4,50.0
+Luna,Senior,Dilute Tortoiseshell,Female,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Bagel,Kitten,Silver Tabby,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Trouble,Young Adult,Lilac,Male,6,4,4,4,5,Yes,1.9000000000000004,63.89
+Stitch,Kitten,Chocolate,Male,4,5,3,5,3,Yes,1.5,52.78
+Zeke,Young Adult,Chocolate,Male,5,3,3,5,2,Yes,2.3999999999999995,77.78
+Vesper,Senior,Gray and White,Female,5,3,4,4,5,Yes,1.6999999999999997,58.33
+Minerva,Mature Adult,Lilac,Female,5,5,4,4,4,Yes,1.4,50.0
+Betsy,Kitten,Red,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Neo,Kitten,Cream,Male,5,4,4,3,3,Yes,1.3999999999999997,50.0
+Neo,Young Adult,Orange and White,Male,4,5,3,3,3,No,0.8999999999999999,36.11
+Darla,Kitten,Gray and White Tabby,Female,4,4,3,4,3,Yes,1.4,50.0
+Fiddler,Mature Adult,Fawn,Male,5,5,3,5,2,Yes,2.0,66.67
+Coffee,Young Adult,Black,Male,4,6,5,4,3,No,0.7999999999999998,33.33
+Libby,Mature Adult,Chocolate and White,Female,5,4,4,4,3,Yes,1.7,58.33
+Edie,Young Adult,Orange,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Winnie,Young Adult,Chocolate Tabby,Female,5,5,5,4,5,No,1.2,44.44
+Delphi,Mature Adult,Gray,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Bagel,Mature Adult,White,Male,3,3,1,5,4,Yes,1.6,55.56
+Hendrix,Senior,Chocolate and White,Male,4,3,5,5,3,Yes,1.7,58.33
+Sierra,Kitten,Fawn,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Hendrix,Senior,Lilac,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Missy,Kitten,Silver Tabby,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Rasha,Kitten,Cream Tabby,Female,4,4,2,4,4,Yes,1.4,50.0
+Patch,Kitten,Red Tabby,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Delphi,Young Adult,Gray and White,Female,4,5,5,5,2,Yes,1.4000000000000001,50.0
+Mufasa,Senior,Chocolate,Male,5,4,6,3,6,No,0.8999999999999997,36.11
+Peanut,Senior,White,Male,5,5,2,5,4,Yes,1.9,63.89
+Alistair,Mature Adult,Fawn,Male,3,4,3,4,3,No,1.0,38.89
+Leo,Senior,Fawn,Male,4,4,3,5,3,Yes,1.7,58.33
+Nyxi,Kitten,Fawn,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Dante,Kitten,Orange,Male,4,4,5,4,3,No,1.2,44.44
+Sadie,Mature Adult,Red Tabby,Female,5,5,4,4,3,Yes,1.4999999999999998,52.78
+Zoe,Senior,Dilute Torbie,Female,4,4,3,5,3,Yes,1.7,58.33
+Murphy,Young Adult,White,Female,4,4,5,3,4,No,0.7999999999999999,33.33
+Boots,Mature Adult,Cinnamon,Female,4,3,3,3,5,No,1.0999999999999999,41.67
+Smudge,Senior,Gray and White,Male,4,5,3,5,3,Yes,1.5,52.78
+Dante,Young Adult,Gray and White Tabby,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Nyxi,Senior,Lilac Tortoiseshell,Female,4,5,3,3,4,No,0.7999999999999999,33.33
+Edie,Mature Adult,Torbie,Female,5,4,4,4,3,Yes,1.7,58.33
+Wilson,Mature Adult,Cinnamon,Male,5,4,4,5,4,Yes,1.9,63.89
+Vesper,Senior,Cream,Female,4,5,3,5,2,Yes,1.6,55.56
+Binx,Senior,Cinnamon,Male,3,4,3,4,5,No,0.8,33.33
+Pistachio,Mature Adult,Gray and White Tabby,Female,4,3,2,4,3,Yes,1.7,58.33
+Stitch,Kitten,Brown and White Tabby,Male,5,5,4,3,4,No,1.1,41.67
+Katrina,Mature Adult,Cream Tabby,Female,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Sheba,Senior,Chocolate and White,Female,5,5,4,4,5,No,1.2999999999999998,47.22
+Neil,Mature Adult,Red,Male,5,4,3,3,5,No,1.2999999999999998,47.22
+Coffee,Young Adult,Cream Tabby,Female,4,6,4,4,4,No,0.7999999999999997,33.33
+Aurora,Senior,Chocolate,Female,4,4,3,4,3,Yes,1.4,50.0
+Helios,Young Adult,Orange and White,Male,4,4,2,5,2,Yes,1.9000000000000001,63.89
+Katrina,Young Adult,Calico,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Nemo,Senior,Red Tabby,Male,4,5,5,4,4,No,0.9,36.11
+Remi,Mature Adult,Gray Tabby,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Chai,Young Adult,Orange and White,Female,4,3,4,4,4,Yes,1.4,50.0
+Petunia,Mature Adult,Red,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Peanut,Young Adult,Red,Female,4,4,4,4,3,No,1.3,47.22
+Tasha,Kitten,Cinnamon,Female,5,6,5,4,5,No,0.9999999999999998,38.89
+Freya,Mature Adult,Cream,Female,4,3,4,5,3,Yes,1.8,61.11
+Delphi,Mature Adult,Calico,Female,4,6,4,3,5,No,0.3999999999999998,22.22
+Jinxy,Senior,Fawn,Female,5,3,3,5,4,Yes,2.1999999999999997,72.22
+Fiddler,Mature Adult,Gray Tabby,Male,4,4,3,3,3,No,1.0999999999999999,41.67
+Pistachio,Senior,Brown and White Tabby,Female,5,4,5,4,5,Yes,1.4,50.0
+Kimchi,Kitten,Black and White,Male,5,5,3,4,3,Yes,1.5999999999999999,55.56
+Celeste,Senior,Cream Tabby,Female,3,2,2,4,3,Yes,1.5,52.78
+Darla,Mature Adult,Gray Tabby,Female,4,5,4,4,5,No,0.8999999999999999,36.11
+Dean,Kitten,Black,Male,5,3,3,6,2,Yes,2.6999999999999993,86.11
+Snickers,Mature Adult,Gray and White,Female,5,4,4,6,3,Yes,2.3,75.0
+Katrina,Kitten,Gray and White Tabby,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Fiddler,Kitten,Cream Tabby,Male,4,4,5,3,4,No,0.7999999999999999,33.33
+Ivy,Mature Adult,Orange,Female,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Meg,Mature Adult,Orange,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Molly,Mature Adult,Cream Tabby,Female,4,3,4,4,4,Yes,1.4,50.0
+Sammy,Young Adult,Gray Tabby,Male,5,3,5,6,2,Yes,2.4999999999999996,80.56
+Pi ,Young Adult,Red,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Pumpkin,Young Adult,Lilac Tortoiseshell,Female,4,4,3,5,4,Yes,1.6,55.56
+Betsy,Kitten,Fawn,Female,4,5,6,4,3,No,0.8999999999999999,36.11
+Gizmo,Kitten,Red,Female,5,6,4,4,5,No,1.0999999999999996,41.67
+Sushi,Senior,Chocolate,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Helios,Kitten,Silver Tabby,Male,4,3,2,4,4,Yes,1.6,55.56
+Rosie,Mature Adult,Gray and White Tabby,Female,5,4,3,4,2,Yes,1.8999999999999997,63.89
+Winter,Kitten,Gray and White Tabby,Female,4,5,6,4,3,No,0.8999999999999999,36.11
+Boots,Kitten,Cream Tabby,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Axel,Young Adult,Silver Tabby,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Liara,Senior,Orange and White,Female,5,3,3,5,5,Yes,2.0999999999999996,69.44
+Cas,Mature Adult,Black and White,Male,4,4,4,3,5,No,0.7999999999999998,33.33
+Tulip,Mature Adult,Chocolate and White,Female,4,3,3,3,4,No,1.1999999999999997,44.44
+Morty,Senior,Cream,Male,4,4,3,4,3,Yes,1.4,50.0
+Furman,Mature Adult,Red Tabby,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Dalinar,Kitten,Chocolate,Male,5,5,6,4,4,No,1.1999999999999997,44.44
+Milo,Mature Adult,Chocolate and White,Male,4,4,3,5,2,Yes,1.8,61.11
+Mochi,Young Adult,Lilac Tortoiseshell,Female,4,5,3,4,4,No,1.1,41.67
+Lucifer,Kitten,Red,Male,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Milo,Young Adult,Black,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Edie,Senior,Calico,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Mordin,Young Adult,Fawn,Male,4,4,3,5,4,Yes,1.6,55.56
+Finn,Mature Adult,Gray,Male,4,4,3,5,3,Yes,1.7,58.33
+Penny,Kitten,Torbie,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Loki,Mature Adult,Cream Tabby,Male,4,3,3,5,5,Yes,1.7000000000000002,58.33
+Peaches,Young Adult,Chocolate and White,Female,3,4,4,3,3,No,0.6,27.78
+Zoe,Senior,Fawn,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Leliana,Senior,Lilac Tortoiseshell,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Sylphrena,Mature Adult,Orange,Female,5,4,4,6,3,Yes,2.3,75.0
+Acorn,Senior,Red,Male,4,3,3,3,3,No,1.2999999999999998,47.22
+Rogue,Kitten,Fawn,Female,4,5,3,5,3,Yes,1.5,52.78
+Remi,Senior,Red Tabby,Male,4,3,2,4,4,Yes,1.6,55.56
+Alistair,Senior,Lilac,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Jasper,Mature Adult,Fawn,Male,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Merlin,Young Adult,White,Male,4,5,5,4,5,No,0.8,33.33
+Figaro,Mature Adult,Chocolate Tabby,Male,5,4,5,5,2,Yes,2.0,66.67
+Scout,Young Adult,Cream Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+Peanut,Young Adult,Red Tabby,Male,5,3,5,5,3,Yes,2.0999999999999996,69.44
+Norbert,Senior,Red,Male,5,4,3,4,5,Yes,1.5999999999999996,55.56
+Norbert,Kitten,Orange and White,Male,4,3,4,5,3,Yes,1.8,61.11
+Figaro,Kitten,White,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Kitty,Young Adult,White,Female,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Delphi,Kitten,Lilac Tortoiseshell,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Penelope,Senior,Chocolate,Female,4,4,3,5,2,Yes,1.8,61.11
+Nugget,Senior,Gray Tabby,Male,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Darla,Senior,Calico,Female,5,5,6,5,4,Yes,1.5,52.78
+Edie,Mature Adult,Gray and White Tabby,Female,4,2,3,6,2,Yes,2.5,80.56
+Calliope,Mature Adult,Black,Female,4,4,3,5,3,Yes,1.7,58.33
+Rico,Young Adult,Black,Male,5,5,6,5,3,Yes,1.5999999999999999,55.56
+Hendrix,Mature Adult,Cream Tabby,Male,5,4,5,4,2,Yes,1.7,58.33
+Chestnut,Mature Adult,Cinnamon,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Enzo,Kitten,Cinnamon,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Mochi,Senior,Black,Female,4,5,3,4,4,No,1.1,41.67
+Tali,Senior,Red,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Natasha,Young Adult,Black,Female,3,3,3,4,2,No,1.3,47.22
+Eowyn,Senior,Cream,Female,5,5,5,4,4,No,1.2999999999999998,47.22
+Latte,Mature Adult,Gray Tabby,Male,5,5,4,5,5,Yes,1.6,55.56
+Charlie,Senior,Red,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Stitch,Senior,Chocolate and White,Male,4,4,5,3,5,No,0.7,30.56
+Meg,Young Adult,Orange,Female,5,3,4,6,3,Yes,2.5,80.56
+Patch,Young Adult,Chocolate Tabby,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+George,Senior,Orange and White,Male,4,3,3,4,4,Yes,1.5,52.78
+Muffin,Senior,Red Tabby,Female,4,5,6,4,3,No,0.8999999999999999,36.11
+Piper,Mature Adult,Chocolate Tabby,Female,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Matty,Young Adult,Fawn,Male,4,5,3,5,4,Yes,1.4,50.0
+Donut,Kitten,White,Male,4,5,4,4,5,No,0.8999999999999999,36.11
+Cas,Kitten,Orange,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+August,Senior,Cream Tabby,Male,6,4,2,7,3,Yes,3.2,100.0
+Kodi,Kitten,Orange and White,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Atticus,Senior,Silver Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Lilo,Senior,Dilute Calico,Female,4,5,3,4,3,No,1.2,44.44
+Portia,Senior,Chocolate and White,Female,4,3,3,5,2,Yes,2.0,66.67
+Sheba,Senior,Tortoiseshell,Female,5,4,2,5,4,Yes,2.1,69.44
+Clawde,Senior,Gray and White,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Betsy,Kitten,Fawn,Female,5,4,4,4,4,Yes,1.6,55.56
+Cas,Senior,Orange,Male,5,3,3,4,3,Yes,1.9999999999999998,66.67
+Morty,Kitten,Silver Tabby,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Penelope,Young Adult,Lilac Tortoiseshell,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Basil,Kitten,Gray,Male,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Nugget,Senior,Gray and White,Male,4,4,3,5,3,Yes,1.7,58.33
+Misty,Kitten,Lilac,Female,5,3,2,5,5,Yes,2.2,72.22
+Sierra,Senior,Orange,Female,4,4,3,5,3,Yes,1.7,58.33
+Missy,Kitten,Dilute Calico,Female,4,4,5,5,4,Yes,1.4,50.0
+Smudge,Senior,Gray and White,Male,4,3,2,4,5,Yes,1.5,52.78
+Jasnah,Senior,Chocolate and White,Female,4,4,4,5,4,Yes,1.5,52.78
+Nora,Kitten,Tortoiseshell,Female,4,4,2,5,3,Yes,1.8,61.11
+Mika,Senior,Black,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Molly,Mature Adult,Black,Female,4,4,4,5,2,Yes,1.7,58.33
+Olive,Senior,Cream,Female,4,6,5,4,5,No,0.5999999999999999,27.78
+Mochi,Mature Adult,Silver Tabby,Female,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Salem,Senior,Orange and White,Male,4,4,5,3,4,No,0.7999999999999999,33.33
+Oreo,Senior,Gray and White Tabby,Male,5,4,5,6,2,Yes,2.3,75.0
+Clyde,Kitten,Cinnamon,Male,5,3,3,4,4,Yes,1.9,63.89
+Dalinar,Kitten,Brown and White Tabby,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Molly,Young Adult,White,Female,4,4,5,5,3,Yes,1.5,52.78
+Julian,Young Adult,Lilac,Male,5,5,4,4,3,Yes,1.4999999999999998,52.78
+Cosmo,Kitten,Chocolate Tabby,Male,3,2,4,2,3,No,0.7,30.56
+Nora,Young Adult,Black and White,Female,5,4,4,6,3,Yes,2.3,75.0
+Winter,Mature Adult,Orange,Female,3,3,3,5,2,Yes,1.6,55.56
+Misty,Mature Adult,Red,Female,4,4,4,4,3,No,1.3,47.22
+Dalinar,Kitten,Gray,Male,5,5,5,4,3,Yes,1.4,50.0
+Sylvester,Kitten,Gray,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Scout,Young Adult,Gray,Male,4,3,3,4,4,Yes,1.5,52.78
+Lily,Mature Adult,Black,Female,5,3,2,4,5,Yes,1.9,63.89
+Delphi,Senior,Cinnamon,Female,5,5,4,4,4,Yes,1.4,50.0
+George,Mature Adult,Red,Male,4,4,2,4,4,Yes,1.4,50.0
+Gizmo,Kitten,White,Female,4,5,3,4,5,No,1.0,38.89
+Katrina,Kitten,Chocolate Tabby,Female,4,3,4,5,3,Yes,1.8,61.11
+Maisy,Kitten,Torbie,Female,5,4,4,4,4,Yes,1.6,55.56
+Coffee,Senior,Silver Tabby,Male,4,3,4,4,3,Yes,1.4999999999999998,52.78
+Felicity,Senior,Orange and White,Female,4,4,5,4,5,No,1.0,38.89
+Lily,Kitten,Gray,Female,5,4,3,5,4,Yes,2.0,66.67
+Dalinar,Senior,Gray and White,Male,3,3,3,4,4,No,1.1,41.67
+Kaladin,Mature Adult,Chocolate,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Daisy,Young Adult,Red,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Rogue,Kitten,Lilac Tortoiseshell,Female,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Ziggy,Senior,Chocolate,Male,6,6,5,6,3,Yes,2.2,72.22
+Chestnut,Senior,Black and White,Male,3,4,3,5,2,Yes,1.4000000000000001,50.0
+Betsy,Young Adult,Cream,Female,3,5,4,2,3,No,0.10000000000000009,13.89
+Kasumi,Mature Adult,Lilac,Female,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Piper,Mature Adult,Lilac Tortoiseshell,Female,4,4,3,5,3,Yes,1.7,58.33
+Marshmallow,Young Adult,Cream,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Merlin,Young Adult,Silver Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Tulip,Kitten,Black and White,Female,5,4,4,4,5,Yes,1.5,52.78
+Calliope,Senior,Black,Female,3,4,3,4,2,No,1.1,41.67
+Mordin,Mature Adult,Fawn,Male,5,3,3,5,2,Yes,2.3999999999999995,77.78
+Celeste,Mature Adult,Orange,Female,4,5,4,5,4,No,1.3000000000000003,47.22
+Hendrix,Senior,Orange and White,Male,4,5,4,6,3,Yes,1.7,58.33
+Rogue,Mature Adult,Dilute Tortoiseshell,Female,5,5,5,5,4,Yes,1.6,55.56
+Missy,Mature Adult,Tortoiseshell,Female,4,5,3,5,2,Yes,1.6,55.56
+Leo,Senior,Cream Tabby,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Atlas,Young Adult,Orange and White,Male,5,4,4,4,5,Yes,1.5,52.78
+Vesper,Young Adult,Orange and White,Female,4,4,3,5,2,Yes,1.8,61.11
+Molly,Kitten,Gray and White Tabby,Female,5,3,4,6,2,Yes,2.5999999999999996,83.33
+Vikki,Senior,Cinnamon,Female,4,6,5,4,4,No,0.6999999999999998,30.56
+Sam,Kitten,Black and White,Male,4,4,3,5,4,Yes,1.6,55.56
+Cleocatra,Kitten,Orange and White,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Cooper,Young Adult,Brown and White Tabby,Male,5,4,4,5,4,Yes,1.9,63.89
+Sprinkles,Mature Adult,Gray,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Parsnip,Kitten,Dilute Tortoiseshell,Female,4,4,4,3,4,No,0.8999999999999998,36.11
+Neptune,Young Adult,Red Tabby,Male,4,4,3,4,3,Yes,1.4,50.0
+Penny,Mature Adult,Tortoiseshell,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Libby,Kitten,Lilac,Female,5,4,4,4,5,Yes,1.5,52.78
+Vesper,Senior,Black,Female,4,4,4,4,3,No,1.3,47.22
+Sylphrena,Young Adult,Torbie,Female,4,5,3,4,2,No,1.3,47.22
+Molly,Young Adult,Fawn,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Stitch,Kitten,Silver Tabby,Male,3,4,4,4,4,No,0.8000000000000002,33.33
+Gatsby,Mature Adult,Red Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+Kitty,Kitten,Dilute Torbie,Female,5,5,4,4,4,Yes,1.4,50.0
+Parsnip,Young Adult,Red,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Morty,Young Adult,Lilac,Male,5,3,6,4,4,Yes,1.5999999999999996,55.56
+Dante,Young Adult,Gray and White,Male,2,3,3,3,5,No,0.2999999999999998,19.44
+August,Senior,Red Tabby,Male,5,4,4,4,5,Yes,1.5,52.78
+Atticus,Senior,Gray,Male,5,5,4,4,5,No,1.2999999999999998,47.22
+Sylphrena,Senior,Silver Tabby,Female,4,4,3,5,3,Yes,1.7,58.33
+Millie,Kitten,Calico,Female,5,4,3,5,5,Yes,1.9,63.89
+Chestnut,Kitten,Orange and White,Male,5,4,2,5,3,Yes,2.2,72.22
+Edie,Young Adult,Lilac Tortoiseshell,Female,4,3,2,3,4,No,1.2999999999999998,47.22
+Reptar,Young Adult,Black,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Sasha,Kitten,Dilute Calico,Female,5,6,4,4,3,No,1.2999999999999996,47.22
+Peanut,Kitten,Black,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Bailey,Senior,Red,Female,5,4,3,6,3,Yes,2.3999999999999995,77.78
+Copurrnicus,Kitten,Red Tabby,Male,3,2,3,4,5,No,1.2000000000000002,44.44
+Felix,Mature Adult,Gray,Male,4,3,3,3,4,No,1.1999999999999997,44.44
+Meg,Senior,Tortoiseshell,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Lucifer,Kitten,Black,Male,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Oreo,Mature Adult,Red Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Aloy,Mature Adult,Lilac,Female,5,5,3,5,3,Yes,1.9000000000000001,63.89
+Cricket,Kitten,Gray,Male,5,4,4,4,4,Yes,1.6,55.56
+Sheba,Senior,Dilute Torbie,Female,4,2,3,2,5,No,1.0,38.89
+Rogue,Kitten,Gray,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Sassy,Kitten,Orange and White,Female,3,3,4,4,4,No,0.9999999999999999,38.89
+Lucy,Mature Adult,Red,Female,4,5,3,3,5,No,0.7,30.56
+Pi ,Kitten,Dilute Calico,Female,4,2,4,5,3,Yes,2.0,66.67
+Maximus,Young Adult,Chocolate Tabby,Male,5,3,3,4,2,Yes,2.0999999999999996,69.44
+Lexi,Senior,Dilute Torbie,Female,4,3,3,5,2,Yes,2.0,66.67
+Bella,Senior,Lilac,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Wanda,Senior,Orange,Female,4,4,5,4,4,No,1.1,41.67
+Chloe,Mature Adult,Gray,Female,5,5,3,4,4,Yes,1.5,52.78
+Kasumi,Kitten,Fawn,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Sprinkles,Kitten,Cream Tabby,Male,5,3,2,6,3,Yes,2.7,86.11
+Duchess,Senior,Red,Female,4,4,5,4,4,No,1.1,41.67
+Mittens,Young Adult,Fawn,Male,4,4,3,3,4,No,0.9999999999999999,38.89
+Furman,Kitten,Chocolate,Male,4,3,3,5,2,Yes,2.0,66.67
+Kimchi,Young Adult,Lilac,Male,4,3,4,2,4,No,0.7999999999999999,33.33
+Linguine,Mature Adult,Gray and White Tabby,Male,4,4,3,5,3,Yes,1.7,58.33
+Jasmine,Kitten,Orange,Female,4,3,3,3,5,No,1.0999999999999999,41.67
+Stitch,Senior,Black,Male,4,3,3,4,4,Yes,1.5,52.78
+Coffee,Kitten,Cinnamon,Male,3,4,3,5,3,No,1.3,47.22
+Clawdia,Young Adult,Chocolate,Female,5,4,2,5,3,Yes,2.2,72.22
+Sadie,Young Adult,Chocolate,Female,4,4,3,4,3,Yes,1.4,50.0
+Mischief,Senior,Dilute Tortoiseshell,Female,5,6,6,4,3,No,1.0999999999999996,41.67
+Garrus,Young Adult,Red Tabby,Male,4,5,3,3,4,No,0.7999999999999999,33.33
+Zoe,Senior,Dilute Tortoiseshell,Female,4,3,3,5,2,Yes,2.0,66.67
+Galadriel,Mature Adult,Cream,Female,5,5,5,4,5,No,1.2,44.44
+Leo,Mature Adult,Silver Tabby,Male,4,3,4,4,2,Yes,1.5999999999999999,55.56
+Sheba,Young Adult,Lilac Tortoiseshell,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Edie,Young Adult,Dilute Calico,Female,4,3,3,4,5,Yes,1.4,50.0
+Taffy,Kitten,Chocolate and White,Female,3,4,3,3,4,No,0.6,27.78
+Bitsy,Mature Adult,Gray and White Tabby,Female,4,4,3,5,3,Yes,1.7,58.33
+Alistair,Kitten,Black and White,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Nola,Young Adult,Gray Tabby,Female,5,3,5,5,4,Yes,2.0,66.67
+Kitty,Kitten,Brown and White Tabby,Female,4,4,3,4,3,Yes,1.4,50.0
+Nacho,Senior,Gray and White,Male,5,3,4,5,2,Yes,2.3,75.0
+Lily,Mature Adult,Brown and White Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Donut,Mature Adult,Silver Tabby,Male,5,5,4,4,3,Yes,1.4999999999999998,52.78
+Suki,Mature Adult,Orange and White,Female,5,4,2,5,2,Yes,2.3,75.0
+Alistair,Mature Adult,Chocolate and White,Male,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Waffles,Young Adult,White,Male,5,3,3,6,3,Yes,2.5999999999999996,83.33
+Felix,Young Adult,Cinnamon,Male,4,3,2,4,3,Yes,1.7,58.33
+Nero,Mature Adult,Red Tabby,Male,4,4,3,5,4,Yes,1.6,55.56
+Nora,Kitten,Red Tabby,Female,5,4,3,5,4,Yes,2.0,66.67
+Alfred,Young Adult,Cream Tabby,Male,4,4,3,3,5,No,0.8999999999999999,36.11
+Minerva,Kitten,Lilac Tortoiseshell,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Reptar,Mature Adult,Cream,Male,4,3,3,6,2,Yes,2.3,75.0
+Felix,Mature Adult,Gray,Male,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Sam,Mature Adult,Lilac,Male,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Morrigan,Kitten,Gray and White,Female,4,4,4,5,2,Yes,1.7,58.33
+Nero,Mature Adult,Orange,Male,4,3,3,5,2,Yes,2.0,66.67
+Snickers,Senior,Chocolate and White,Female,4,4,6,4,4,No,0.9999999999999999,38.89
+Stella,Young Adult,Cream Tabby,Female,4,4,4,6,2,Yes,1.9999999999999998,66.67
+Meg,Kitten,Red Tabby,Female,5,4,3,5,5,Yes,1.9,63.89
+Mischief,Mature Adult,Dilute Tortoiseshell,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Nikki,Young Adult,Dilute Tortoiseshell,Female,4,5,3,5,2,Yes,1.6,55.56
+Rosie,Young Adult,Orange,Female,5,6,4,5,4,Yes,1.5,52.78
+Ruby,Young Adult,Orange,Female,3,2,3,4,5,No,1.2000000000000002,44.44
+Vikki,Senior,Chocolate Tabby,Female,5,4,5,4,5,Yes,1.4,50.0
+Bianca,Mature Adult,Cream,Female,4,3,2,6,3,Yes,2.3,75.0
+Maximus,Young Adult,Cream Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+Donut,Mature Adult,Chocolate Tabby,Male,4,4,3,3,3,No,1.0999999999999999,41.67
+Rocky,Senior,Gray and White Tabby,Male,4,3,2,5,2,Yes,2.0999999999999996,69.44
+Graham,Senior,Orange,Male,4,3,2,5,3,Yes,1.9999999999999998,66.67
+Copurrnicus,Senior,Black,Male,4,5,4,4,4,No,0.9999999999999999,38.89
+Sasha,Mature Adult,White,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Missy,Senior,Gray,Female,5,4,4,4,4,Yes,1.6,55.56
+Nala,Kitten,Cream Tabby,Female,3,4,3,5,4,No,1.2000000000000002,44.44
+Rosie,Mature Adult,Cinnamon,Female,4,5,3,4,5,No,1.0,38.89
+Katrina,Young Adult,Chocolate Tabby,Female,5,6,4,5,3,Yes,1.5999999999999999,55.56
+Daisy,Senior,Calico,Female,5,4,4,4,4,Yes,1.6,55.56
+Ivy,Young Adult,Gray Tabby,Female,4,3,4,5,3,Yes,1.8,61.11
+Spike,Young Adult,Black,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Sammy,Kitten,Gray Tabby,Male,5,4,4,6,3,Yes,2.3,75.0
+Winter,Mature Adult,Fawn,Male,5,4,3,5,3,Yes,2.0999999999999996,69.44
+Atlas,Mature Adult,Gray and White,Male,4,2,4,5,2,Yes,2.1,69.44
+Tasha,Mature Adult,Gray and White Tabby,Female,5,4,5,5,3,Yes,1.9000000000000001,63.89
+Sylvanas,Kitten,Silver Tabby,Female,4,5,3,4,4,No,1.1,41.67
+Agnes,Mature Adult,Brown and White Tabby,Female,5,4,5,5,2,Yes,2.0,66.67
+Maximus,Senior,Chocolate,Male,5,4,4,4,5,Yes,1.5,52.78
+Gizmo,Mature Adult,Cream Tabby,Female,4,3,4,5,2,Yes,1.9000000000000001,63.89
+Zelda,Kitten,Orange and White,Female,4,3,3,4,4,Yes,1.5,52.78
+Rogue,Mature Adult,Chocolate Tabby,Female,4,4,4,5,5,Yes,1.4,50.0
+Nacho,Young Adult,Cinnamon,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Avery,Young Adult,Black and White,Female,4,5,3,4,4,No,1.1,41.67
+Leo,Young Adult,Cinnamon,Male,4,4,3,4,2,Yes,1.5,52.78
+Binx,Mature Adult,Red,Male,4,3,3,6,3,Yes,2.2,72.22
+Zeke,Senior,White,Male,4,4,3,4,3,Yes,1.4,50.0
+Kimchi,Young Adult,White,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Tulip,Senior,Red Tabby,Female,4,5,4,4,3,No,1.0999999999999999,41.67
+Cash,Mature Adult,Silver Tabby,Male,5,3,3,5,2,Yes,2.3999999999999995,77.78
+Rick,Mature Adult,Chocolate,Male,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Meg,Senior,Orange,Female,5,5,5,5,2,Yes,1.8,61.11
+Mischief,Young Adult,Gray Tabby,Female,5,4,4,5,4,Yes,1.9,63.89
+Cosmo,Young Adult,Silver Tabby,Male,5,4,5,4,5,Yes,1.4,50.0
+Lexi,Mature Adult,Silver Tabby,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Nacho,Young Adult,Red Tabby,Male,4,3,5,5,4,Yes,1.6,55.56
+Remi,Senior,Black,Male,5,4,3,5,4,Yes,2.0,66.67
+Nico,Kitten,Cream Tabby,Male,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Ash,Senior,Red Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Darla,Mature Adult,Dilute Tortoiseshell,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Atticus,Kitten,Chocolate,Male,5,3,5,4,4,Yes,1.6999999999999997,58.33
+Kasumi,Young Adult,Gray,Female,5,4,5,5,4,Yes,1.8000000000000003,61.11
+Nova,Mature Adult,Lilac Tortoiseshell,Female,4,3,4,4,4,Yes,1.4,50.0
+Ruby,Kitten,Silver Tabby,Female,4,4,4,4,3,No,1.3,47.22
+Pistachio,Mature Adult,Brown and White Tabby,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Patch,Kitten,Cream,Male,5,3,4,5,3,Yes,2.2,72.22
+Millie,Kitten,Calico,Female,4,4,2,4,3,Yes,1.5,52.78
+Jinx,Mature Adult,Orange,Male,5,5,4,3,5,No,1.0,38.89
+Boots,Young Adult,Brown and White Tabby,Female,5,3,4,5,2,Yes,2.3,75.0
+Pistachio,Young Adult,Brown and White Tabby,Female,4,3,4,5,2,Yes,1.9000000000000001,63.89
+Tater,Young Adult,Chocolate and White,Male,4,5,4,5,5,No,1.2000000000000002,44.44
+Atticus,Young Adult,Orange and White,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Linguine,Senior,Chocolate,Male,4,2,4,4,4,Yes,1.6,55.56
+Sierra,Kitten,Dilute Tortoiseshell,Female,4,4,5,4,4,No,1.1,41.67
+Betsy,Mature Adult,Fawn,Female,5,4,4,5,3,Yes,1.9999999999999998,66.67
+Bilbo,Kitten,Gray and White Tabby,Male,4,3,3,5,2,Yes,2.0,66.67
+Leo,Mature Adult,Cream Tabby,Male,5,5,5,4,4,No,1.2999999999999998,47.22
+Noodle,Senior,Brown and White Tabby,Male,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Maximus,Kitten,Orange,Male,5,4,3,5,4,Yes,2.0,66.67
+Jasnah,Mature Adult,Orange and White,Female,5,4,4,4,5,Yes,1.5,52.78
+Lucky,Kitten,Gray,Male,4,5,4,4,3,No,1.0999999999999999,41.67
+Beau,Kitten,Black,Male,5,5,4,5,3,Yes,1.8,61.11
+Morty,Senior,Gray and White,Male,3,2,3,5,6,Yes,1.4,50.0
+Binx,Young Adult,White,Male,3,3,2,4,3,No,1.3,47.22
+Blossom,Young Adult,Brown and White Tabby,Female,5,5,3,5,5,Yes,1.7000000000000002,58.33
+Tater,Senior,Brown and White Tabby,Male,5,3,4,5,3,Yes,2.2,72.22
+Hattie,Mature Adult,Torbie,Female,3,2,4,4,5,No,1.1,41.67
+Jasper,Young Adult,Black and White,Male,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Norbert,Mature Adult,Cream,Male,3,5,5,4,4,No,0.5000000000000001,25.0
+Matcha,Kitten,Chocolate Tabby,Female,4,4,4,5,2,Yes,1.7,58.33
+Jasper,Mature Adult,Lilac,Male,4,5,4,3,4,No,0.7000000000000001,30.56
+Ivy,Mature Adult,Tortoiseshell,Female,4,6,3,5,3,No,1.2999999999999998,47.22
+Xena,Young Adult,Dilute Calico,Female,4,4,4,5,4,Yes,1.5,52.78
+Julian,Mature Adult,White,Male,5,4,3,5,2,Yes,2.1999999999999997,72.22
+Nola,Kitten,Dilute Tortoiseshell,Female,5,4,4,5,5,Yes,1.7999999999999998,61.11
+Millie,Young Adult,Black and White,Female,4,4,4,5,4,Yes,1.5,52.78
+Nora,Mature Adult,Dilute Tortoiseshell,Female,5,4,3,4,4,Yes,1.6999999999999997,58.33
+Princess,Mature Adult,Orange,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Flemeth,Kitten,Cream,Female,4,4,4,5,4,Yes,1.5,52.78
+Calypso,Senior,Brown and White Tabby,Female,4,3,4,5,3,Yes,1.8,61.11
+Wanda,Young Adult,Cinnamon,Female,3,5,3,3,2,No,0.6000000000000001,27.78
+Freya,Senior,Silver Tabby,Female,4,4,2,5,2,Yes,1.9000000000000001,63.89
+Apollo,Senior,Cream,Male,5,3,3,5,3,Yes,2.3,75.0
+Alfred,Young Adult,Orange and White,Male,3,5,2,5,2,No,1.3000000000000003,47.22
+Taffy,Young Adult,Chocolate Tabby,Female,5,4,4,4,4,Yes,1.6,55.56
+Jerry,Kitten,Black,Male,5,5,5,5,3,Yes,1.7,58.33
+Blossom,Senior,Black,Female,4,3,3,6,2,Yes,2.3,75.0
+Xena,Kitten,Gray and White,Female,5,5,3,4,4,Yes,1.5,52.78
+Dalinar,Mature Adult,Gray,Male,5,3,3,5,3,Yes,2.3,75.0
+Bianca,Senior,Dilute Tortoiseshell,Female,5,5,4,5,4,Yes,1.7000000000000002,58.33
+Snickers,Senior,Gray Tabby,Female,4,4,3,5,3,Yes,1.7,58.33
+Pumpkin,Senior,Red,Female,4,5,4,3,5,No,0.6000000000000001,27.78
+Rogue,Young Adult,Brown and White Tabby,Female,4,5,4,3,4,No,0.7000000000000001,30.56
+Noodle,Young Adult,Lilac,Male,4,3,3,3,5,No,1.0999999999999999,41.67
+Delphi,Young Adult,Red,Female,5,3,3,3,4,Yes,1.5999999999999996,55.56
+Vesper,Mature Adult,Lilac,Female,4,5,3,4,3,No,1.2,44.44
+Anna,Young Adult,Black,Female,4,4,4,4,5,No,1.1,41.67
+Salem,Kitten,Cream,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Olive,Senior,Gray,Female,5,3,4,4,4,Yes,1.7999999999999998,61.11
+Wrex,Mature Adult,Gray and White Tabby,Male,4,3,3,4,5,Yes,1.4,50.0
+Anders,Senior,Chocolate Tabby,Male,4,2,3,3,5,No,1.3,47.22
+Ivy,Kitten,White,Female,4,6,2,3,3,No,0.7999999999999998,33.33
+Stella,Young Adult,Gray and White Tabby,Female,4,4,4,4,4,No,1.2000000000000002,44.44
+Cricket,Kitten,Gray and White,Male,5,5,5,5,4,Yes,1.6,55.56
+Dora,Young Adult,Orange and White,Female,5,4,3,5,4,Yes,2.0,66.67
+Jasper,Young Adult,Gray and White Tabby,Male,4,5,5,5,3,No,1.3,47.22
+Latte,Young Adult,Lilac,Male,4,3,3,4,5,Yes,1.4,50.0
+Penelope,Mature Adult,Gray and White,Female,4,5,3,4,4,No,1.1,41.67
+Suki,Young Adult,Chocolate and White,Female,4,3,3,3,5,No,1.0999999999999999,41.67
+Zevran,Young Adult,Red Tabby,Male,4,3,4,4,4,Yes,1.4,50.0
+Lucifer,Kitten,Lilac,Male,5,6,3,5,3,Yes,1.6999999999999997,58.33
+Noodle,Mature Adult,Chocolate,Male,4,6,3,3,3,No,0.6999999999999997,30.56
+Cielo,Senior,Chocolate and White,Male,4,4,4,3,3,No,0.9999999999999998,38.89
+Sadie,Mature Adult,Black,Female,4,5,4,5,3,Yes,1.4000000000000001,50.0
+Rasha,Mature Adult,Tortoiseshell,Female,4,6,5,4,4,No,0.6999999999999998,30.56
+Cordelia,Young Adult,Silver Tabby,Female,5,6,5,5,3,Yes,1.4999999999999998,52.78
+Chai,Senior,Dilute Tortoiseshell,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Suki,Young Adult,Chocolate and White,Female,5,4,5,4,3,Yes,1.5999999999999999,55.56
+Nugget,Senior,Black and White,Male,4,3,4,3,3,No,1.2,44.44
+Meg,Young Adult,Tortoiseshell,Female,4,3,3,4,3,Yes,1.5999999999999999,55.56
+Sasha,Senior,Gray and White Tabby,Female,4,3,3,5,2,Yes,2.0,66.67
+Piper,Young Adult,Cream,Female,4,4,3,4,5,No,1.2,44.44
+Avery,Young Adult,Torbie,Female,5,6,5,4,5,No,0.9999999999999998,38.89
+Penny,Mature Adult,Lilac,Female,4,6,4,4,2,No,0.9999999999999998,38.89
+Hendrix,Mature Adult,Gray,Male,4,5,3,3,5,No,0.7,30.56
+Nacho,Mature Adult,Gray,Male,4,5,4,5,4,No,1.3000000000000003,47.22
+Gatsby,Kitten,Chocolate,Male,4,3,3,5,2,Yes,2.0,66.67
+Petunia,Kitten,Chocolate Tabby,Female,4,4,3,5,2,Yes,1.8,61.11
+Arthas,Kitten,White,Male,4,3,2,3,5,No,1.2,44.44
+Cullen,Young Adult,Fawn,Male,4,4,2,4,3,Yes,1.5,52.78
+Sassy,Senior,Cream,Female,3,4,5,4,4,No,0.7000000000000001,30.56
+Chai,Senior,Dilute Tortoiseshell,Female,5,5,3,5,4,Yes,1.8000000000000003,61.11
+Sophie,Senior,Gray and White,Female,4,3,4,4,5,No,1.2999999999999998,47.22
+Finn,Senior,Gray Tabby,Male,5,4,4,6,3,Yes,2.3,75.0
+Garrus,Young Adult,Gray Tabby,Male,4,3,4,5,4,Yes,1.7000000000000002,58.33
+Vikki,Senior,Silver Tabby,Female,4,5,4,4,4,No,0.9999999999999999,38.89
+Meg,Young Adult,Red,Female,5,4,3,5,2,Yes,2.1999999999999997,72.22
+Basil,Senior,Gray and White,Male,3,3,4,3,4,No,0.7000000000000001,30.56
+Axel,Kitten,Black and White,Male,3,6,4,4,3,No,0.4999999999999999,25.0
+Vesper,Senior,Gray and White Tabby,Female,4,6,5,5,4,No,0.9999999999999999,38.89
+Nyxi,Mature Adult,Orange,Female,5,4,4,3,5,No,1.1999999999999997,44.44
+Fiddler,Senior,Chocolate Tabby,Male,4,3,3,4,5,Yes,1.4,50.0
+Tulip,Senior,Dilute Torbie,Female,4,2,3,4,2,Yes,1.9000000000000001,63.89
+Merlin,Kitten,Black and White,Male,5,6,5,4,4,No,1.0999999999999996,41.67
+Kodi,Mature Adult,Cinnamon,Male,4,4,2,4,4,Yes,1.4,50.0
+Dante,Kitten,Gray,Male,4,5,4,4,5,No,0.8999999999999999,36.11
+Clyde,Kitten,Red Tabby,Male,4,4,4,4,4,No,1.2000000000000002,44.44
+Agatha,Mature Adult,Brown and White Tabby,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Morrigan,Kitten,Tortoiseshell,Female,4,6,4,5,3,No,1.2,44.44
+Zevran,Senior,Cinnamon,Male,5,4,3,3,5,No,1.2999999999999998,47.22
+Merlin,Mature Adult,Cream,Male,5,4,4,4,4,Yes,1.6,55.56
+Patch,Senior,Red,Male,4,3,3,5,2,Yes,2.0,66.67
+Clyde,Young Adult,Cream,Male,4,4,1,4,5,Yes,1.4,50.0
+Oreo,Mature Adult,Red Tabby,Male,5,6,4,5,3,Yes,1.5999999999999999,55.56
+Bianca,Mature Adult,Gray,Female,4,4,3,5,3,Yes,1.7,58.33
+Oreo,Senior,Chocolate,Female,5,5,4,5,3,Yes,1.8,61.11
+Misty,Kitten,Chocolate,Female,5,5,4,4,4,Yes,1.4,50.0
+Jinxy,Mature Adult,White,Female,4,4,3,4,3,Yes,1.4,50.0
+Felix,Young Adult,Gray and White,Male,5,4,4,3,5,No,1.1999999999999997,44.44
+Gabe,Senior,Black and White,Male,4,3,3,5,4,Yes,1.8000000000000003,61.11
+Merlin,Kitten,Orange,Male,3,4,2,4,2,No,1.2000000000000002,44.44
+Gatsby,Senior,White,Male,4,4,3,4,4,No,1.2999999999999998,47.22
+Leo,Young Adult,Cream,Male,5,4,2,4,4,Yes,1.8000000000000003,61.11
+Rogue,Senior,Dilute Tortoiseshell,Female,4,4,5,5,2,Yes,1.6,55.56
+Smudge,Young Adult,Lilac,Male,5,4,6,5,3,Yes,1.7999999999999996,61.11
+Jinxy,Senior,Chocolate and White,Female,3,3,3,5,5,No,1.3,47.22
+Rosie,Kitten,Gray and White,Female,3,3,4,4,2,No,1.2,44.44
+Eowyn,Kitten,Dilute Torbie,Female,4,4,4,5,3,Yes,1.5999999999999999,55.56
+Athena,Senior,Orange,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Avi,Young Adult,Red Tabby,Male,3,3,2,4,2,Yes,1.4000000000000001,50.0
+Delphi,Young Adult,Orange and White,Female,4,3,4,5,3,Yes,1.8,61.11
+Liara,Mature Adult,Tortoiseshell,Female,5,5,4,5,3,Yes,1.8,61.11
+Delfina,Young Adult,Chocolate,Female,4,3,3,5,3,Yes,1.9000000000000001,63.89
+Milo,Kitten,Red Tabby,Male,5,6,3,4,4,No,1.2999999999999998,47.22
+Boots,Mature Adult,Chocolate Tabby,Male,4,3,3,4,4,Yes,1.5,52.78
+Maximus,Young Adult,Cream Tabby,Male,4,4,3,5,4,Yes,1.6,55.56
+Maisy,Senior,Black and White,Female,4,3,2,4,4,Yes,1.6,55.56
+Aloy,Young Adult,Cream Tabby,Female,4,4,3,3,4,No,0.9999999999999999,38.89
+Merlin,Mature Adult,Red,Male,3,3,3,5,5,No,1.3,47.22
+Peanut,Young Adult,Cinnamon,Female,5,4,3,4,3,Yes,1.7999999999999996,61.11
+Copurrnicus,Mature Adult,Black,Male,3,5,3,4,3,No,0.8,33.33
+Jerry,Young Adult,Cream Tabby,Male,5,3,4,4,3,Yes,1.8999999999999997,63.89
+Betsy,Mature Adult,Gray,Female,4,4,3,4,4,No,1.2999999999999998,47.22
+Millie,Young Adult,Silver Tabby,Female,4,4,3,5,4,Yes,1.6,55.56
