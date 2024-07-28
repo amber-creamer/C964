@@ -3,3 +3,4 @@ numpy
 ipywidgets
 widgetsnbextension
 seaborn
+jupyterlab_widgets
